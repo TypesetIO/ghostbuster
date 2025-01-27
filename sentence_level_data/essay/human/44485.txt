@@ -1,0 +1,1 @@
+The highest drop was observed to be 14.9% at 25% load, while the decrement was 12.7% under full load.

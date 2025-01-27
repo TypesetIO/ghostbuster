@@ -1,0 +1,1 @@
+In designing a robot, it is necessary to highlight the stage of testing and simulations, which, combined into separate courses, can identify possible drawbacks and errors.

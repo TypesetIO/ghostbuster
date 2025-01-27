@@ -1,0 +1,1 @@
+The interaction between the graphene layers and the VO2 matrix is expected to enhance the overall optical response, potentially leading to applications in photonic devices.

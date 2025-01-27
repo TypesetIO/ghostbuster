@@ -1,0 +1,1 @@
+Moreover, the localization of AE sources is calculated by taking account of arrival time differences of AE signals at different AE sensors. [10]

@@ -1,0 +1,1 @@
+Table 2 summarizes the porous structure design characteristics used for the porous part modeling, and the mechanical properties of the dense and porous parts of the femoral stem.(1) The design starts with the fully dense CAD model of the femoral stem.

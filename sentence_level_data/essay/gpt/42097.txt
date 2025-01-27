@@ -1,0 +1,1 @@
+Computational Fluid Dynamics (CFD) simulations will complement these experiments, providing a detailed analysis of the airflow characteristics and pressure coefficients in scenarios of full blockage, half blockage, and no blockage.

@@ -1,0 +1,1 @@
+It also provides advanced features like physical extraction, which enables the recovery of deleted data and unallocated space.

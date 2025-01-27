@@ -1,0 +1,1 @@
+Furthermore, the dynamic nature of design processes suggests that the relationships between components can evolve, necessitating a flexible modeling approach that accommodates both linear and cyclic interactions.

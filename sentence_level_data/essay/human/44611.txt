@@ -1,0 +1,1 @@
+It will observe that "the only statement on L has the form 'wantfu(x) )'."

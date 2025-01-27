@@ -1,0 +1,1 @@
+We are working on platform development for one of the Siemens Business unit which can be used as a global product and can also be used as a platform for future building technology applications.

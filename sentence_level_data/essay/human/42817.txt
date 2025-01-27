@@ -1,0 +1,1 @@
+Trace fear conditioning, like standard ''delay'' fear conditioning, requires the association of a neutral conditional stimulus (CS) and an aversive unconditional stimulus (UCS).

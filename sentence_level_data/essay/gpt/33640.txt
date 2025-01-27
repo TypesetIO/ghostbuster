@@ -1,0 +1,1 @@
+The distributed nature of Hadoop ensures that if one node fails, the workload is automatically transferred to another node in the cluster.

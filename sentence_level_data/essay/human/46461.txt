@@ -1,0 +1,1 @@
+That algorithm is referred to as a Canny algorithm [17] where this algorithm acts like an optimal edge detector.

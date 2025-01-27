@@ -1,0 +1,1 @@
+We identified each metagenome's HK proteins using two Pfam conserved domains ("CD") and then extracted just the sensory domain from each protein using Pfam sensor domain annotations.

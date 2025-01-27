@@ -1,0 +1,1 @@
+Eldesousky et al. [219] report a discrepancy in the behavior of auxetic cubic samples, specifically noting that a structure with approximately 84% porosity displays a higher Young's modulus compared to another sample with a nearly identical porosity level of approximately 83%.

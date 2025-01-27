@@ -1,0 +1,1 @@
+Another review article presented the development of sensors for the detection/localization of fruit; it also described the AI-based classification methods and highlighted loopholes in those approaches (Gongal et al., 2015) .

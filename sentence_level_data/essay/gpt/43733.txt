@@ -1,0 +1,1 @@
+The feedback loop established by the encoders allows for continuous monitoring of the wheel velocities, which is essential for maintaining the desired trajectory of the robot.

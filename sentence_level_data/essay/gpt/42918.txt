@@ -1,0 +1,1 @@
+A non-significant Chi-square value indicates a good fit, while CFI values above 0.90 and RMSEA values below 0.08 are generally considered acceptable thresholds for model adequacy (Hu & Bentler, 1999).

@@ -1,0 +1,1 @@
+This observation further illustrates that the impeller zone is very important for the mixing process, suggesting that modeling of anisotropic turbulence is especially crucial for prediction of the overall mixing performance of stirred tanks.

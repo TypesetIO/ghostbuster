@@ -1,0 +1,1 @@
+One promising avenue is the integration of machine learning techniques, which have shown potential in identifying and correcting systematic biases in remote sensing data (Zhang et al., 2019).

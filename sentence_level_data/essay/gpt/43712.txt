@@ -1,0 +1,1 @@
+To further enhance energy efficiency in wireless sensor networks (WSNs), it is essential to explore advanced techniques that can optimize both data transmission and processing.

@@ -1,0 +1,1 @@
+For instance, neural networks can be trained to identify patterns in data that traditional methods may overlook, leading to more efficient encoding strategies [Author, Year].

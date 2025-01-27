@@ -1,0 +1,1 @@
+However, the existing studies are limited to superficial textual characteristics such as stop word ratio and sentence length, with no semantic interpretation.

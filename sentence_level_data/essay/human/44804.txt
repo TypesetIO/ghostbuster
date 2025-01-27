@@ -1,0 +1,1 @@
+The Gini coefficient draws on Lorentz curve estimations.

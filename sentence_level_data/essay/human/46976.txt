@@ -1,0 +1,1 @@
+We find that for HRL, the average #Categories/#Courses of the revised profiles is 0.73 and that for the one-level RL is 0.75, which indicates that the revised profiles by the proposed HRL are more consistent (The larger the value is, the more diverse a profile is).

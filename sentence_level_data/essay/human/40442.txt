@@ -1,0 +1,1 @@
+First, we show the effects of a finite phonon lifetime by using Eq. 9 instead of Eq. 8 in evaluating the spin relaxation rate.

@@ -1,0 +1,1 @@
+As a result, the defect detection accuracy of the YOLO algorithm is significantly enhanced, aligning it with the factory's stringent requirements for wood defect detection accuracy.

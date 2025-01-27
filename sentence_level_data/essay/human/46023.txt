@@ -1,0 +1,1 @@
+If there is an abrupt and notable shift in the measured value, it can indicate the possibility of a malfunction or failure in the voltage sensor [50, 51] .

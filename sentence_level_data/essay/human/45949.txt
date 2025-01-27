@@ -1,0 +1,1 @@
+The seven basic elements are (i)Self Organized, Cross Function Collocated Team,(ii)Shorter Iterations of work called "Sprint",(iii)Continuous Monitoring of Progress via "Daily Scrum",(iv)Shippable product every month,(v)Monthly re-evaluation of project goal,(vi) Lean Documentation, (vii) Continuous Integration.

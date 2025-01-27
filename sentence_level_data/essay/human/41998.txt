@@ -1,0 +1,1 @@
+This model component is based on previous models that explain attention as an emergent result of neural dynamics, rather than postulating brain circuits that exclusively compute attention (Hamker, 2003 (Hamker, , 2005b;; Zirnsak et al., 2011) and is inspired by biased competition (Desimone & Duncan, 1995) and feature-similarity (Treue, 2001 ) frameworks of attention.

@@ -1,0 +1,1 @@
+In addition, although in sentiment analysis research the objective is to mine opinions related to specific artefacts and the valence of emotions triggered by these artefacts, adaptations in software engineering arbitrarily assume a unidirectional causal relationship from negative team emotions to negative effects on the performance of a collaborative project.

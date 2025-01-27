@@ -1,0 +1,1 @@
+Initially, this technology was developed as a fundamentally new way of working with data that would not be subject to retroactive modification.

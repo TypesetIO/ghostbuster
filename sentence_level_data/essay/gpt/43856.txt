@@ -1,0 +1,1 @@
+One promising avenue is the implementation of surrogate modeling techniques, which can approximate the results of high-fidelity simulations without incurring the full computational cost.

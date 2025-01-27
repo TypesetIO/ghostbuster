@@ -1,0 +1,1 @@
+The last term can also be eliminated by making the replacement M → Mexp(-t/T 2 ) yielding,

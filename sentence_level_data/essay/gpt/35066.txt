@@ -1,0 +1,1 @@
+This redundancy provides robustness to the genetic code and protects against potentially deleterious mutations.

@@ -1,0 +1,1 @@
+Sound arguments are deductive arguments that not only possess a valid logical form but also contain true premises.

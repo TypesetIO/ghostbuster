@@ -1,0 +1,1 @@
+There are many attributes ofIoT implementation; however, they face many security challenges; ther efore, ensuring security in loT networks is crucial; otherwise, users may be reluctant to use loT technology.

@@ -1,0 +1,1 @@
+Additionally, the integration of R with other programming languages, such as Python and C++, allows for hybrid solutions that leverage the strengths of each language, thus broadening the scope of data analysis capabilities (Hackenberger, 2020).

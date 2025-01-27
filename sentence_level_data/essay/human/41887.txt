@@ -1,0 +1,1 @@
+Romani et al. [20] developed and validated heating and cooling energy demand meta-models for single-family houses.

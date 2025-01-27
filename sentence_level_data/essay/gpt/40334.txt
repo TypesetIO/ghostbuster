@@ -1,0 +1,1 @@
+Additionally, the complexity of concrete as a composite material introduces variability in the acoustic response, making it difficult to establish standardized thresholds for damage assessment [63].

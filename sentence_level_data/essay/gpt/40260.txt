@@ -1,0 +1,1 @@
+This temperature dependence introduces a complex dynamic where the spin relaxation rate not only becomes a function of temperature but also of the phonon density of states, which can exhibit non-trivial behavior in low-dimensional systems.

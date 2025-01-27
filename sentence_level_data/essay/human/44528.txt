@@ -1,0 +1,1 @@
+Sagittal view with vertical lines indicating the position range where coronal sections were acquired.

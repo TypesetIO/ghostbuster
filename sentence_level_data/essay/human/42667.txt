@@ -1,0 +1,1 @@
+There are 24,553 malware samples categorized into 71 families gathered from 2010 to 2016 in the dataset.

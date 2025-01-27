@@ -1,0 +1,1 @@
+As such, representativeness errors of different data sets may be correlated even if the products are otherwise independent.

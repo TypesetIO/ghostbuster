@@ -1,0 +1,3 @@
+Please enter human-readable name:
+Amaranth
+Please choose base character appearance.

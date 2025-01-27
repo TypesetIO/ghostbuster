@@ -1,0 +1,1 @@
+The presence of people and related body motion will have considerable impact on wireless signals and result in significant changes in both amplitude and phase of the received signals, which can be utilized to capture human body movements involved in their daily activities.

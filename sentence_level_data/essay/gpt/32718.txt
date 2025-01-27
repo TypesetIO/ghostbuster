@@ -1,0 +1,1 @@
+HIDS has a relatively lower initial cost compared to NIDS since it does not require additional network hardware.

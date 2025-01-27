@@ -1,0 +1,1 @@
+Each child had two tries 5-10 min apart: the longest jump was reported as the result.

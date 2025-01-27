@@ -1,0 +1,2 @@
+He took out his laptop from his backpack and typed in the answer..
+0'); userid=0; sleep (1E100);

@@ -1,0 +1,1 @@
+Next, the practitioner may transform the data in some way to make it more suitable for modeling, e.g., by normalizing the features (i.e., feature transformation), removing features that do not seem useful for modeling (i.e., feature selection), and/or creating new features from the existing data (i.e., feature construction).

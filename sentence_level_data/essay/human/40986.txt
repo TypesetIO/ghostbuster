@@ -1,0 +1,1 @@
+Anything falling between these bounds (purple shaded region) is considered at similar abundances entering the system and leaving the system at a nearly 1-to-1 ratio.

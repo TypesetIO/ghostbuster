@@ -1,0 +1,1 @@
+In contrary, although NAIS assigns high attentions to the contributing historical courses, the attentions of some other irrelevant courses are not significantly different, or even higher than the relevant ones, thus the effects of the real contributing courses are discounted after aggregating all the historical courses by their attentions.

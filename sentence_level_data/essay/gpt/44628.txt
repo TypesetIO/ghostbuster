@@ -1,0 +1,1 @@
+Furthermore, we observed that the use of dilated convolutions in the ResNet and ResNeXt architectures improved the model's ability to detect objects at varying scales, which is particularly beneficial in scenarios involving diverse object sizes [Author, Year].

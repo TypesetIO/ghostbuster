@@ -1,0 +1,1 @@
+Additionally, the integration of deep learning techniques has shown promise in improving the accuracy of activity recognition by automatically extracting relevant features from the raw RF data, thus reducing the need for manual feature engineering [Author, Year].

@@ -1,0 +1,1 @@
+There are some hybrid approaches proposed to perform the combination of safety and security analysis [95] using component fault trees and attack trees, where both the qualitative and quantitative analysis have been done.

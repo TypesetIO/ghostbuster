@@ -1,0 +1,1 @@
+Since the course design is dedicated to the ability of a robot to avoid real obstacles in a condition of a simulation, it is important to emphasize the presence of sensor component options.

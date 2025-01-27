@@ -1,0 +1,1 @@
+The y-axis in each plot corresponds to measurement in pixels, and the scale varies across the plots for illustration purposes.

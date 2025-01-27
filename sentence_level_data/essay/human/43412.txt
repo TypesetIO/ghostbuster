@@ -1,0 +1,1 @@
+The twisting can considerably reduce the maximum across-wind response of tall buildings (Xie, 2014) . Chakraborty et al. (2014) presented the results of comparative experimental (wind tunnel) and numerical (CFD) studies on '+' plan shaped tall building.

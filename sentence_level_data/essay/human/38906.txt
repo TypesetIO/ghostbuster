@@ -1,0 +1,1 @@
+In logic, an argument is valid only when it has a form that makes it impossible for the premises to be correct and the judgment to be wrong.

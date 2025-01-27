@@ -1,0 +1,1 @@
+Finally, the approaches presented in the state of the art above as well as in Table 1 aim to meet the requirements of energy-efficient buildings, either absolutely or partially, through a significant fit between the different design variables.

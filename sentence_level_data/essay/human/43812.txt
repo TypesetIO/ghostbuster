@@ -1,0 +1,1 @@
+But here, the HOG module is utilized for data pre-processing and feature extraction, while the SVM module is used to classify the extracted features into ASL.

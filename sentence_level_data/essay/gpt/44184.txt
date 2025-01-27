@@ -1,0 +1,1 @@
+Furthermore, the integration of time-varying covariates into the Cox model has been a significant advancement, allowing researchers to account for changes in covariate effects over time, which is particularly relevant in longitudinal studies [Therneau, 2015].

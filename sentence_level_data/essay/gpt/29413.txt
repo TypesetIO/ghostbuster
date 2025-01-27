@@ -1,0 +1,1 @@
+It also avoids the complexity associated with irregular sampling patterns.

@@ -1,0 +1,1 @@
+Moreover, the use of energy harvesting techniques, such as solar or kinetic energy, can provide a sustainable power source for sensor nodes, reducing reliance on traditional battery systems [21].

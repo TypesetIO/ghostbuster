@@ -1,0 +1,1 @@
+During processing an image, the size of a sampled image is presented as a digital value (Torii, 2018).

@@ -1,0 +1,1 @@
+First, we develop a simple yet effective feature extractor model with a convolutional neural network (CNN) as a backbone.

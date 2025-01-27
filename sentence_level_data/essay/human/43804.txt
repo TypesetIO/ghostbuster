@@ -1,0 +1,1 @@
+HPLC conditions were adapted from Bily et al. (2004) .

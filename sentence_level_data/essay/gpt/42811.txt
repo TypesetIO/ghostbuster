@@ -1,0 +1,1 @@
+While crack and seat, as well as break and seat methods, provide viable options for mitigating reflection cracking, their effectiveness can be influenced by various factors, including the existing pavement condition and environmental conditions.

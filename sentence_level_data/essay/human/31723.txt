@@ -1,0 +1,1 @@
+The key resource types needed to hold the event include human resources, supplies, equipment, facilities, software, modeling tools, and organization structures.

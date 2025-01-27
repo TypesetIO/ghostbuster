@@ -1,0 +1,1 @@
+If a subsystem experiences an opencircuit fault, the multilevel converter's output performance may degrade due to the mismatch between the required output modes and the actual output voltage of the affected subsystem [27] [28] [29] .

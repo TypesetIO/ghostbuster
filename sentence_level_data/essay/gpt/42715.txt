@@ -1,0 +1,1 @@
+The results indicated a significant improvement in classification accuracy, particularly for the malignant cases, which were previously underrepresented in the training data.

@@ -1,0 +1,2 @@
+Security
+Since most of Farcargo’s operations will be conducted online, security emphasis should be placed as most of its data will be available in the system.

@@ -1,0 +1,1 @@
+However, of the 50 most abundant OTUs, 10 had at least one season with more than a 1-log difference between gene and transcript copy numbers, while 5 showed higher than 1-log differences between gene and transcript copy numbers over multiple seasons.

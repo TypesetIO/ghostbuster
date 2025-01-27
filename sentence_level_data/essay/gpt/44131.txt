@@ -1,0 +1,1 @@
+The proposed hybrid Intrusion Detection System (IDS) aims to enhance the detection accuracy and response time by utilizing a combination of supervised and unsupervised learning techniques.

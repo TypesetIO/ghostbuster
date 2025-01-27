@@ -1,0 +1,1 @@
+Before building a model of the data, the practitioner must ensure that the data is ready for modeling by performing an initial exploratory analysis (e.g., looking for missing or mislabeled data) and either correct or remove the offending records (i.e., data cleaning).

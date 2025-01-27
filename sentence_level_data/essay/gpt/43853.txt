@@ -1,0 +1,1 @@
+Therefore, ongoing research is essential to develop hybrid approaches that combine traditional methods with machine learning to achieve a more comprehensive and effective fault diagnosis framework in power electronics systems [55, 56].

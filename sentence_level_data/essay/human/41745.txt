@@ -1,0 +1,1 @@
+The time interval between the addition of the tracer (250 g/L NaCl) and the moment when the instantaneous conductivity at a specific monitoring position reaches within 95% of its final value is defined as the mixing time (t m ).

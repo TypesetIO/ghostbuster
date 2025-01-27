@@ -1,0 +1,1 @@
+This real-time data is processed by the PID Controller, which adjusts the motor power dynamically to minimize the error between the target and actual velocities.

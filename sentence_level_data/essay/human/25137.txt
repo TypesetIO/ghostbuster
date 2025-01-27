@@ -1,0 +1,6 @@
+*Enhanced behavior prediction modeling*
+*Military tactical modeling*
+*Enhanced exoskeleton speed and strength*
+*Do you consent to the promotion (Yes/No/postpone) *
+* ‘ No'will result in immediate retirement from Judicial Corps*
+*Postponement will postpone promotion for one hour, you are allowed a single postponement*

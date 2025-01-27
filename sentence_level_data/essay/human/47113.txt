@@ -1,0 +1,1 @@
+The module stops at M2 instead of M1 because the spatial resolution gets too big, slowing the training process significantly.

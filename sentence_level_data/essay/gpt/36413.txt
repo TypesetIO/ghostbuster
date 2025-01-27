@@ -1,0 +1,1 @@
+For example, using BI tools, healthcare organizations can analyze data on fall-related injuries to identify trends, such as specific units with higher fall rates or specific times of the day with increased fall incidents.

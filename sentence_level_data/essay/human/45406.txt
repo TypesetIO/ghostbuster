@@ -1,0 +1,1 @@
+This is a key assumption when modeling the effort of change propagation on the project level rather than on the design task level where cyclic paths between tasks might exist as a form of iterations.

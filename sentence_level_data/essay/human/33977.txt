@@ -1,0 +1,1 @@
+Moreover, in this simulation, a robot’s performance is scored and analyzed in a scoring system, which collects and sorts data.

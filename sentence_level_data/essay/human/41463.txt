@@ -1,0 +1,1 @@
+Liu et al. [18] utilized multi-cell tubes and lattice structures to improve their collision resistance, and studied a new type of multi-unit thin-walled tube filled with uniformly graded lattice structure.

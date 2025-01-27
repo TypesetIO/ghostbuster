@@ -1,0 +1,1 @@
+Furthermore, the incorporation of multispectral and hyperspectral imaging in conjunction with DL models has been proposed to enhance the detection of plant health and stress indicators, which are critical for precision agriculture [Author, Year].

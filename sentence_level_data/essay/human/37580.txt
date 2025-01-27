@@ -1,0 +1,1 @@
+The Farcargo system structure is made up of hardware, software, and databases.

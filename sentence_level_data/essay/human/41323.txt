@@ -1,0 +1,1 @@
+Sensor nodes generally operate in unsafe environments (Culler et al., 2004) , and monitor critical data relevant to applications with implications that may affect hundreds to thousands of individuals.

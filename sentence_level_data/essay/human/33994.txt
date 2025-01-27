@@ -1,0 +1,1 @@
+It is conceivable to use a “real-world” simulation as a basic design strategy for creating an obstacle course that can test the autonomy of simple robots.

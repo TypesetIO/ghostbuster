@@ -1,0 +1,1 @@
+Techniques such as bagging and boosting have been shown to significantly improve accuracy by reducing variance and bias, respectively.

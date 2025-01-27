@@ -1,0 +1,1 @@
+The evaluation of predictive capabilities in genome-scale reconstructions not only highlights the accuracy of metabolic models but also underscores the importance of comprehensive data integration for model validation.

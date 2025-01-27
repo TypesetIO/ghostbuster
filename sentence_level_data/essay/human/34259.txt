@@ -1,0 +1,1 @@
+Moreover, AI finds such interdependencies that a person cannot build, because there is no direct connection between the data, and the amount of data is huge.

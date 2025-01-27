@@ -1,0 +1,1 @@
+The bottom-up section is responsible for the convolutions and generation of the feature maps, and the most used structure is the ResNets [120] or ResNeXts [121] with five convolutional modules (C1, C2, C3, C4, and C5).

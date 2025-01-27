@@ -1,0 +1,1 @@
+Security is an essential element to maintain during the system implementation process (Mahamad et al., 2018).

@@ -1,0 +1,1 @@
+They act as an observer, not constrained by the official framework.

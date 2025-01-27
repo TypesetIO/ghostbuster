@@ -1,0 +1,1 @@
+Furthermore, the design of the overlay must consider traffic loading conditions, as heavier loads can lead to increased stress on the pavement structure, potentially leading to premature failure.

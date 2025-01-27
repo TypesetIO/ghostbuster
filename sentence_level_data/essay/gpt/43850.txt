@@ -1,0 +1,1 @@
+HIL simulations can provide valuable insights into the performance of diagnostic methods under various fault conditions, enabling the refinement of algorithms to enhance their robustness and accuracy.

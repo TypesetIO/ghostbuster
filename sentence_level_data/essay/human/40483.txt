@@ -1,0 +1,1 @@
+I 2 was higher in Sensitivity Analysis 1b, which included a study (Vert et al. 2017) that we considered at high risk of bias due to the overly restrictive eligibility criteria of the wider cohort study within which this study was nested (excluding participants with major depressive disorder at study enrollment).

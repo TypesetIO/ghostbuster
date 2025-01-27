@@ -1,0 +1,1 @@
+Recent studies have explored the integration of machine learning algorithms into IDS frameworks to enhance their ability to detect anomalies and reduce false positive rates (Khan et al., 2022).

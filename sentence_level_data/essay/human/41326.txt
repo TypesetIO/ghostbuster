@@ -1,0 +1,1 @@
+As a result, a multi-resolution and multi-dimensional view of the environment being monitored by the sensor nodes is presented.

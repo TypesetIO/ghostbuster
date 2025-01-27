@@ -1,0 +1,1 @@
+However, note that the harmonic lattice case yields an upper limit to the spin relaxation time.

@@ -1,0 +1,1 @@
+The obtained results aim to indicate items whose purchase and storage in the warehouse is the most or the least beneficial for companies.

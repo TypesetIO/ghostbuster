@@ -1,0 +1,1 @@
+The impeller zone is the main source of anisotropic turbulence in stirred tanks, where the agitation power is transferred into the tank.

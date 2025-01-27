@@ -1,0 +1,1 @@
+NADH (not shown) donates electrons to Flavin mononucleotide (FMN), and FADH 2 donates electrons to an iron-sulfur complex (FeS), which donates them to ubiquinone (Q).

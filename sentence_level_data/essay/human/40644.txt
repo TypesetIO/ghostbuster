@@ -1,0 +1,1 @@
+El valor obtenido debe ser inferior a 4 V / espira, para que el equipo sea aceptable.•

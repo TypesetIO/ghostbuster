@@ -1,0 +1,1 @@
+By providing near-real-time feedback, Android Studio empowers developers to iterate quickly and fix issues in a timely manner, ultimately leading to a higher quality final application.

@@ -1,0 +1,1 @@
+Functionality and requirements risks can be discovered by matching the product against its requirements for it, as well as through testing during specific project milestones.

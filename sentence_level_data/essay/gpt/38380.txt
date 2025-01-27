@@ -1,0 +1,1 @@
+By leveraging geofencing technology, the Ecobee Smart Thermostat can detect when users are leaving or returning home based on the location of their smartphones.

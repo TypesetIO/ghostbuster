@@ -1,0 +1,1 @@
+This heterogeneity necessitates the creation of adaptive IDS that can learn and evolve with the changing landscape of IoT devices and their associated threats.

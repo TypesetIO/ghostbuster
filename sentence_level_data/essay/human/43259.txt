@@ -1,0 +1,1 @@
+Also, the low-light images are prone to have additional noise (Wang et al., 2020) .Hence, high-quality images cannot be obtained under low-light conditions that affect the performance of computer vision applications like object detection, recognition, segmentation and classification (Ai and Kwon, 2020) .

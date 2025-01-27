@@ -1,0 +1,1 @@
+These weights ranged from 0.1 to 0.4 for the earliest and most recent months respectively.

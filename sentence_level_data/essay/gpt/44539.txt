@@ -1,0 +1,1 @@
+Preliminary results indicate that the removal of the high-level task leads to a significant drop in the consistency of the profiles, as evidenced by a decrease in the average #Categories/#Courses metric to 0.62.

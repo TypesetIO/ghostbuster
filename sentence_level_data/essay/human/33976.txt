@@ -1,0 +1,1 @@
+What concerns a “real-world” simulation, this testing concept is based on the assessment of how efficiently a robot is able to avoid obstacles and solve issues in practical and real circumstances, as in Figure 1 (Pandey et al., 2019).

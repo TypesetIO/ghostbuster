@@ -1,0 +1,1 @@
+Changes in the BP and HR are crucial factors in diagnosing cardiovascular disease (CVD) [1] , and the measured BP and HR can provide physicians with valuable information.

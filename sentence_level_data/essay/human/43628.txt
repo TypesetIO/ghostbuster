@@ -1,0 +1,1 @@
+Patients could have discontinued one, two, or all agents for a given adverse event.§

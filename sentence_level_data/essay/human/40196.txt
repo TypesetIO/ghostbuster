@@ -1,0 +1,1 @@
+Ito key ingredient is the notion of locality-sensitive hashing which may be of independent interest; we give applications to information retrieval, pattern recognition, dynamic closest-pairs, and fast clustering.

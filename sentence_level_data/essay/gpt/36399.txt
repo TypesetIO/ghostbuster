@@ -1,0 +1,1 @@
+It utilizes various mathematical and statistical models to simulate different scenarios and evaluate their potential outcomes.

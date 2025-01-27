@@ -1,0 +1,1 @@
+This is not unexpected, given the fact that a Lorentzian profile has longer tails than the Gaussian one used to simulate a d-like function (see Materials and Methods).

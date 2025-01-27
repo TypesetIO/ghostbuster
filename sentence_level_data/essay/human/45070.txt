@@ -1,0 +1,1 @@
+However, these methods are not feasible for patients who require continuous and realtime HR measurement [4] - [6] .Photoplethysmography (PPG), which is a low-cost and noninvasive continuous measurement technology, has been widely used in medical research in recent years and has been increasingly applied in wearable devices [7] .

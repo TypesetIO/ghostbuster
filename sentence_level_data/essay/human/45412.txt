@@ -1,0 +1,1 @@
+In that case, the corresponding linkage values between the network elements would be lower than the project-view based values.

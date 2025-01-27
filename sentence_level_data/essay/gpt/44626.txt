@@ -1,0 +1,1 @@
+Preliminary results indicated that while ResNeXt101-FPN achieved the highest mAP, it also required significantly more computational resources compared to ResNet50-FPN.

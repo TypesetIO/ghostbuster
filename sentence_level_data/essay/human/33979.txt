@@ -1,0 +1,2 @@
+Figure 1. Testing autonomy: ideal trajectory of robot navigation between obstacles
+Referring to the technical characteristics and components, the robot will include chassis, wheels, motors, motherboards, a proportional integrative derivative controller, and a microprocessor that will allow the robot to execute a program.

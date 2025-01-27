@@ -1,0 +1,1 @@
+In addition, it can be adjusted to reflect the changes in sales trend by adjusting the weights to give the requisite importance to the recent months.

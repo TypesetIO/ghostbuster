@@ -1,0 +1,1 @@
+Estimating whether a study has controlled for less or more than 80% (or 60%) of relevant confounders is similarly challenging and inherently somewhat subjective, particularly given incomplete scientific knowledge about causal relationships between some potential confounders, PM, and the different outcomes assessed.

@@ -1,0 +1,1 @@
+As databases host vast amounts of sensitive student information, any breach can lead to severe consequences, including identity theft and academic fraud.

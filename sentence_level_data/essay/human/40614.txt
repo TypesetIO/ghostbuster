@@ -1,0 +1,1 @@
+Los valores de la tensión soportada indicados en dichas tablas, corresponden a las condiciones atmosféricas normales de referencia (temperatura, presión y humedad) especificadas en la publicación IEC 60071-1 (1993) y mencionadas en los Capítulos 3, Coordinación de aislamiento, y 16, Pruebas y puesta en servicio.

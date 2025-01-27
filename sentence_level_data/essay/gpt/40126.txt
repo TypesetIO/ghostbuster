@@ -1,0 +1,1 @@
+These techniques can be particularly beneficial when combined with LSH, as they allow for the creation of hash functions that maintain proximity relationships among points in the reduced space.

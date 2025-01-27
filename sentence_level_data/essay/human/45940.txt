@@ -1,0 +1,1 @@
+Compared to plan-driven software development approaches, agile methods are more flexible when it comes to taking requirements' changes into consideration during all phases of software development [2] .

@@ -1,0 +1,1 @@
+Gene expression profiling was conducted using quantitative real-time PCR to evaluate the expression of key genes involved in lipid metabolism, inflammation, and fibrosis, such as SREBP-1c, TNF-α, and TGF-β.

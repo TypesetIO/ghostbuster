@@ -1,0 +1,1 @@
+Chen et al. [15] presented an improved approach based on the Longest Common Subsequence and semantic similarity for automatic diagnoses, their method can increase the accuracy of processing in Chinese disease mapping.

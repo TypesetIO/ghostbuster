@@ -1,0 +1,1 @@
+Recent studies have explored machine learning approaches to classify these variations, leveraging large datasets of RF signal patterns associated with specific activities [Author, Year].

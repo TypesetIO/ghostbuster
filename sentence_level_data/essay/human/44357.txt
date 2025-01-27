@@ -1,0 +1,1 @@
+The earlier studies estimate MPI with equal weights for all dimensions and ignore the sensitivity of MPI towards different weighting schemes.

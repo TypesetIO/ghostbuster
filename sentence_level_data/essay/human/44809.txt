@@ -1,0 +1,1 @@
+Note that the Gini coefficient or poverty rate for each country is not always compatible with the year in which the survey was fielded in that particular country given missing information.

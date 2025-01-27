@@ -1,0 +1,1 @@
+Suarez-Tangil et al. [2014] adopted the techniques in text mining and information retrieval field such as the standard Vector Space Model to characterize the Android malware family.

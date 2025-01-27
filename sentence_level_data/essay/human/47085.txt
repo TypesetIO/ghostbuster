@@ -1,0 +1,1 @@
+This configuration can reduce form drag by increasing wetted aspect ratio, increase spanwise efficiency by using lifting fuselage, and reduce the interference drag by smoothly blended the wing and the body [2] .

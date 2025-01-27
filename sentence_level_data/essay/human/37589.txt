@@ -1,0 +1,1 @@
+The Farcargo information system shall require the development of a website, a desktop application, and an android application.

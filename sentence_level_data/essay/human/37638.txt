@@ -1,0 +1,4 @@
+* Proposed Development Language:
+      + Android for Android App;
+      + MBaaS (Firebase) as backend/server;
+      + PHP will be used as the server-side scripting language for data parsing to and from JSON (JavaScript Object Notation).

@@ -1,0 +1,1 @@
+Furthermore, the scalability of RF-based solutions in diverse environments remains an area of active research, as variations in building materials and layouts can significantly affect signal propagation and, consequently, the accuracy of activity recognition.

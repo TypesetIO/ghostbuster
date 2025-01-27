@@ -1,0 +1,1 @@
+The flow in the tank is assumed as an isothermal process with no mass transfer between phases and chemical reactions.

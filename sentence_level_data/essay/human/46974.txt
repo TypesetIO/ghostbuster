@@ -1,0 +1,1 @@
+We compare the proposed HRL with an one-level RL algorithm, which only uses the low-level task to directly decide to remove each course or not.

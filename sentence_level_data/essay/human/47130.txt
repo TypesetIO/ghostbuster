@@ -1,0 +1,1 @@
+The coefficients of "lnEX" and "(lnEX) 2 " are both negative at the 1% significant level, so the nonlinear effect of export on NO x emissions presented an "inverse-U 00 shape (Fig. 5 ).

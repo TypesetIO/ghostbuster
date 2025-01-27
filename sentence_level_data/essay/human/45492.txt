@@ -1,0 +1,1 @@
+The cyclic variability, which is a measure of combustion stability, can be characterized by calculating the coefficient of variation (COV) of the indicated mean effective pressure (IMEP) and the peak pressure.

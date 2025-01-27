@@ -1,0 +1,1 @@
+This is also a crucial resource that the event will use to provide services.

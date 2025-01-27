@@ -1,0 +1,1 @@
+Afterward, the practitioner must select a machine learning model to fit to the data (i.e., model selection) and select the model parameters that allow the model to make the most accurate classification from the data (i.e., parameter optimization).

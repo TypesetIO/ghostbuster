@@ -1,0 +1,1 @@
+By monitoring current weather and predicting future conditions, the device anticipates changes in temperature and adjusts accordingly.

@@ -1,0 +1,3 @@
+Body:
+1. Traditional Methods:
+   a. Hotwiring: A classic method, commonly associated with older vehicles lacking advanced immobilization systems, involves bypassing the ignition and starting the car without a key.

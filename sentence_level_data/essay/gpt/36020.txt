@@ -1,0 +1,1 @@
+Each division has its own performance metrics, allowing management to evaluate the success or failure of individual divisions.

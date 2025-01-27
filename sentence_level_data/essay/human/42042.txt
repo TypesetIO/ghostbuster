@@ -1,0 +1,1 @@
+Since the BWB cannot be decomposed into a wing and fuselage that can be designed and analyzed with relative independence, balancing the aircraft is a more complex and time-consuming process than the simple wing shift that would be required for a conventional transport.

@@ -1,0 +1,1 @@
+We then checked the APK files using VirusTotal [vt 2019] to determine whether they were benign or malicious.

@@ -1,0 +1,1 @@
+Many machine learning classifiers like decision tree (DT), random forest (RF), Knearest neighbour (KNN) and logistic regression (LR) and optimisation algorithms like PSO, Firefly algorithm (FA), GA has been applied for heart and liver disease prediction.

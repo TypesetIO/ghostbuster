@@ -1,0 +1,1 @@
+For instance, Zhang et al. demonstrated that machine learning models could effectively classify AE signals associated with different types of concrete damage, thereby improving the reliability of monitoring systems [65].

@@ -1,0 +1,1 @@
+On the other hand, NIDS can be deployed centrally on a network segment or firewall, which reduces the effort required for deployment and maintenance.

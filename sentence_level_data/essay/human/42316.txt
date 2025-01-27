@@ -1,0 +1,1 @@
+Aerobic fitness was estimated from the running distance in the YYIR1C test by the equation: VO 2 max=0.0116x+42.3mL/min/kg, as described by Ahler et al. 20

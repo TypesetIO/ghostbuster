@@ -1,0 +1,1 @@
+It is because P2 is located in the impeller stream, where the liquid velocity and turbulence are higher and the tracer can be convected and dispersed to other regions more quickly.

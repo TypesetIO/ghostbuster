@@ -1,0 +1,2 @@
+The dna compiler will, given a creation-dev-ice of at least version 2.7.4, compile a
+genome from one or multiple.

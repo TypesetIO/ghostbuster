@@ -1,0 +1,1 @@
+The first step in designing an obstacle course simulation is to identify the key objectives the robot aims to achieve.

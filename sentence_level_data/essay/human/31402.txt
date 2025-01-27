@@ -1,0 +1,1 @@
+The most common ones are stated to be mathematical models, Simple multi-attribute rating technique (SMART), analytic network process (ANP), analytic hierarchy process (AHP), data envelopment analysis (DEA), linear programming, and some others.

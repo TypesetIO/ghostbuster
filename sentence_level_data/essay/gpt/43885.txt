@@ -1,0 +1,1 @@
+For instance, the syntax $("#myButton").on("click", function() { // code to execute }); enables the execution of specific code when the button with the ID "myButton" is clicked.

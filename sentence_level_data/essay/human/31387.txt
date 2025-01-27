@@ -1,0 +1,1 @@
+As far as I know, the real size of a country differs from the size illustrated by the Mercator projection.

@@ -1,0 +1,1 @@
+From an energy consumption perspective, sufficient cooling energy can be stored (in terms of low temperatures) from the night ambient air in the PCM and retrieved during the daytime by using a fan.

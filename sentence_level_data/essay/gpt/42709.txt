@@ -1,0 +1,1 @@
+Specifically, we applied geometric transformations such as rotation, flipping, and scaling to the benign and malignant patches, thereby artificially increasing the diversity of our training data.

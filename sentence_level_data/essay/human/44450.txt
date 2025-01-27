@@ -1,0 +1,1 @@
+While reducing slab size reduces movement and the potential for reflection cracking, it decreases the slab stiffness and its ability to carry heavy loads.

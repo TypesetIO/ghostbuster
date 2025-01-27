@@ -1,0 +1,1 @@
+All these extensions are based on the rationale that it is not clear to assign the membership degree of an element to a fixed set (see Torra and Narukawa [43] , Torra [44] ).

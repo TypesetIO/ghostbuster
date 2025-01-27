@@ -1,0 +1,1 @@
+The failure of the DClink voltage sensor can be easily detected by comparing its measured value, which is typically much higher than zero during normal operating conditions, to its expected value.

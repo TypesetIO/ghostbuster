@@ -1,0 +1,1 @@
+Moreover, we explored the potential of integrating SEER-FISH with other imaging modalities, such as super-resolution microscopy, to enhance spatial resolution and provide more detailed insights into microbial interactions within their native habitats.

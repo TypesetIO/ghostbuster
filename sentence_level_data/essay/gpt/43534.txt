@@ -1,0 +1,1 @@
+To further validate the effectiveness of the proposed enhancements, a series of experiments were conducted to compare the performance of the modified YOLOv7 model against both the original YOLOv7 and traditional R-CNN models.

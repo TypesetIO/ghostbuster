@@ -1,0 +1,1 @@
+These techniques allow for the examination of gene expression at the resolution of individual cells, thereby providing insights into the heterogeneity of cellular responses during early development (Zheng et al., 2017).

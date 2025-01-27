@@ -1,0 +1,1 @@
+Experts performed ground-truth annotation using RGB representations derived from the HSI images and the histopathological report.

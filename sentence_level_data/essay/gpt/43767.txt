@@ -1,0 +1,1 @@
+Moreover, the scalability of these systems poses another challenge, as the number of agents increases, so does the complexity of their interactions, which can lead to performance bottlenecks if not managed properly (Kraus, 2016).

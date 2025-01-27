@@ -1,0 +1,1 @@
+Predictive policing relies on correlations and patterns in historical data to predict future crime, neglecting the influence of context and individual circumstances.

@@ -1,0 +1,1 @@
+The robot will have chassis, wheels, motors, motherboards, a proportional integrative derivative controller, and a processor that will allow the robot to conduct a program, among other technological characteristics and components.

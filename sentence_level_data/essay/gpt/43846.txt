@@ -1,0 +1,1 @@
+One significant aspect is the real-time processing capability required for these diagnostic algorithms, which must operate under dynamic conditions and varying load scenarios.

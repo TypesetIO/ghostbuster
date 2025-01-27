@@ -1,0 +1,1 @@
+The management should give higher weight to the recent monthly sales to reduce the forecasting error.

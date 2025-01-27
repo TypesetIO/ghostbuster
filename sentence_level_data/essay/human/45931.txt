@@ -1,0 +1,1 @@
+The entire supply chain is a serial process since one element is strictly related to its immediate downstream and upstream elements.

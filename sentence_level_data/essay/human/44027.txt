@@ -1,0 +1,1 @@
+VO 2 thin films have a relatively high TCR of 2−5%/K in the I phase, but their high ρ of 0.1−1 Ω•cm makes them unsuitable for uncooled bolometer application.

@@ -1,0 +1,1 @@
+HIDS and NIDS differ primarily in the level at which they analyze network traffic and detect potential intrusions.

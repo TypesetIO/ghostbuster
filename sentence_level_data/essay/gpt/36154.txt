@@ -1,0 +1,1 @@
+Users can write complex queries using the Power Query Editor, a built-in tool that allows for data transformation, cleansing, and shaping.

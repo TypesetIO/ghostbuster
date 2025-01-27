@@ -1,0 +1,1 @@
+A workspace that has been dedicated to one employee cannot be moved for use by another employee.

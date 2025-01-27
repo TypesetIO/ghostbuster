@@ -1,0 +1,1 @@
+Top-down methodologies 15−19 cannot accurately control the width of the GNRs or the atomic structure of their edges.

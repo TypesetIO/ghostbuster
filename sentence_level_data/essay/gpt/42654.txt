@@ -1,0 +1,1 @@
+Additionally, we evaluated the specificity of the barcoded probes by testing them against closely related taxa, revealing that the unique barcodes effectively minimized cross-hybridization, thus ensuring accurate identification of target species.

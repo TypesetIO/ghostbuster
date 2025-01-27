@@ -1,0 +1,2 @@
+2. Axle:
+The axle supports the caster wheels, creating a stable connection between the wheels and the object being moved.

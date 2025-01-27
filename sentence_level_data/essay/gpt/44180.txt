@@ -1,0 +1,1 @@
+One such approach is the use of penalized likelihood methods, which incorporate regularization techniques to mitigate issues related to overfitting and multicollinearity among covariates.

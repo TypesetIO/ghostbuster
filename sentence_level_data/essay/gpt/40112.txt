@@ -1,0 +1,1 @@
+This electron withdrawal could explain the observed increase in E a for the RDS, as a less electron-rich Pd surface may exhibit reduced reactivity towards CO and H2O.

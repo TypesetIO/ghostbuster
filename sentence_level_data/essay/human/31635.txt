@@ -1,0 +1,2 @@
+They include:
+  * Sending personalized invitations to the event.

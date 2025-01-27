@@ -1,0 +1,1 @@
+With the use of supervised machine learning techniques, any illness category can be diagnosed.

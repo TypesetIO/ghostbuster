@@ -1,0 +1,1 @@
+The integration of geographic information systems (GIS) with DL approaches has further facilitated the visualization and analysis of land cover patterns, providing valuable insights for land management and policy-making (Miller & Goodchild, 2015).

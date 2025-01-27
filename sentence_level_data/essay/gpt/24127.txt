@@ -1,0 +1,1 @@
+The algorithms and statistical models used in these approaches are often trained on historical crime data, which inherently reflects the biases and discriminatory practices of the past.

@@ -1,0 +1,1 @@
+Trace conditioning differs from delay conditioning by the addition of a stimulus-free ''trace'' interval of several seconds separating the CS and UCS.

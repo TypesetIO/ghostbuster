@@ -1,0 +1,1 @@
+Moreover, irregular sampling patterns may complicate data storage and transmission, as additional information about the sampling points needs to be communicated.

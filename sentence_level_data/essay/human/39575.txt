@@ -1,0 +1,1 @@
+For the analysis of demographic data and fatigue distinguished by gender, Chi-squared independence tests and independent samples t tests were utilized.

@@ -1,0 +1,1 @@
+Despite the advantages of the Breslow estimator, researchers have sought alternative methods to enhance the efficiency and robustness of parameter estimation in the Cox model.

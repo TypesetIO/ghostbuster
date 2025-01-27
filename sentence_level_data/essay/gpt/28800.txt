@@ -1,0 +1,1 @@
+Blockchain allows for the creation of a tamper-proof record of educational credentials, ensuring their authenticity and eliminating the possibility of fraudulent documents.

@@ -1,0 +1,1 @@
+HIDS operates at the host or individual device level, monitoring activities and events within a specific device's operating system and applications.

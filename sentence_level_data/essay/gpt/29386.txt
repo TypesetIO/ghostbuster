@@ -1,0 +1,1 @@
+Additionally, we will explain the four stages of color picture quantization and compare and contrast uniform sampling and non-uniform sampling methods, highlighting their respective advantages and disadvantages.

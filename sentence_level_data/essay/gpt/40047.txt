@@ -1,0 +1,1 @@
+Recent studies have also highlighted the potential of transfer learning, where models trained on large datasets can be fine-tuned for specific clinical environments, thus reducing the need for extensive labeled data [Author, Year].

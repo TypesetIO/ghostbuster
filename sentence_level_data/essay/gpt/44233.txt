@@ -1,0 +1,1 @@
+The relationship between the functions f and g, as well as their respective Jacobians, plays a crucial role in understanding the dynamics of the system under consideration.

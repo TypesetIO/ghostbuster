@@ -1,0 +1,1 @@
+One promising approach is the implementation of adaptive transmission power control (TPC) mechanisms, which dynamically adjust the power levels of sensor nodes based on the distance to the receiving node and the quality of the communication link.

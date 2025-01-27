@@ -8,6 +8,7 @@ import nltk
 import numpy as np
 import string
 import torch
+from pdb import set_trace
 
 from nltk.corpus import wordnet
 from datasets import load_dataset
@@ -21,7 +22,7 @@ from transformers import PegasusForConditionalGeneration, PegasusTokenizer
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 from utils.generate import generate_documents
-from utils.write_logprobs import write_logprobs, write_llama_logprobs
+from utils.write_logprobs import write_logprobs, write_llama_logprobs, write_llama_logprobs_sentence
 from utils.symbolic import convert_file_to_logprob_file
 from utils.load import Dataset, get_generate_dataset
 
@@ -30,21 +31,23 @@ nltk.download("wordnet")
 nltk.download("omw-1.4")
 
 
-llama_tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf")
+llama_tokenizer = AutoTokenizer.from_pretrained(
+    "meta-llama/Llama-3.2-3B-Instruct")
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print("Using device:", device)
 
 datasets = [
-    Dataset("normal", "data/wp/human"),
-    Dataset("normal", "data/wp/gpt"),
-    Dataset("author", "data/reuter/human"),
-    Dataset("author", "data/reuter/gpt"),
+    # Dataset("normal", "data/wp/human"),
+    # Dataset("normal", "data/wp/gpt"),
+    # Dataset("author", "data/reuter/human"),
+    # Dataset("author", "data/reuter/gpt"),
     Dataset("normal", "data/essay/human"),
     Dataset("normal", "data/essay/gpt"),
 ]
 generate_dataset_fn = get_generate_dataset(*datasets)
 
-prompt_types = ["gpt", "gpt_prompt1", "gpt_prompt2", "gpt_writing", "gpt_semantic"]
+prompt_types = ["gpt", "gpt_prompt1",
+                "gpt_prompt2", "gpt_writing", "gpt_semantic"]
 html_replacements = [
     ("&amp;", "&"),
     ("&lt;", "<"),
@@ -135,8 +138,8 @@ def generate_logprobs(generate_dataset_fn, llama_7b_model=None, llama_13b_model=
     files = generate_dataset_fn(lambda f: f)
 
     for file in tqdm.tqdm(files):
-        if "logprobs" in file:
-            continue
+        # if "logprobs" in file:
+        #     continue
 
         base_path = os.path.dirname(file) + "/logprobs"
         if not os.path.exists(base_path):
@@ -145,22 +148,54 @@ def generate_logprobs(generate_dataset_fn, llama_7b_model=None, llama_13b_model=
         with open(file, "r") as f:
             doc = f.read().strip()
 
-        davinci_file = convert_file_to_logprob_file(file, "davinci")
-        if not os.path.exists(davinci_file):
-            write_logprobs(doc, davinci_file, "davinci")
+        # davinci_file = convert_file_to_logprob_file(file, "davinci")
+        # if not os.path.exists(davinci_file):
+        #     write_logprobs(doc, davinci_file, "davinci")
 
-        ada_file = convert_file_to_logprob_file(file, "ada")
-        if not os.path.exists(ada_file):
-            write_logprobs(doc, ada_file, "ada")
+        # ada_file = convert_file_to_logprob_file(file, "ada")
+        # if not os.path.exists(ada_file):
+        #     write_logprobs(doc, ada_file, "ada")
 
-        llama_7b_file = convert_file_to_logprob_file(file, "llama-7b")
-        if llama_7b_model and not os.path.exists(llama_7b_file):
-            write_llama_logprobs(doc, llama_7b_file, llama_7b_model)
+        # llama_7b_file = convert_file_to_logprob_file(file, "llama-7b")
+        # if llama_7b_model and not os.path.exists(llama_7b_file):
+        #     write_llama_logprobs(doc, llama_7b_file, llama_7b_model)
 
         llama_13b_file = convert_file_to_logprob_file(file, "llama-13b")
-        if llama_13b_model and not os.path.exists(llama_13b_file):
-            write_llama_logprobs(doc, llama_13b_file, llama_13b_model)
+        # if llama_13b_model and not os.path.exists(llama_13b_file):
+        write_llama_logprobs(doc, llama_13b_file, llama_13b_model)
 
+# def generate_logprobs(generate_dataset_fn, llama_7b_model=None, llama_13b_model=None):
+#     files = generate_dataset_fn(lambda f: f)
+#     human_counter = 1
+#     gpt_counter = 1
+
+#     for file in tqdm.tqdm(files):
+#         # if "logprobs" in file:
+#         #     continue
+
+#         base_path = os.path.dirname(file) + "/logprobs"
+#         if not os.path.exists(base_path):
+#             os.mkdir(base_path)
+
+#         with open(file, "r") as f:
+#             doc = f.read().strip()
+
+#         # davinci_file = convert_file_to_logprob_file(file, "davinci")
+#         # if not os.path.exists(davinci_file):
+#         #     write_logprobs(doc, davinci_file, "davinci")
+
+#         # ada_file = convert_file_to_logprob_file(file, "ada")
+#         # if not os.path.exists(ada_file):
+#         #     write_logprobs(doc, ada_file, "ada")
+
+#         # llama_7b_file = convert_file_to_logprob_file(file, "llama-7b")
+#         # if llama_7b_model and not os.path.exists(llama_7b_file):
+#         #     write_llama_logprobs(doc, llama_7b_file, llama_7b_model)
+
+#         llama_13b_file = convert_file_to_logprob_file(file, "llama-13b")
+#         # if llama_13b_model and not os.path.exists(llama_13b_file):
+#         results = write_llama_logprobs_sentence(doc, llama_13b_file, llama_13b_model, human_counter, gpt_counter)
+#         human_counter, gpt_counter = results
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -308,7 +343,8 @@ if __name__ == "__main__":
                     f.write(reply)
 
     if args.reuter_human:
-        reuter_replace = ["--", "202-898-8312", "((", "($1=", "(A$", "Reuters Chicago"]
+        reuter_replace = ["--", "202-898-8312",
+                          "((", "($1=", "(A$", "Reuters Chicago"]
 
         authors = os.listdir("data/reuter/raw/C50train")
         print("Formatting Human Reuters documents...")
@@ -396,7 +432,7 @@ if __name__ == "__main__":
         while num_documents < 1000:
             essay = essay_dataset["train"][idx]
             essay = essay["TEXT"].strip()
-            essay = essay[essay.index("\n") + 1 :]
+            essay = essay[essay.index("\n") + 1:]
 
             idx += 1
 
@@ -525,16 +561,22 @@ if __name__ == "__main__":
         # llama_7b = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-hf").to(
         #     device
         # )
-        llama_13b = AutoModelForCausalLM.from_pretrained("TheBloke/Llama-2-13B-AWQ").to(
-            device
-        )
+        from transformers import BitsAndBytesConfig
+        # quantization_config = BitsAndBytesConfig(load_in_8bit=True)
+        model_name = "meta-llama/Llama-3.2-3B-Instruct"
+        llama_13b = AutoModelForCausalLM.from_pretrained(model_name,
+                                                         #  torch_dtype=torch.bfloat16,
+                                                         #  quantization_config=quantization_config,
+                                                         trust_remote_code=True,
+                                                         device_map="auto")  # Use GPU 0
         print("LLAMA Loaded")
+        set_trace()
 
         datasets = [
-            Dataset("normal", "data/wp/human"),
-            Dataset("normal", "data/wp/gpt"),
-            Dataset("author", "data/reuter/human"),
-            Dataset("author", "data/reuter/gpt"),
+            # Dataset("normal", "data/wp/human"),
+            # Dataset("normal", "data/wp/gpt"),
+            # Dataset("author", "data/reuter/human"),
+            # Dataset("author", "data/reuter/gpt"),
             Dataset("normal", "data/essay/human"),
             Dataset("normal", "data/essay/gpt"),
         ]
@@ -554,10 +596,10 @@ if __name__ == "__main__":
                 peturb_type = np.random.choice(["swap", "delete", "insert"])
                 if peturb_type == "swap":
                     idx = np.random.randint(len(doc) - 1)
-                    doc = doc[:idx] + doc[idx + 1] + doc[idx] + doc[idx + 2 :]
+                    doc = doc[:idx] + doc[idx + 1] + doc[idx] + doc[idx + 2:]
                 elif peturb_type == "delete" and len(doc) > 1:
                     idx = np.random.randint(len(doc))
-                    doc = doc[:idx] + doc[idx + 1 :]
+                    doc = doc[:idx] + doc[idx + 1:]
                 elif peturb_type == "insert":
                     idx = np.random.randint(len(doc))
                     doc = (
@@ -582,7 +624,7 @@ if __name__ == "__main__":
                     ]
                     if len(space_indices) > 0:
                         idx = np.random.choice(space_indices)
-                        doc = doc[:idx] + doc[idx + 1 :]
+                        doc = doc[:idx] + doc[idx + 1:]
             return doc
 
         def perturb_char_cap(doc, n=1):
@@ -593,9 +635,9 @@ if __name__ == "__main__":
                 idx = np.random.randint(len(doc))
                 if doc[idx].isalpha():
                     if doc[idx].isupper():
-                        doc = doc[:idx] + doc[idx].lower() + doc[idx + 1 :]
+                        doc = doc[:idx] + doc[idx].lower() + doc[idx + 1:]
                     else:
-                        doc = doc[:idx] + doc[idx].upper() + doc[idx + 1 :]
+                        doc = doc[:idx] + doc[idx].upper() + doc[idx + 1:]
             return doc
 
         def perturb_word_adj(doc, n=1):
@@ -644,7 +686,7 @@ if __name__ == "__main__":
 
         train, test = (
             indices[: math.floor(0.8 * len(indices))],
-            indices[math.floor(0.8 * len(indices)) :],
+            indices[math.floor(0.8 * len(indices)):],
         )
 
         # [4320 2006 5689 ... 4256 5807 4875] [5378 5980 5395 ... 1653 2607 2732]
@@ -699,7 +741,8 @@ if __name__ == "__main__":
             device = "cpu"
             print("Using CPU")
 
-        tokenizer = PegasusTokenizer.from_pretrained("tuner007/pegasus_paraphrase")
+        tokenizer = PegasusTokenizer.from_pretrained(
+            "tuner007/pegasus_paraphrase")
         model = PegasusForConditionalGeneration.from_pretrained(
             "tuner007/pegasus_paraphrase"
         ).to(device)
@@ -709,7 +752,8 @@ if __name__ == "__main__":
                 [text], truncation=True, padding="longest", return_tensors="pt"
             ).to(device)
             translated = model.generate(**batch)
-            tgt_text = tokenizer.batch_decode(translated, skip_special_tokens=True)
+            tgt_text = tokenizer.batch_decode(
+                translated, skip_special_tokens=True)
             return tgt_text[0]
 
         def perturb_sent_adj(doc, n=1):
@@ -785,7 +829,7 @@ if __name__ == "__main__":
 
         train, test = (
             indices[: math.floor(0.8 * len(indices))],
-            indices[math.floor(0.8 * len(indices)) :],
+            indices[math.floor(0.8 * len(indices)):],
         )
 
         # [4320 2006 5689 ... 4256 5807 4875] [5378 5980 5395 ... 1653 2607 2732]

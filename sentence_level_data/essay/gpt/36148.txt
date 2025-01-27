@@ -1,0 +1,1 @@
+The desktop application allows users to drag and drop data visualizations onto a canvas and easily customize them using a variety of formatting and styling options.

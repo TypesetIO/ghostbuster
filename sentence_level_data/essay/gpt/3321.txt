@@ -1,0 +1,1 @@
+A screen displayed numbers and names, representing the world's wealthiest individuals.

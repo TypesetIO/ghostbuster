@@ -1,0 +1,1 @@
+With all of these settings, the performance was highest with the least amount of computing resources.

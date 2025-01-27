@@ -1,0 +1,1 @@
+Note that this method induces some label noise as tumor outlines might be slightly inaccurate.

@@ -1,0 +1,1 @@
+This vacuum-enhanced air gap (V-AGMD) operation extracts air from the gap but condensation takes place inside the module and the liquid-vapour equilibrium is not affected, unlike in vacuum MD (VMD) [33, 34] .

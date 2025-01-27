@@ -1,0 +1,2 @@
+Oxidase test                  No color change on the culture                   Absence of aerobic bacteria                                           
+Catalase test                 Production of bubbles                            Organisms produced catalase enzymes that break down hydrogen peroxide.

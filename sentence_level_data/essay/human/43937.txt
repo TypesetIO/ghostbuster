@@ -1,0 +1,1 @@
+19 hen we assume that 100 Joules of RF energy produces a 100-mm 3 lesion volume, the calculated relative lesion diameter and depth are shown in Figure 5 as red dashed semicircles (half dome lesion geometry).

@@ -1,0 +1,1 @@
+Future experimental work should aim to systematically vary both water activity and temperature to delineate their individual and combined effects on hydration kinetics.

@@ -1,0 +1,1 @@
+If the data point was negative and the corresponding model also could not take up or secrete the metabolite or did not produce flux through any reaction(s) mapped to the enzyme, this resulted in a true negative prediction, and otherwise the prediction was a false positive.

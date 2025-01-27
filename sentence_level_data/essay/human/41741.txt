@@ -1,0 +1,1 @@
+The tank with a standard Rushton turbine (D¼T/3, b¼0.25D and w¼0.2D) is a cylindrical, flat-bottom reactor with diameter T¼ 0.38 m and liquid height H¼T.Four vertical standard baffles of width BW¼0.1T are equally spaced mounted at the reactor wall.

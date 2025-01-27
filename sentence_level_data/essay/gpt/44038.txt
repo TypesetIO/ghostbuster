@@ -1,0 +1,1 @@
+Furthermore, the implementation of smart city initiatives requires robust frameworks for data governance and privacy protection, as the collection and analysis of vast amounts of personal data raise significant ethical concerns (Zuboff 2019).

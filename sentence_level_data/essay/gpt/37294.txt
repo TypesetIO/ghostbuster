@@ -1,0 +1,1 @@
+By specifying a fixed exchange rate in the contract, we eliminate the uncertainty caused by currency fluctuations.

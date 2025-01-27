@@ -1,0 +1,1 @@
+Most use the suction-to-liquid heat exchanger (IHX) to increase the specific cooling capacity (Torrella et al., 2011 , Sánchez et al., 2014) , but others introduce more complex arrangements with different benefits in subcooling and working pressures.

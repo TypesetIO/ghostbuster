@@ -1,0 +1,1 @@
+Unfortunately, for small E, this is a purely theoretical result as the exponent depends on l/e.

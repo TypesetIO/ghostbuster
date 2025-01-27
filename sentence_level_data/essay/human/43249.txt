@@ -1,0 +1,1 @@
+In the low-field regime, the relaxation time as a function of field approaches a plateau where it is about three orders of magnitude longer than the experimental value.

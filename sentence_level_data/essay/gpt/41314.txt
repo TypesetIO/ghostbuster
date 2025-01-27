@@ -1,0 +1,1 @@
+As research progresses, the potential for real-time monitoring systems that utilize AE data to predict failure in engineering structures becomes increasingly feasible.

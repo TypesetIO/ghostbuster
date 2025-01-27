@@ -1,0 +1,1 @@
+Parameters can be selected as 'tunable', meaning that they can be modified in real-time through the MATLAB workspace, or 'non tunable' if they are constant and initially set when the Simulink model is compiled.

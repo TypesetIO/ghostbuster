@@ -1,0 +1,1 @@
+One of the primary advantages of using WiFi signals is their ability to penetrate obstacles and maintain a stable connection across various indoor environments, which enhances the robustness of activity recognition systems.

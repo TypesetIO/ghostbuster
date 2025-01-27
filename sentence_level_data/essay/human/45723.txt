@@ -1,0 +1,1 @@
+Note that our reconstructions represent knowledge bases; thus, if genetic or biochemical evidence exists for a gene or reaction, it will be included in the reconstruction.

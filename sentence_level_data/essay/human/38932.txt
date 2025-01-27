@@ -1,0 +1,1 @@
+When an image is quantized with insufficient brightness levels, incorrect outlines are the primary problem.

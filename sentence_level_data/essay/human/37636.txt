@@ -1,0 +1,4 @@
+Hardware, Software, Facilities, and Materials
+Software tools
+  * Operating System:
+      + Microsoft Windows 10 Professionals.

@@ -1,0 +1,1 @@
+If neural activity in the FEF movement (FEFm) cells exceeds a threshold, a saccade is triggered to the location indicated by the FEFm cells.

@@ -1,0 +1,1 @@
+However, in the case of heating applications, the name of processes is reversed, i.e., heat release from the PCM is named as 'discharging/ solidification of PCM' and heat storage in the PCM is named as 'charging/melting of PCM.

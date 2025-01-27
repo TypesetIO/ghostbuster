@@ -1,0 +1,1 @@
+Current research for deriving semantics from natural language exchanged by developers is largely directed towards the extraction of behavioural aspects which may only indirectly affect the progress of a project [10] , [21] .

@@ -1,0 +1,1 @@
+For instance, the ability to maintain a stable spheroidal jet under varying pressures could be leveraged to improve the performance of engines operating under transient conditions, such as during acceleration or deceleration.

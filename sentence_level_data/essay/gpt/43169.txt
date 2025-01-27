@@ -1,0 +1,1 @@
+In this research, we will utilize a dataset that encompasses daily reported cases, recoveries, and fatalities, alongside socio-economic indicators, to train our machine learning models.

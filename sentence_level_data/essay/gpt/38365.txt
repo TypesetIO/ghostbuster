@@ -1,0 +1,1 @@
+This feature allows the thermostat to adjust the temperature accordingly, ensuring personalized comfort while minimizing energy consumption in unoccupied spaces.

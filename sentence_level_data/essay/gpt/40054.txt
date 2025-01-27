@@ -1,0 +1,1 @@
+Additionally, Large Eddy Simulation (LES) has emerged as a powerful tool for simulating turbulent flows, as it resolves the larger scales of turbulence while modeling the smaller scales, offering a more nuanced understanding of mixing dynamics [Author, Year].

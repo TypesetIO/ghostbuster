@@ -1,0 +1,1 @@
+Studies have suggested that fine-tuning these parameters can lead to significant improvements in the generation of reactive species, thereby enhancing the overall degradation performance [Author, Year].

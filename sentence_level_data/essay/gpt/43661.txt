@@ -1,0 +1,1 @@
+Furthermore, the use of transfer learning has emerged as a viable strategy, allowing models pre-trained on large datasets to be fine-tuned for specific agricultural applications, thereby reducing the need for extensive labeled data [Author, Year].

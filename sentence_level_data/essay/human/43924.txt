@@ -1,0 +1,1 @@
+The sample with out-of-plane long side is labeled S1 for current path along the c-axis and the sample with long in-plane direction is S2 for current path in the ab-plane.

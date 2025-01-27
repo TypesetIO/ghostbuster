@@ -1,0 +1,1 @@
+Clients can use mediators to negotiate on their behalf.

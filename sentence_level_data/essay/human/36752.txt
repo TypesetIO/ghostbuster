@@ -1,0 +1,2 @@
+Essentially, the project seeks to meet five major objectives that tackle both the nurses’ and patients’ well-being in the hospital setting:
+  * The first objective of the project is to explore how nurses’ level of EBP knowledge and implementation affects the quality of services they provide to the patients.

@@ -1,0 +1,1 @@
+To create an effective fault diagnosis system, advanced techniques such as neural networks and fuzzy logic are often used to accurately identify the type and seriousness of the fault.

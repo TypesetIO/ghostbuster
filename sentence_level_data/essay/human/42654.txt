@@ -1,0 +1,1 @@
+Note that the label of adware reported by VirusTotal was not considered to be malicious, because most adware is designed to display advertisements.

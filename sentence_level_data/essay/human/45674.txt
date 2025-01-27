@@ -1,0 +1,1 @@
+Diesel had the highest CO emission under all test conditions, with a range of 0.028e0.078(% vol) depending on the engine load.

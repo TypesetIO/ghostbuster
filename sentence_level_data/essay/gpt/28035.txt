@@ -1,0 +1,1 @@
+Adequate redundancy, backup mechanisms, and disaster recovery plans will be put in place to minimize system downtime and protect vital data.

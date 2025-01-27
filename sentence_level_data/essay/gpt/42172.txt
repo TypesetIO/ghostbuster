@@ -1,0 +1,1 @@
+Conversely, the influence of TCI on permeate flux was more nuanced; while lower condenser temperatures typically improved thermal efficiency, they also risked increasing the viscosity of the feed solution, potentially leading to fouling issues.

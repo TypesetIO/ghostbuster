@@ -1,0 +1,1 @@
+Hadoop's distributed architecture allows for easy addition of new nodes to the cluster, thus increasing its processing capacity.

@@ -1,0 +1,1 @@
+In a set of numbers where repeating numbers are few, the practical value of mode is also limited.

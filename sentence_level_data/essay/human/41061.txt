@@ -1,0 +1,1 @@
+The applications of machine vision with AI for agricultural tasks like detection of disease/pests in crops, evaluation of the quality of the grain, and automatic detection of plant phenotyping were studied in (Patricio & Rieder, 2018) .

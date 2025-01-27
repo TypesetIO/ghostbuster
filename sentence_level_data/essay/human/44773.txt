@@ -1,0 +1,1 @@
+Different hyperparameters were varied for each optimizer and accuracy was compared.

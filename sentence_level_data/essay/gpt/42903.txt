@@ -1,0 +1,1 @@
+Such mechanisms could be informed by machine learning techniques that allow the system to refine its property lists over time, thus improving its predictive capabilities.

@@ -1,0 +1,1 @@
+However, experiments in module AS24 with FFR beyond 800 l h − 1 could not be performed in classic AGMD configuration because the limit of hydraulic pressure drop was surpassed.

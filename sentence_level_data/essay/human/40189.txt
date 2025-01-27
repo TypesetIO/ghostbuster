@@ -1,0 +1,1 @@
+In fact, for large d, in theory or in practice, they provide little improvement over a brute-force algorithm which composes a query q to each p E P.

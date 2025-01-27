@@ -1,0 +1,1 @@
+If the camera or sensor’s output is not already digital, the image is recorded by a sensor (e.g., a camera) and converted using an analog-to-digital converter.

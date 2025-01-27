@@ -1,0 +1,1 @@
+For each retrieved positive or negative data point, the capability of the respective model to take up or produce the corresponding metabolite was calculated using FBA on unlimited medium by either minimizing or maximizing the corresponding exchange reaction, respectively.

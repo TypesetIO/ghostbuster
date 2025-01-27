@@ -1,0 +1,1 @@
+In sampling, a line is can from the bottom to the top vertically at certain intervals; on each horizontal line, remove the one-dimensional scanning of gray value.

@@ -1,0 +1,1 @@
+It dramatically simplifies the process of logging and allows one to compile a list of outgoing rings in a specific order.

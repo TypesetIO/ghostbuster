@@ -1,0 +1,1 @@
+Recent advancements in error-correcting codes, such as Low-Density Parity-Check (LDPC) codes and Turbo codes, have shown promise in enhancing data integrity during transmission over noisy channels [Author, Year].

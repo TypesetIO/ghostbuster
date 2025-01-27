@@ -1,0 +1,1 @@
+With Power Query, users can easily manipulate and prepare their data for visualization without needing to rely on complex coding or database skills.

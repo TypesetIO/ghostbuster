@@ -1,0 +1,1 @@
+In the optimization method, nanofluid Δp and Nu (tube side) were evaluated utilizing the ANN model.

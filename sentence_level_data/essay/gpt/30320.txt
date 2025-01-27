@@ -1,0 +1,1 @@
+In conclusion, implementing a database management system for student transcripts in universities brings numerous advantages.

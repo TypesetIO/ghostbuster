@@ -1,0 +1,1 @@
+This kind of processes are commonly described as multi-variable (Multiple Inputs À Multiple Outputs) systems and they are represented by a matrix with a block diagonal structure [4] .

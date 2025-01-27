@@ -1,0 +1,1 @@
+Additionally, the integration of AE with other non-destructive testing methods, such as ultrasonic testing and infrared thermography, has shown promise in providing a more comprehensive understanding of the structural integrity of concrete [64].

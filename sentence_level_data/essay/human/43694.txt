@@ -1,0 +1,1 @@
+The additional head loss associated to the pass of cooling water through the Venturi tube (ΔP drop, cooling ) was only around 15% of the differential pressure it generated [43] .Furthermore, the effect on the electrical energy consumption of operating at different absolute pressure inside the module was estimated.

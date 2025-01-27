@@ -1,0 +1,1 @@
+These techniques leverage sophisticated algorithms to detect and correct errors, thereby ensuring that the information received is as close to the original as possible.

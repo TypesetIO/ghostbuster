@@ -1,0 +1,1 @@
+For instance, the Comprehensive R Archive Network (CRAN) hosts over 18,000 packages, covering a wide array of applications from econometrics to genomics, thereby catering to diverse research needs (R Core Team, 2023).

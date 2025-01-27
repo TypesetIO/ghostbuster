@@ -1,0 +1,1 @@
+Section III describes the adopted public database, the adopted data preprocessing procedures, and the proposed framework combining a convolutional neural network (CNN) and a long short-term memory (LSTM) network.

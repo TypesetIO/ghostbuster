@@ -1,0 +1,1 @@
+Silver (198) uses the opportunity to remind readers that the idea behind Bayes’ theorem is not that one updates the probability estimates just once.

@@ -1,0 +1,1 @@
+The use of transfer learning has also gained traction, enabling researchers to leverage pre-trained models on large datasets and adapt them to specific agricultural contexts, thus reducing the need for extensive labeled data (Yosinski et al., 2014).

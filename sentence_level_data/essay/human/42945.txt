@@ -1,0 +1,1 @@
+Depending on their chirality, SWNTS can be either metallic or semiconducting, while GNRs have been shown to always have a nonzero bandgap.

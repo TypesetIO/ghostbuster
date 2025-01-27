@@ -1,0 +1,1 @@
+Validity test is conducted by comparing the value of r count to r table for a degree of freedom (df) = n -2 with alpha 0,05, in this case, n is the number of samples (Ghozali, 2011) .While according to Ferdinand (2006) , valid represents the ability of the instruments used in the study to measure what is intended to measure.

@@ -1,0 +1,1 @@
+This interaction makes the flame front curved, and the flame accelerates.

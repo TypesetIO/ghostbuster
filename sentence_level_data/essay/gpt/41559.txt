@@ -1,0 +1,1 @@
+Additionally, the advent of next-generation sequencing (NGS) technologies offers a promising avenue for overcoming some of the limitations of CMA, particularly in the detection of single nucleotide variants and small insertions or deletions that may contribute to genetic disorders.

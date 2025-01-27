@@ -1,0 +1,1 @@
+Poorly secured loT devices can be easily hacked and used for infecting loT networks.

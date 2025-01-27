@@ -1,0 +1,1 @@
+By analyzing traffic patterns, NIDS can provide valuable insights into network-wide incidents or potential vulnerabilities.

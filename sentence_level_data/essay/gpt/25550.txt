@@ -1,0 +1,1 @@
+Many IoT devices collect and transmit personal and sensitive information, such as health data from wearables or smart home surveillance footage.

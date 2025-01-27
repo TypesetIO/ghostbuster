@@ -1,0 +1,1 @@
+The IoT-based robotic cleaners are equipped with various sensors that help in the monitoring of the PV panels, such as temperature sensors, humidity sensors, and irradiance sensors [20, 21] .

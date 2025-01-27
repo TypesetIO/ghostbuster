@@ -1,0 +1,1 @@
+The present model is built upon a microcircuit of attention proposed by Beuth and Hamker (2015) , who compared and fitted their model to electrophysiological data of more than 10 different experiments that studied the mutual influence of Fig. 2 . The Spacecog neurocomputational model.

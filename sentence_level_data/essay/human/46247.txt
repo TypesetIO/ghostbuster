@@ -1,0 +1,1 @@
+Consequently, negative results regarding the suitability of applying state of the art sentiment analysis methods on software engineering research have started to emerge [12] .

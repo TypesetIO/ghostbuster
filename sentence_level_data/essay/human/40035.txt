@@ -1,0 +1,1 @@
+In addition, there needs to be a broad awareness of the challenges associated with implementing AI services, as these have an impact on successful implementation (Bérubé et al. 2021) .

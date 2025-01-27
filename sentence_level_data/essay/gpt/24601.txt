@@ -1,0 +1,1 @@
+One effective way to evaluate a robot's performance is through the design and implementation of an obstacle course within a real-world simulation.

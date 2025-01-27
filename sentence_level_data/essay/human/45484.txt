@@ -1,0 +1,1 @@
+The simulation within the SWAT model can be divided into two basic parts.

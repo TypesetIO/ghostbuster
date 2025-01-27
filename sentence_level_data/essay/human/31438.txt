@@ -1,0 +1,1 @@
+In contrast, when the new weights that give more importance to the recent performance (0, 0, 0.4, and 0.6) are applied, the mean absolute deviation declined to 4.81, and the mean standard error declines to 27.28.

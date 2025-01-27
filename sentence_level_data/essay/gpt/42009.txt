@@ -1,0 +1,1 @@
+As the temperature increases, the relaxation time exhibits a non-linear decrease, indicating that thermal phonons increasingly contribute to the spin relaxation process.

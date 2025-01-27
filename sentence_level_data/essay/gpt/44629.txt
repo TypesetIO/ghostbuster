@@ -1,0 +1,1 @@
+To further investigate the impact of cardinality, we conducted ablation studies that isolated the effects of varying the number of parallel convolutions on detection performance.

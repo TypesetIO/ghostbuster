@@ -1,0 +1,1 @@
+Table 1 provides a detailed view of setting up, running, and calibrating the SWAT model, and Figure 2 shows the components of the input/output data.

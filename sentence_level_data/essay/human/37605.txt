@@ -1,0 +1,9 @@
+The following is the list of the management staff in charge of various tasks;
+  * Project Manager- George Peterson.
+  * Other Managers:
+      + Program Manager- Agnes Haynes.
+      + Security Manager- Whitney Young.
+      + Database Administrator- James Hastings.
+      + Configuration manager- Victor Grad.
+      + Website development manager- Wilson Adams.
+      + Site Installation representative- Danielle Stone.

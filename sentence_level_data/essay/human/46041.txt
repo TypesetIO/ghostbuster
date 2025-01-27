@@ -1,0 +1,1 @@
+At this stage, FEM work is very important for calibrating weights codes and verifying that there are no show-stoppers in the design, but it works too slowly to substantially impact planform trade studies.

@@ -1,0 +1,1 @@
+MULT represents the data range where the mode value can be obtained (Evans and Williams, 2014).

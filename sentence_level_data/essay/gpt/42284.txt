@@ -1,0 +1,1 @@
+In addition to the aforementioned machine learning techniques, ensemble methods have gained traction in the realm of heart disease prediction due to their ability to combine multiple models to enhance predictive performance.

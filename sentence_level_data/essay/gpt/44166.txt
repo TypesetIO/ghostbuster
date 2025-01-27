@@ -1,0 +1,1 @@
+Additionally, data augmentation techniques, such as rotation, scaling, and flipping, have been employed to increase the diversity of training datasets, thereby mitigating overfitting and enhancing generalization capabilities.

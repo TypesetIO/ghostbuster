@@ -1,0 +1,1 @@
+One solution is to implement an applicant tracking system (ATS) that automates the initial screening process.

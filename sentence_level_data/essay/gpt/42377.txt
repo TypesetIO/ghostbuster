@@ -1,0 +1,1 @@
+Preliminary findings suggest that while HOG provides a strong baseline, integrating additional features from LBP could enhance the model's discriminative power, particularly in distinguishing between nuanced signs.

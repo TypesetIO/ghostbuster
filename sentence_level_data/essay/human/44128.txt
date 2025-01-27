@@ -1,0 +1,1 @@
+If, however, exposure misclassification depends on health status, bias in any direction is possible, depending on the direction of the misclassification.

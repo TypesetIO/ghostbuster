@@ -1,0 +1,1 @@
+Pos., positive control; Neg., negative control.d-f, Colour-intensity measurements of the four cases in 30 clinical samples (d), and for the susceptible and resistant cases (e).f, ROC analysis.

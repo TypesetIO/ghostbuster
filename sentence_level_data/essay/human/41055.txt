@@ -1,0 +1,1 @@
+A comprehensive review was conducted for precision agriculture by Unmanned Aerial Systems (UAS) and important future directions were also provided in the article (Zhang & Kovacs, 2012) .In (Kamilaris & Prenafeta-Boldu, 2018) , the DL architectures were reviewed for several agricultural operations.

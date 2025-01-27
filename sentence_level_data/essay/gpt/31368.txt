@@ -1,0 +1,1 @@
+It also enables developers to easily modify the UI by making changes to the XML without affecting the application logic.

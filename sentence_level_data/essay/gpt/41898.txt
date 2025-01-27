@@ -1,0 +1,1 @@
+The implementation of advanced simulation tools, such as ANSYS HFSS, enables precise modeling of the antenna's electromagnetic behavior, facilitating optimization of parameters such as element spacing, feed network design, and array configuration.

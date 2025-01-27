@@ -1,0 +1,3 @@
+DNA (1) TempleOS General Commands Manual DNA (1)
+NAME
+dna — compiles.

@@ -1,0 +1,1 @@
+Therefore, recall that the general definition of error in Eq. (1) requires the choice of a "truth", which is the soil moisture state within a target volume (grid cell) that one aims to estimate as accurately as possible.

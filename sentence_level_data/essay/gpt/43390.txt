@@ -1,0 +1,1 @@
+This shift necessitates a reevaluation of the linkage values assigned to network elements, as the presence of cycles may indicate stronger interdependencies that were previously unaccounted for.

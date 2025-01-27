@@ -1,0 +1,1 @@
+This allows the Cr/VO 2 bimorph actuator to deliver simultaneously high force and large amplitude in actuation.

@@ -1,0 +1,1 @@
+Some features such as encryption, authentication, SSL secure communication, and authorization should be observed to ensure that the cluster is secure.

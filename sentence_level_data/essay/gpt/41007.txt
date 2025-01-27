@@ -1,0 +1,1 @@
+To further enhance the understanding of periodic and non-periodic flows within industrial control networks, it is essential to analyze the implications of these findings on network security and operational efficiency.

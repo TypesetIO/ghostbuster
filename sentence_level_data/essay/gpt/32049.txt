@@ -1,0 +1,1 @@
+It helps in assessing the success or failure of a program, identifying unintended consequences, and understanding underlying reasons for particular outcomes.

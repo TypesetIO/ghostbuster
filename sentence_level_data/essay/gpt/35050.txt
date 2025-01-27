@@ -1,0 +1,1 @@
+This idea was proposed based on the observation that there are only four different nucleotides (A, C, G, and T) in DNA, while there are 20 different amino acids in proteins.

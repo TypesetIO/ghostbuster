@@ -1,0 +1,1 @@
+In the HEC-HMS program, the hydrograph is calculated with the basin and precipitation data.

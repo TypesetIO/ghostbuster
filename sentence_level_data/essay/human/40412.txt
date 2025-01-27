@@ -1,0 +1,1 @@
+In [3] classification algorithms Nave Bayes and support vector machine techniques were employed to predict liver disorders.

@@ -1,0 +1,1 @@
+Another research was conducted for the discrimination between a sugar beet crop and weed by a UAV; using information from RGB images; classification was done by RF classifier to achieve high precision and recall (Lottes et al., 2017) .For an autonomous detection of weeds in a sugar beet field, two well-known algorithms-SVM and ANN-were implemented.

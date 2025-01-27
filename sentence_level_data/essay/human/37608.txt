@@ -1,0 +1,3 @@
+Identification of hardware and software platforms  Program manager                                                              A list of all hardware and software resources                                               
+ 1. Write and test program codes for the project       Website development manager, Database administrator, configuration manager,  Development of an efficient system                                                          
+ 1.

@@ -1,0 +1,1 @@
+In the domain of machine learning, a random forest classifier was used (Gao et al., 2018) ; the higher precision and recall percentages showed that the applied method should be tested in a real-time robotic system.

@@ -1,0 +1,1 @@
+Hadoop also supports encryption to secure data transmission and storage, ensuring that it remains protected throughout the entire analytics process.

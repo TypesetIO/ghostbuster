@@ -1,0 +1,1 @@
+For example, Khaderi et al. [36] computationally investigated the mechanical properties of a gyroid lattice under various loading conditions.

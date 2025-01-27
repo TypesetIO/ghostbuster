@@ -1,0 +1,1 @@
+Users can post text, photos, and multimedia that become available to any user in their friend list.

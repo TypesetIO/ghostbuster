@@ -1,0 +1,1 @@
+Once compromised, IoT devices can be used as entry points into larger networks, enabling attackers to launch more extensive cyberattacks.

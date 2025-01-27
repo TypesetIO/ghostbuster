@@ -1,0 +1,1 @@
+The results indicated that the model maintained a high level of accuracy, even when faced with signs that were visually similar, which is a common challenge in gesture recognition systems.

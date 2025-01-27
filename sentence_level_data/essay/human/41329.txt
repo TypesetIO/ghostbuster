@@ -1,0 +1,1 @@
+The former provides a platform for sensors to transmit locally observed readings amongst each other, process information locally, and synthesize a global estimate of readings from individual estimates.

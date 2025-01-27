@@ -1,0 +1,1 @@
+With respect to anisotropic turbulence models, Feng et al. (2012a Feng et al. ( , 2012b) ) employed Wallin and Johansson (2000) 's EASM to simulate single-phase and two-phase flows in stirred tanks successfully, showing that the EASM gave obviously better predictions than the k−ε model.

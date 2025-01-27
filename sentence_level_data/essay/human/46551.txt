@@ -1,0 +1,1 @@
+Validation involves running a model using parameters that were determined during the calibration process and comparing the predictions to observed data not used in the calibration.

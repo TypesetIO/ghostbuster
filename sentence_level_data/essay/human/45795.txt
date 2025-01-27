@@ -1,0 +1,1 @@
+The sensor nodes are equipped with a limited power capacity that presents a further challenge of either changing the battery or recharging it.

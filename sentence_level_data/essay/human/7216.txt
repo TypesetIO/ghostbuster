@@ -1,0 +1,2 @@
+Until two error messages showed up in bright red:
+ERROR: Operating system is not TempleOS.

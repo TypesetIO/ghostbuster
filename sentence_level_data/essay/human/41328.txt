@@ -1,0 +1,1 @@
+Two classes of such an approach are: distributed (D-MSF) and centralized (C-MSF).

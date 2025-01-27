@@ -1,0 +1,1 @@
+Since services cannot be stored or returned, consumers expect a higher level of quality and immediate gratification.

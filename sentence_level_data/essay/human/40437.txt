@@ -1,0 +1,1 @@
+Our result is in agreement with what is expected from a first-order approximation to the spin-phonon coupling and a harmonic lattice dynamics but deviates from the experimental results, which instead show t º T −n (with n > 1) (19) .Deviations from the T −1 power law can be considered as fingerprints of higher-order processes taking place.

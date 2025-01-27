@@ -1,0 +1,1 @@
+The procedure for weed detection by various classification methods including machine learning and deep learning was reviewed in (Wang, Vinson, et al., 2019; Wang, Zhang, et al., 2019) .

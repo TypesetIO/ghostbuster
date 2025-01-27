@@ -1,0 +1,1 @@
+Mainly, the CNN model is trained to classify each attack type with the aim of reaching the best accuracy and learn meaningfully representations from the raw data.

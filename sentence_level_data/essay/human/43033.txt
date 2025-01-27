@@ -1,0 +1,1 @@
+The very high-power short-duration (vHPSD) mode (90 W for #4 seconds) modulates power automatically if maximum temperature cutoff is reached, whereas the conventional-power temperature-controlled (CPTC) mode (#50 W) adjusts irrigation flow and power based on temperature feedback to maintain the target temperature.

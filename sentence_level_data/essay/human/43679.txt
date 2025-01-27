@@ -1,0 +1,1 @@
+Studies have previously shown that machine learning algorithms, namely, SVM, RF (random forest), LR (logistic regression), BPNN (back propagation neural network), and MLP (multilayer perceptron) are utilized successfully for decision-making tools to predict heart disease based on individual information.

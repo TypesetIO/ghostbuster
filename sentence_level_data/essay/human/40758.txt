@@ -1,0 +1,1 @@
+We therefore estimated the scaling of positive and negative RPEs by regressing the chosen cue probability against the firing rate at feedback, separately for rewarded and unrewarded trials, resulting in the regression coefficients β + and β − for scaling of positive and negative RPEs, respectively.

@@ -1,0 +1,1 @@
+The same method is also proposed for the European Railway Traffic Management System (ERTMS) [96] , where the authentication protocol of the Eurobalise subsystem is taken as the research object and the security hazards from attackers are converted as the hazards of Security Module.

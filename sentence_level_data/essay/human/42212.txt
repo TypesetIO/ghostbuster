@@ -1,0 +1,1 @@
+To effectively perform human activity recognition, various sensing technologies, including motion sensors [1] , visionbased sensors [2] , acoustic-based sensors [3] and pyroelectric infrared (PIR) sensors [4] , are deployed to inspect different human activities and gestures.

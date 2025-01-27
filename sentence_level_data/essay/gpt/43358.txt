@@ -1,0 +1,1 @@
+To illustrate the complexities of assigning membership degrees in fuzzy set theory, consider a scenario in which a group of decision-makers is tasked with evaluating various suppliers based on attributes such as price, quality, and delivery time.

@@ -1,0 +1,1 @@
+The text asserts that most predictions are wrong because the investigators poorly understand uncertainty and probability.

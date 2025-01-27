@@ -1,0 +1,1 @@
+Future research should aim to incorporate more dynamic models that account for these variables, potentially utilizing remote sensing technologies to monitor real-time changes in water volume and soil moisture content.

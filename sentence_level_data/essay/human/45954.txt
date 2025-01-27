@@ -1,0 +1,1 @@
+In this practice paper, we will share our approach for scaling scrum, the challenges we faced and how we overcame and the lessons we learnt during this journey.

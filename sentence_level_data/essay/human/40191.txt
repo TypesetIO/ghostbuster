@@ -1,0 +1,1 @@
+This unfortunate situation carries over to average-tax analysis, and even to the c-approximate nearest neighbors (e-NNS) problem:

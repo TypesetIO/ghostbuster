@@ -1,0 +1,1 @@
+As IoT devices proliferate, they generate vast amounts of data, which can be sensitive in nature, encompassing personal information, operational metrics, and proprietary processes.

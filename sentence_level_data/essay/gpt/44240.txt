@@ -1,0 +1,1 @@
+Furthermore, the continuity and differentiability of the functions f and g are prerequisites for the validity of these results, necessitating careful consideration of the function spaces involved.

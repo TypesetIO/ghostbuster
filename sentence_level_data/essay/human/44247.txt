@@ -1,0 +1,1 @@
+In total, there are 83 patients with benign tumor region and 15 patients with malignant tumor region.

@@ -1,0 +1,1 @@
+The majority of tests was made in AGMD and V-AGMD modes using combinations of the aforementioned operating conditions during enough time to ensure stability.

@@ -1,0 +1,1 @@
+It is concluded that Logistic Regression is effective in predicting liver illness.

@@ -1,0 +1,1 @@
+Diagnostic testing facilities isolate viruses mostly from nose swab samples acquired from ill horses shortly after infection.

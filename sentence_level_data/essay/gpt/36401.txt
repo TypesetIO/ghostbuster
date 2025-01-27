@@ -1,0 +1,1 @@
+By inputting variables such as the number of patients, fall rates, and costs associated with fall-related injuries, a DSS can help determine the most cost-effective intervention strategy that minimizes falls and reduces healthcare costs for the elderly population.

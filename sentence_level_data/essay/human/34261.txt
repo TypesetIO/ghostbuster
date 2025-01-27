@@ -1,0 +1,1 @@
+The traditional approach to route planning is based on a limited number of factors that are largely static and do not take into account current changes.

@@ -1,0 +1,1 @@
+Machine Learning, an application of Artificial Intelligence, has been used since decades in numerous fields and industries such as medical diagnosis, product recommendation systems, image processing, etc.

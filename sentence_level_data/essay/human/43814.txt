@@ -1,0 +1,1 @@
+As seen in the results, miss-classification is low leading to high accuracy.

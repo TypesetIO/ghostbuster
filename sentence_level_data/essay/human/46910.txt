@@ -1,0 +1,1 @@
+The blob description of the chain breaks down as the slit height h approaches the persistence length p because the orientational and translational degrees of freedom become restricted (in the height dimension) even at the length scale of a single statistical segment.

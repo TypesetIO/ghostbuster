@@ -1,0 +1,1 @@
+The first two variables are the Inputs and Outputs in the Simulink model but Parameters are related to the MATLAB Workspace.

@@ -1,0 +1,1 @@
+Theoretical models, including density functional theory (DFT), have been employed to simulate the effects of these defects on the electronic structure and phonon dispersion, providing valuable insights into the mechanisms underlying the transition [42].

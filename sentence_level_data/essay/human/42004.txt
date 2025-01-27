@@ -1,0 +1,1 @@
+Information from the saccade plan (CD) is sent to LIP (green) through X FEF , where it is transformed into a head-centred reference frame with an eye position (EP) signal from the VR.

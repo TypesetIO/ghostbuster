@@ -1,0 +1,1 @@
+En [3] se discuten las tecnologías habilitantes que permiten el desarrollo de sistemas RoF que incluye esquemas para generación óptica de ondas milimétricas y elevadores de frecuencia, en [4] se presentan varias técnicas para la implementación de redes de acceso ópticas-inalámbricas basadas en procesos de modulación externa realizada en un modulador tipo Mach-Zehnder (MZ).

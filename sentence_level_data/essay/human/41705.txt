@@ -1,0 +1,1 @@
+The next task is to distinguish between three types of flows: (i) flows that do not show any periodic behavior in the training set; (ii) flows that are periodic in the training set but present new requests in the testing set; and (iii) flows that are periodic in the training and testing sets.

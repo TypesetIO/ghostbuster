@@ -1,0 +1,1 @@
+Because we need an adequate amount of data for training and testing, we set three thresholds-10, 20, 50-to the number of malware samples in each family and select the families whose number are larger than each threshold.

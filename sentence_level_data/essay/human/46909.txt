@@ -1,0 +1,1 @@
+The theory describes a confined polymer as a string of self-avoiding blobs with diameter equal to the slit height h and yields scaling predictions for the equilibrium size, diffusivity, and longest relaxation time of the polymer.

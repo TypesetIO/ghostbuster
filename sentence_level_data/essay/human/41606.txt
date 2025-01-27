@@ -1,0 +1,1 @@
+It proposes a hybrid format of visual and text-based programming techniques, with emphasis on object-orientation.

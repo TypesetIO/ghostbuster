@@ -1,0 +1,1 @@
+Essentially, metal-ligand bond strength follows the Pearson principle of hard/soft acid/base combinations (HSAB); hard acids bond strongly with hard bases and soft acids bond strongly with soft bases.

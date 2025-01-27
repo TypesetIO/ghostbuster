@@ -1,0 +1,1 @@
+Recent advancements in deep learning, particularly Convolutional Neural Networks (CNNs), have shown promising results in extracting spatial features from high-resolution satellite imagery, thereby enhancing classification accuracy.

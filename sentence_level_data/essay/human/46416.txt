@@ -1,0 +1,1 @@
+In loT, all smart objects have a unique identity; they can collect and share information and data, can auto organize, react, and act according to the changes in the environment without human interference.

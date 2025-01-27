@@ -1,0 +1,1 @@
+Design work on the BWB uses weight estimates from parametric equations that may be calibrated to but are really independent from FEM results.

@@ -1,0 +1,1 @@
+Recent studies have suggested the integration of machine learning algorithms to enhance the interpretation of AE data, allowing for more accurate predictions of damage progression and failure modes [64].

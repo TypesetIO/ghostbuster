@@ -1,0 +1,1 @@
+To address the limitations of current sentiment analysis applications in software engineering, researchers are exploring more nuanced approaches that consider the multifaceted nature of team interactions and emotional dynamics.

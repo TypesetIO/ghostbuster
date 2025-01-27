@@ -1,0 +1,1 @@
+This dual approach allows for a more effective 'charging' of the PCM, as the system can draw on both ambient air cooling and radiative heat loss to enhance the solidification process.

@@ -1,0 +1,1 @@
+Por otro lado, la modulación simultánea de señales en banda base y RF en un modulador óptico se demostró experimentalmente en [5] .

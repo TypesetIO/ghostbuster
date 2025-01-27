@@ -1,0 +1,1 @@
+For example, Bakalos et al. (2019) utilized visual surveillance, channel state information (CSI) from Wi-Fi signals, and ICS sensor data from the utility to detect intrusions in water infrastructure.

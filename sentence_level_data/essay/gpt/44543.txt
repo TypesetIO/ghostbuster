@@ -1,0 +1,1 @@
+The HRL+NAIS framework demonstrates a lower computational overhead, allowing for faster processing times without sacrificing performance.

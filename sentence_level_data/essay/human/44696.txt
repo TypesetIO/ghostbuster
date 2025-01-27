@@ -1,0 +1,1 @@
+We had selected three of the most important active components of S. fusiformis for in silico docking experiments against nuclear receptors (LXR and FXR) known to protect against inflammatory responses and oxidative stress.

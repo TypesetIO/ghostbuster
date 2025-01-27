@@ -1,0 +1,1 @@
+It was suggested that multi-source data such as optical and SAR radar could be implemented in the future (Ndikumana et al., 2018) .

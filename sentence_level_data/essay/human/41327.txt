@@ -1,0 +1,1 @@
+Since the data is acquired from multiple sources, such an approach is also referred to as multi-sensor fusion.

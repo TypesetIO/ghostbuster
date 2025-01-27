@@ -1,0 +1,1 @@
+Color picture quantization is a specific application of quantization in which the focus is on representing color images digitally.

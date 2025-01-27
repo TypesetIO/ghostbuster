@@ -1,0 +1,1 @@
+The spatial resolution of a digitized image is affected by the sampling rate, whereas the amount of grey levels in a digital snapshot is controlled by the quantization level.

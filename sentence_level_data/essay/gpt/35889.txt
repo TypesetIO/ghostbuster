@@ -1,0 +1,1 @@
+Storage components play a crucial role in Farcargo's information system.

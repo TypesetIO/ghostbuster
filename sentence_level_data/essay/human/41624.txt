@@ -1,0 +1,1 @@
+Since the real component of the permittivity for dielectric materials is generally much smaller than in metals, this poses fabrication issues related to the fact that the metal components have to be much smaller than the dielectric ones.

@@ -1,0 +1,1 @@
+The code editor in Android Studio offers a range of productivity-boosting features, including intelligent code completion, code formatting, and code analysis.

@@ -1,0 +1,1 @@
+Consequently, the grid 48 Â 192 Â 96 is chosen for all subsequent simulation works.

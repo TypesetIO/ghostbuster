@@ -1,0 +1,1 @@
+Implementing electronic health record systems that allow real-time information sharing across different providers can enable coordinated care.

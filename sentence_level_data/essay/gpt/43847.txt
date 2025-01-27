@@ -1,0 +1,1 @@
+The implementation of model-based approaches, such as the observer-based methods mentioned previously, necessitates a robust mathematical model of the system, which can be difficult to achieve due to the non-linear characteristics of power electronics components.

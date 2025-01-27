@@ -1,0 +1,1 @@
+It relies on the principle that if the premises are true, then the conclusion must also be true.

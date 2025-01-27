@@ -1,0 +1,1 @@
+Before the introduction of the YOLO series, the dominant approach in target detection was the Region-based Convolutional Neural Networks (R-CNN) series algorithm, e.g., RCNN, Fast R-CNN and Faster R-CNN.

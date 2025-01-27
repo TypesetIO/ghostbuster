@@ -1,0 +1,1 @@
+This structural configuration might simplify communication, as every group member interacts directly with only two other team members.

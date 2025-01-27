@@ -1,0 +1,1 @@
+It provides tools for appointment scheduling, electronic medical records management, billing, and reporting, among others.

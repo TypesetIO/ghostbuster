@@ -1,0 +1,1 @@
+In addition to the aforementioned studies, the integration of deep learning techniques into crop and weed discrimination has gained traction, offering promising advancements over traditional machine learning methods.

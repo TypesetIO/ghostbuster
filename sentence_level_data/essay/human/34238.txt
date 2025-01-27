@@ -1,0 +1,1 @@
+Specifically, Autopsy allows viewing graphical information stored on the device, searching the repository for specific items, or extracting the data ( Autopsy , n.d.).

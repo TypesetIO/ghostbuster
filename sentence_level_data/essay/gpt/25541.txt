@@ -1,0 +1,1 @@
+This essay will discuss the security challenges posed by the IoT, emphasizing the need for understandable security standards.

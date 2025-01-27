@@ -1,0 +1,1 @@
+Secondly, the nodes in the network are listening in order to receive the data packets directed to them and in some cases they pick the packets that were not directed at them.

@@ -1,0 +1,1 @@
+Typically, scientists express their interest about prediction and diagnosis by employing machine learning techniques that 1) minimize diagnosis time and 2) improve accuracy and efficiency.

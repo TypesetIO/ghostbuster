@@ -1,0 +1,1 @@
+According to the author, this is cost effective compared to the use of a thick overlay to combat reflection cracking.

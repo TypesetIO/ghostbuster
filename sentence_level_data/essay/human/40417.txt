@@ -1,0 +1,1 @@
+Logistic Regression, K-Nearest Neighbour, and Support Vector Machines are the algorithms employed in this project.

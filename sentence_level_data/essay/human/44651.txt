@@ -1,0 +1,1 @@
+Not only that, but we also need to check Composite Reliability (CR) (0.7) to show how consistent each indicator is in measuring construct variables along with the communality value (0.5).

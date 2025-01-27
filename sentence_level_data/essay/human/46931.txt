@@ -1,0 +1,1 @@
+Mientras que la atenuación en espacio libre de frecuencias en la banda de microondas puede llegar a ser mayor de 10 dB/km, en fibra óptica estándar monomodo, la atenuación es de 0,2 dB/km independientemente de la banda de frecuencia que se transporte.

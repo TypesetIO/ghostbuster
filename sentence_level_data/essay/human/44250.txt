@@ -1,0 +1,1 @@
+Example images and highlighted tumor regions are shown in Figure 1 .For model training and evaluation, we crop patches of size 32 × 32 from the marked areas, including a margin towards the marked border.

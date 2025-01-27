@@ -1,0 +1,4 @@
+His real name was:
+Robert'); DROP TABLE People;--
+[See xkcd.com] (http: //xkcd.com/327/)
+^I ^just ^read ^NotANoveltyUser ^and ^see ^that ^he ^had ^the ^opposite ^idea ^about ^the ^simulator ^; -)

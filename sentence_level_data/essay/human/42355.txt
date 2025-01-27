@@ -1,0 +1,1 @@
+This recommends the use of statistical time series models for short term prediction due to processing times and accuracy expectations.

@@ -1,0 +1,1 @@
+In addition, each module in the feature extractor gives a prediction (P5, P4, P3, P2), that will be used in the Region Proposal Networks.

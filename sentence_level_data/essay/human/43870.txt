@@ -1,0 +1,1 @@
+This proved that the MM-GBSA re-docking method is ideal for ligand-binding affinity and pose prediction [80] , and that the glucocorticoid receptor is more selective to HCT than the corresponding mineralocorticoid target [9]

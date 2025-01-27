@@ -1,0 +1,1 @@
+The discrepancies arising from representativeness errors can significantly influence the validation of satellite-derived soil moisture products, particularly when ground-based measurements are employed as reference points.

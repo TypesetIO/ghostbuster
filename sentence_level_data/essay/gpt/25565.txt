@@ -1,0 +1,1 @@
+AHP is a structured decision-making technique that hierarchically decomposes complex problems into a series of pairwise comparisons.

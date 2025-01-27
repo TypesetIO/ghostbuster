@@ -1,0 +1,4 @@
+2.4 Internet of Things (IoT):
+   - Definition and significance of IoT.
+   - Networking challenges and solutions in IoT.
+   - Real-world applications of IoT and its impact on networking.

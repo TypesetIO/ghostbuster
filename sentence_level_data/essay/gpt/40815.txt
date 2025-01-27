@@ -1,0 +1,1 @@
+However, the application of EOQ in spare parts management can be complicated by the variability in demand and lead times, which often necessitates adjustments to the standard model.

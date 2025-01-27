@@ -1,0 +1,1 @@
+Bayesian reasoning is based on the idea that probabilities should be updated as new information becomes available.

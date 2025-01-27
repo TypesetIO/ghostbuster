@@ -1,0 +1,1 @@
+The monitoring and control of various operational activities shall be conducted from the central server to be installed in the Seattle office.

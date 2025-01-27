@@ -1,0 +1,2 @@
+I go to google something, but the google page has been replaced with a message:
+*We have deleted a significant amount of our cache data to place this message.

@@ -1,0 +1,1 @@
+Regarding certain steps and procedural descriptions of the course implementation, it is possible to identify a simulation where a robot is required to navigate around inconsistently located objects, for instance, a remote control machine.

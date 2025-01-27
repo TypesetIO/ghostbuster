@@ -1,0 +1,1 @@
+A mini-robot to perform spraying activities based on machine vision and fuzzy logic has been described in [115,116].

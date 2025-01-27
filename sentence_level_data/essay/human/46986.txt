@@ -1,0 +1,1 @@
+As a result, the performance of the recommendation model based on the discriminative revised profiles is improved.

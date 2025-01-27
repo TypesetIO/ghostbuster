@@ -1,0 +1,1 @@
+As the model simulates various hydrological processes, it is essential to consider the temporal and spatial variability of inputs, as these can greatly influence the accuracy of the simulation results.

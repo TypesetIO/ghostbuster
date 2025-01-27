@@ -1,0 +1,1 @@
+UFED allows investigators to extract and analyze data from mobile devices, including call logs, messages, social media activities, and application data.

@@ -1,0 +1,1 @@
+The sampling function is used to determine the sample result value for each image block, and the most generally used sampling function is to get the regional average value.

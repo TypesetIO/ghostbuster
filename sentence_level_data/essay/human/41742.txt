@@ -1,0 +1,1 @@
+The model system is an oil-in-water dispersion at room temperature (25 1C), in which the tap water (ρ c ¼997.7 kg/m 3 , μ c ¼ 0.001 Pa s) is the continuous phase, and kerosene (ρ d ¼ 789.5 kg/m 3 , μ d ¼0.002 Pa s), paraffin oil (ρ d ¼864.5 kg/m 3 , μ d ¼ 0.052 Pa s) or methyl silicone oil (ρ d ¼972.4 kg/m 3 , μ d ¼ 0.565 Pa s) is used as the dispersed phase.

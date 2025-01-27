@@ -1,0 +1,1 @@
+In practical, it is not always possible that all the decision makers assign same membership degree to an alternative with respect to same attribute.

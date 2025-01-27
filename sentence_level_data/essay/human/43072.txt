@@ -1,0 +1,1 @@
+Simultaneously, the need for a high-speed data rate is also doubling every 18 months [6] , so there is also a need to develop broadband antennas that will transmit the information at least 20 Gb/s.

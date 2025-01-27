@@ -1,0 +1,1 @@
+The interplay between the weights and biases can be mathematically represented through the activation function \( f(u_i) \), which introduces non-linearity into the model, allowing it to capture complex patterns within the data.

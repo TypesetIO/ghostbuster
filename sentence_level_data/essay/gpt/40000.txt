@@ -1,0 +1,1 @@
+The design involves the random assignment of participants into control and treatment groups.

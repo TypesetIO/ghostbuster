@@ -1,0 +1,1 @@
+Here we combine a variety of optical spectroscopy techniques, such as excitation emission maps (EEMs), 33 ultrafast transient absorption (TA), 34 and two-dimensional electronic spectroscopy (2DES), 35, 36 to study the nature and the dynamics of the excited states of isolated GNRs in solution.

@@ -1,0 +1,1 @@
+Figure 5c shows the results of the Fidget-ASTs performed under four conditions: susceptible to both, CIP susceptible and CZ resistant, CIP resistant and CZ susceptible, and resistant to both, with both positive and negative controls.

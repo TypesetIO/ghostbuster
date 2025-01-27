@@ -1,0 +1,1 @@
+For instance, recent research has shown that CNNs can achieve higher accuracy rates in distinguishing between crops and weeds in various agricultural settings, including soybean and wheat fields, compared to conventional classifiers like RF and SVM [Author, Year].

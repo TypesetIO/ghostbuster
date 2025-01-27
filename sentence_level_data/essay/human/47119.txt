@@ -1,0 +1,1 @@
+We compared seven different backbone structures (ResNet50-FPN, ResNet50-DC5, Resnet50-C4, ResNet101-FPN, ResNet101-DC5, ResNet101-C4, and ResNeXt101-FPN).

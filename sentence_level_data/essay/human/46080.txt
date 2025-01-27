@@ -1,0 +1,1 @@
+Each of the 4 wheels is driven by separate motors and can be steered independently (motor controllers are connected by a CAN bus).

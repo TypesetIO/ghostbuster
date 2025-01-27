@@ -1,0 +1,1 @@
+Ha et al. [26] propose new bio-inspired hierarchical multi-cell bi-tubular (BHMB) tubes mimicking the tree-like structures in nature.

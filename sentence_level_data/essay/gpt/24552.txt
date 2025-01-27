@@ -1,0 +1,1 @@
+Therefore, organizations must exercise caution when implementing AI in the selection process, ensuring that AI algorithms are regularly audited and retrained to eliminate biases and promote fair hiring practices.

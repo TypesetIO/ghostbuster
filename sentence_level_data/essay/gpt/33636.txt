@@ -1,0 +1,1 @@
+As data continues to grow exponentially, organizations need a technology that can scale seamlessly to handle increasing volumes of data.

@@ -1,0 +1,1 @@
+Surrogate models, such as Kriging or radial basis functions, can be trained on a limited set of high-fidelity data and then used to predict performance across a broader design space, thereby facilitating rapid iterations in the optimization process [Author, Year].

@@ -1,0 +1,1 @@
+The first-generation of CAR-T cells contained a single CD3ζ signaling domain devoid of additional co-stimulatory molecules [4, 5] .These complexes were similar to endogenous T cell receptors (TCR) and specifically targeted the antigen but had modest clinical activity and a short in vivo lifespan [6] [7] [8]

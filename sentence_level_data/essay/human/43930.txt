@@ -1,0 +1,1 @@
+where current path is confined by FIB in the hexagonal plane.

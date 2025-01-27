@@ -1,0 +1,3 @@
+* Hosting services:
+      + Webhost for hosting the database and resources of the application;
+      + Wamp server to be used as a local server.

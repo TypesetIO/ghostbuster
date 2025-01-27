@@ -1,0 +1,1 @@
+On the other hand, non-uniform sampling can provide a more accurate representation of the original signal, especially in areas with fine details or regions of interest.

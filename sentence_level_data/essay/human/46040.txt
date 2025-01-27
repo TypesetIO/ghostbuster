@@ -1,0 +1,1 @@
+The intermediate-fidelity structural analysis in WingMOD is already better than parametric weight equations, so the optimization cannot be faulted with missing something the standard approach would catch.

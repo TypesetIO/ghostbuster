@@ -1,0 +1,1 @@
+Furthermore, the integration of remote sensing technologies can provide real-time data on precipitation, land cover changes, and surface water dynamics, thereby improving the temporal resolution of model inputs.

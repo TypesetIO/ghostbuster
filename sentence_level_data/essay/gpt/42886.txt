@@ -1,0 +1,1 @@
+Despite the advancements in Intrusion Detection Systems (IDS) for IoT networks, several challenges remain that hinder their effectiveness and widespread adoption.

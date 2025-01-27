@@ -1,0 +1,1 @@
+Cell size adjusts tactically within cell lineages in response to substrate supply (Lever et al., 2015) , with volumes decreasing up to 10-fold after 28 days of starvation conditions compared to growth conditions (e.g. Figure B2 ).

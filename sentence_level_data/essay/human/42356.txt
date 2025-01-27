@@ -1,0 +1,1 @@
+Derived time series data of the wind speed are not normally distributed, and patterns are nonlinear [3] .So it is a challenge to model the wind speed characteristics using the statistical methods such as multiple regressions, exponential smoothing, and autoregressive moving average methods.

@@ -1,0 +1,1 @@
+For the implementation of a DDoS attack initially, the hacker selects a DDoS master (Bot), an loT device such as a computer, laptop, etc. by compromising that device by taking advantage of the vulnerability of that loT device [3] .

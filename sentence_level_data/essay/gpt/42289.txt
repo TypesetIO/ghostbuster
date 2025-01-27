@@ -1,0 +1,1 @@
+Recent research has also explored the potential of transfer learning, where pre-trained models on large datasets are fine-tuned for specific heart disease prediction tasks, thereby reducing the need for extensive labeled data [Author, Year].

@@ -1,0 +1,1 @@
+In summary, among various methods for wood surface defect detection, the target detection algorithm utilizing deep learning emerges as a highly cost-effective approach.

@@ -1,0 +1,1 @@
+For example a flexible multipurpose farming and weeding robot platform named BoniRob [18, 106] (shown in Figure 2a ) was developed as a joint project between the University of Osnabrueck, the DeepField Robotics start-up, Robert Bosch company, and the machine manufacturer Amazonen-Werker.

@@ -1,0 +1,1 @@
+El nivel de aislamiento asignado se especifica por la tensión soportada al impulso tipo rayo entre fase y tierra.

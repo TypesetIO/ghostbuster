@@ -1,0 +1,1 @@
+Values of FFR considered were 400, 600, 800, and 1100 l h − 1 , limited by the maximum hydraulic pressure drop (ΔP drop ) that the manufacturer recommended not to surpass: 600 mbar.

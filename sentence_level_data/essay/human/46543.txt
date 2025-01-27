@@ -1,0 +1,1 @@
+Those two analyses can provide different results because sensitivity of one parameter often depends on the value of other related parameters, and the problem with one-at-a-time analysis is that the correct values of other parameters are fixed and never known.

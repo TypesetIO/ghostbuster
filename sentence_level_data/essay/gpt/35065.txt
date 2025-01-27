@@ -1,0 +1,1 @@
+However, when there is degeneracy in the code, certain mutations may not have any effect on the protein sequence due to synonymous codons.

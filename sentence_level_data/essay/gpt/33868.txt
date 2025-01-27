@@ -1,0 +1,1 @@
+Prescriptive analytics takes data analysis a step further by suggesting optimal courses of action and recommending decision options based on predictive models.

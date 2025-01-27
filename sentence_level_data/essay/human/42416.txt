@@ -1,0 +1,1 @@
+For example, the label "Plant:Rhizosphere" might group together microbial communities that are proximal and distal to plant roots from many cropping conditions.

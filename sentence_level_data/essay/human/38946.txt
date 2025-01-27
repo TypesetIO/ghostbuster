@@ -1,0 +1,1 @@
+The digital image gives the response value and spatial position of the image.

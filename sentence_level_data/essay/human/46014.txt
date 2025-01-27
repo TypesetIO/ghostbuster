@@ -1,0 +1,1 @@
+The power electronics subsystem is prone to various types of faults, including faults in transistors, thyristors, DC lines, and PCB boards.

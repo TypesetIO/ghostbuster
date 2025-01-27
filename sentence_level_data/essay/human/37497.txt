@@ -1,0 +1,1 @@
+This can be a pop-up box that immediately appears when the user visits the website.

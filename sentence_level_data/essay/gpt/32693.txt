@@ -1,0 +1,1 @@
+Two popular options for intrusion detection are Host-based Intrusion Detection Systems (HIDS) and Network-based Intrusion Detection Systems (NIDS).

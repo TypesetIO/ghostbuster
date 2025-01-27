@@ -1,0 +1,1 @@
+This proposed model addressed the issues of reverse transmission, load sharing and self-silence with integration of techniques such as selforganizing map (SOM), k-means algorithm and cluster head management.

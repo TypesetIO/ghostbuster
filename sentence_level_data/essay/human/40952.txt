@@ -1,0 +1,1 @@
+The dynamics of a game give players the parameters within which they play.

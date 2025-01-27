@@ -1,0 +1,1 @@
+This involves segregation of duties, regular monitoring of transactions, and ensuring that the appropriate authorization and approval processes are in place.

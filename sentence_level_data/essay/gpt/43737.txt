@@ -1,0 +1,1 @@
+For instance, integrating data from gyroscopes and accelerometers with encoder readings can provide a more comprehensive understanding of the robot's motion dynamics.

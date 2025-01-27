@@ -1,0 +1,1 @@
+As the adoption of these devices increases, it is essential to address potential sources of error in PPG signal acquisition, such as motion artifacts and ambient light interference, which can significantly affect the reliability of the measurements [10].

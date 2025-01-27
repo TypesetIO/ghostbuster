@@ -1,0 +1,1 @@
+The performance metrics, including precision, recall, and F1-score, are computed to evaluate the effectiveness of the IDS in detecting various types of intrusions.

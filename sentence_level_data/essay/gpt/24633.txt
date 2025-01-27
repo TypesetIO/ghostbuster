@@ -1,0 +1,1 @@
+Simulations, especially obstacle course designs, provide a controlled environment for assessing a robot's performance, identifying design flaws, and improving functionality.

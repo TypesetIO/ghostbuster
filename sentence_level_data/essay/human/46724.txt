@@ -1,0 +1,1 @@
+A study utilized hyperspectral images for the classification of various categories of natural vegetation and evaluated the performance of CNN, RF, and SVM.

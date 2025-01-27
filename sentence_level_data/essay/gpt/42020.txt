@@ -1,0 +1,1 @@
+These algorithms operate by simulating the human visual perception system, allowing for a more balanced enhancement that minimizes the risk of saturation in well-lit regions.

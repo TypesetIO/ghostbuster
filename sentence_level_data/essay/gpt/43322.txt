@@ -1,0 +1,1 @@
+The combustion of pyrolysis oil in CI engines can lead to variations in performance metrics such as brake thermal efficiency (BTE), exhaust gas temperature, and emissions of nitrogen oxides (NOx) and particulate matter (PM).

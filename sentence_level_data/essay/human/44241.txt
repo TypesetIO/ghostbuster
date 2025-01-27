@@ -1,0 +1,1 @@
+The spectral bands range from 430 nm to 680 nm with a step size of 10 nm and a bandwidth of 15 nm.

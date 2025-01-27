@@ -1,0 +1,1 @@
+Some well-known and successful DL models were trained and tested on wetland classes and found that the Inception ResNet-v2 model outperformed the other DL models including VGG, ResNet, Xception, DenseNet, Inception-v3 (Mahdianpari et al., 2018) .

@@ -1,0 +1,1 @@
+The exact angle between the lane and the boundary is preserved in this projection.

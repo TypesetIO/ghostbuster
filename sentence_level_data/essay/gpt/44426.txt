@@ -1,0 +1,1 @@
+Recent advancements in hybrid modeling approaches, which combine the strengths of both RANS and LES methodologies, have shown promise in addressing these challenges by providing a more comprehensive representation of turbulent flows [Author, Year].

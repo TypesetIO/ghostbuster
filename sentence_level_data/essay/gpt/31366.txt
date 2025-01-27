@@ -1,0 +1,1 @@
+By separating these two aspects, Android Studio promotes clean code architecture and better code organization.

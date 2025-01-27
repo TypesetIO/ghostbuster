@@ -1,0 +1,1 @@
+Eric Schlosser implements an approach resembling Chandler’s in the introduction to his book, Fast Food Nation: The Dark Side of the All-American Meal .

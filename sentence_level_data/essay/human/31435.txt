@@ -1,0 +1,1 @@
+The company can realize even more accurate forecast by adjusting the weights for the moving average.

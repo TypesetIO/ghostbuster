@@ -1,0 +1,1 @@
+Propulsion-airframe integration is especially important for the BWB because of the potential for either improved performance or problems with high distortion associated with boundary layer ingestion.

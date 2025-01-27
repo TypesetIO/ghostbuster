@@ -1,0 +1,1 @@
+It was used to find specific 16s rRNA genes present in unknown organisms by cross-referencing them with databases for known bacteria sequencing.

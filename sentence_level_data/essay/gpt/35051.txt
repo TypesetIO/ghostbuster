@@ -1,0 +1,1 @@
+If each amino acid were specified by a unique pair of nucleotides, the genetic code would have consisted of 16 combinations, leaving 4 unused codons.

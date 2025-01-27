@@ -1,0 +1,1 @@
+We simulate this effect by assuming the linear relation ℏD aq = gT between the line width and the temperature.

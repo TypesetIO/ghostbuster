@@ -1,0 +1,1 @@
+Three competing length scales affect the final conformation of the chain: the 3D bulk radius of gyration R g,bulk , the persistence length p of the polymer, and the height h of the confining slit.

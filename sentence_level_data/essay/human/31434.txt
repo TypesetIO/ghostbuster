@@ -1,0 +1,1 @@
+Consequently, the weighted moving average generates accurate forecast compared to the simple moving averages.

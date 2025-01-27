@@ -1,0 +1,1 @@
+Symmetric encryption techniques employ a single cryptographic key to encrypt and decode the data received.

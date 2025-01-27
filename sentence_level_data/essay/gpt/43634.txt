@@ -1,0 +1,1 @@
+Furthermore, the AGORA resource enables researchers to perform detailed flux balance analysis (FBA) and other constraint-based modeling techniques, thereby allowing for the simulation of metabolic responses under various environmental conditions.

@@ -1,0 +1,1 @@
+Android Studio is a powerful Integrated Development Environment (IDE) designed specifically for building Android applications.

@@ -1,0 +1,1 @@
+Additionally, we explored the influence of solvent polarity on the excitonic dynamics, finding that higher polarity solvents lead to increased exciton lifetimes, likely due to reduced dielectric screening effects.

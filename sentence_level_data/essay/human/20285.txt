@@ -1,0 +1,1 @@
+We expected the first printout to be something simple.

@@ -1,0 +1,1 @@
+Dimensionality reduction methods, such as Principal Component Analysis (PCA) and t-Distributed Stochastic Neighbor Embedding (t-SNE), can significantly mitigate the curse of dimensionality by projecting high-dimensional data into lower-dimensional spaces while preserving the intrinsic structure of the data [Author, Year].

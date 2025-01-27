@@ -1,0 +1,1 @@
+Coupling additional co-stimulatory signaling domains (for instance, CD28, 4-1BB, or OX40) to the antigen-specific scFv led to enhanced activation, improved survival, effective expansion of the modified T cells and sustained response due to longer in vivo half-lives [9] .

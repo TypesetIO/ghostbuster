@@ -1,0 +1,1 @@
+Additionally, the diverse nature of IoT devices, each with unique communication protocols and operational characteristics, complicates the development of a one-size-fits-all IDS solution.

@@ -1,0 +1,1 @@
+The contribution coming from the sole hyperfine energy modulation is represented by a red line and dots, while the sole Zeeman contribution is reported by the green line and dots.

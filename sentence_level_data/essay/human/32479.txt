@@ -1,0 +1,1 @@
+Seasonality is one of the characteristics of the problem, as the primary load is apparent in the so-called flu seasons.

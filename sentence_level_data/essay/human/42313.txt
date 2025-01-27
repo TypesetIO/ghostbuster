@@ -1,0 +1,1 @@
+The first time the participant failed to make the finish line in time, a warning was given; the second time, the test ended for the participant.

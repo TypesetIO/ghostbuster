@@ -1,0 +1,1 @@
+Therefore, a comprehensive understanding of representativeness errors is crucial for the development of robust validation frameworks that can accurately assess the reliability of soil moisture products.

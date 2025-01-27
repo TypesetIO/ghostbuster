@@ -1,0 +1,1 @@
+The IMEP can be calculated using Equation ( 5) [45] , and 80 cycles were analyzed to determine cyclic variability at different test settings.

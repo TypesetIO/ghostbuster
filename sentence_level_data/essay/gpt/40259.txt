@@ -1,0 +1,1 @@
+As the temperature increases, the phonon population rises, leading to enhanced phonon-phonon interactions that can significantly alter the effective phonon lifetime.

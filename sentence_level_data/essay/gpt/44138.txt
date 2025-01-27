@@ -1,0 +1,1 @@
+Future research should focus on the scalability of the proposed solution and its performance in real-world scenarios, as well as the potential for integrating threat intelligence feeds to further improve detection capabilities [4].

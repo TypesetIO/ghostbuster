@@ -1,0 +1,1 @@
+Techniques such as SHAP (SHapley Additive exPlanations) and LIME (Local Interpretable Model-agnostic Explanations) are being employed to elucidate model predictions, thereby fostering trust and facilitating the integration of these technologies into clinical workflows.

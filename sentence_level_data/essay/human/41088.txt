@@ -1,0 +1,1 @@
+While the FAST mechanism allows rapid filtration, we utilized the advantage of the non-FAST method to retain detection solution at very low volumes above the filtration membrane by withdrawing the fluid from the bottom chamber underneath the membrane just before introducing the detection solution.

@@ -1,0 +1,1 @@
+This redundancy in the code is thought to have evolved to protect against mutations.

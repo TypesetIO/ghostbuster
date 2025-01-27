@@ -1,0 +1,1 @@
+For example, a safety rating system for smart home devices could highlight the encryption strength, authentication mechanisms, and software update frequency of each product.

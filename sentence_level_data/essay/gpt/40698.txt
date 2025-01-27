@@ -1,0 +1,1 @@
+In addition, the implementation of AI in healthcare must be accompanied by robust regulatory frameworks that ensure patient privacy and data security, as the collection and analysis of health data raise significant concerns regarding confidentiality [Author, Year].

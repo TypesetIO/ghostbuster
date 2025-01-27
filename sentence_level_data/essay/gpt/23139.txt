@@ -1,0 +1,1 @@
+Biomedical articles follow an IMRAD format, focusing on clinical significance and patient outcomes.

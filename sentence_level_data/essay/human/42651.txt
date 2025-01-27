@@ -1,0 +1,1 @@
+If the APK file was marked in one or more of the analysis results provided by the security vendors, then we flagged the APK file as a malicious one.

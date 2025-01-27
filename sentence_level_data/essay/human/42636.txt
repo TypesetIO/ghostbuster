@@ -1,0 +1,1 @@
+The faults commonly found in power semiconductor switches are open-circuit and short-circuit faults [26] .

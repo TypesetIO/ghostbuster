@@ -1,0 +1,1 @@
+For instance, the application of supervised learning methods has shown promise in classifying AE signals based on their frequency characteristics, thereby enabling real-time monitoring of structural integrity [Author, Year].

@@ -1,0 +1,1 @@
+The long procedure times and considerable PV reconnections drove interest in exploring high-power short-duration ablation, with power ranges of 40 to 90 W and an RF application time of <15 seconds per lesion.

@@ -1,0 +1,1 @@
+Our results indicated that SEER-FISH could reliably identify taxa present at levels as low as 0.1% of the total community, demonstrating a significant improvement over traditional FISH techniques, which often struggle with low-abundance species [Author, Year].

@@ -1,0 +1,1 @@
+Xie et al. [121] tested different cardinality values (1, 2, 4, 8, and 32), showing the best results using 32 (the one used in this research).

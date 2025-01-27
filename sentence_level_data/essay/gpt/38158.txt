@@ -1,0 +1,1 @@
+Healthcare organizations should implement robust reporting systems to capture near-miss incidents, adverse events, and any malfunctions or pump-related errors.

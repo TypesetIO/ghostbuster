@@ -1,0 +1,1 @@
+The first test seeks to verify the basic assumption that industrial control network traffic consists of a series of periodic requests and that responses can be represented by the cycle model.

@@ -1,0 +1,1 @@
+Coupled with these prediction errors, the direction of wind flow also adversely affects the wind power prediction accuracy.

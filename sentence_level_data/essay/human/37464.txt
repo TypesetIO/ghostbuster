@@ -1,0 +1,1 @@
+Dude can either be applied to more than a single function or be ambiguous; hence the functions are not entirely exclusive.

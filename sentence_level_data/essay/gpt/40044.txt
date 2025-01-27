@@ -1,0 +1,1 @@
+Furthermore, the interpretability of machine learning models poses another challenge; while models like SVM and k-nearest neighbors can achieve high accuracy, their decision-making processes are often opaque, making it difficult for healthcare professionals to trust and validate the results [Author, Year].

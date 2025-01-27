@@ -1,0 +1,1 @@
+Consistency of data is a key factor in achieving reliability.

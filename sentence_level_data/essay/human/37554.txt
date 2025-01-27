@@ -1,0 +1,1 @@
+This document will act as a guide during the implementation of Farcargo’s information system.

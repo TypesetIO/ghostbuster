@@ -1,0 +1,1 @@
+He highlights the danger of overfitting, where models become too complex and end up fitting noise rather than identifying true signals.

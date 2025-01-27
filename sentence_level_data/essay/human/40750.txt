@@ -1,0 +1,1 @@
+To estimate asymmetry in the scaling of the firing rate as a function of positive versus negative RPEs, we estimated the scaling of positive and negative RPEs on rewarded and unrewarded trials, respectively.

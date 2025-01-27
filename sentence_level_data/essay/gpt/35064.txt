@@ -1,0 +1,1 @@
+If each amino acid were specified by a single codon, a point mutation that changes one nucleotide in the codon sequence could result in an entirely different amino acid being incorporated into the protein.

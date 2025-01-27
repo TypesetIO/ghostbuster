@@ -1,0 +1,1 @@
+Traditional data processing systems excel at analyzing structured data, such as relational databases.

@@ -1,0 +1,1 @@
+One significant issue is the variability in acoustic emission signal characteristics due to differing environmental conditions, such as temperature fluctuations and humidity levels, which can affect the propagation of acoustic waves [62].

@@ -1,0 +1,1 @@
+Organizations should consider utilizing both HIDS and NIDS and effectively leveraging logs to ensure the highest levels of protection for their devices and networks.

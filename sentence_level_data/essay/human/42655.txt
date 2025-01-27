@@ -1,0 +1,1 @@
+Moreover, because the labeled data are necessary for our analysis and test, we removed the APK files that VirusTotal failed to handle in advance.

@@ -1,0 +1,1 @@
+Convolutional Neural Networks (CNNs) have emerged as a powerful tool for image and video analysis, allowing for the automatic extraction of hierarchical features from raw data without the need for manual feature engineering.

@@ -1,0 +1,1 @@
+The coefficient of "lnEX" in the central region is 0.0628 at the 5% significant level, which means that increases in export dependence by 1% led to increases in NO x emissions by 0.0628% in the central region.

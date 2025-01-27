@@ -1,0 +1,1 @@
+It provides authentication and authorization mechanisms to control access to data and restrict unauthorized users from manipulating or viewing sensitive information.

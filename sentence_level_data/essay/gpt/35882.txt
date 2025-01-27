@@ -1,0 +1,1 @@
+By employing redundant hardware, Farcargo ensures system reliability and minimizes the risk of downtime.

@@ -1,0 +1,1 @@
+For example, in the field of image processing, an image with a higher quantization level will have a larger color palette, resulting in finer shades and details.

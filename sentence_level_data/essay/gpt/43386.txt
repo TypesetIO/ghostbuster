@@ -1,0 +1,1 @@
+Future research should focus on quantifying these errors across different spatial and temporal scales, as well as exploring innovative methodologies to bridge the gap between point-scale measurements and grid cell-scale estimates, ultimately leading to improved soil moisture monitoring and management strategies [Author, Year].

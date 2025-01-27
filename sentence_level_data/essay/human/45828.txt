@@ -1,0 +1,1 @@
+The following blocks can be distinguished in the model: Template, PID Controller, Engines (left and right motors), encoders, and inverse kinematics (IK).

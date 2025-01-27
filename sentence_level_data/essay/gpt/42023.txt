@@ -1,0 +1,1 @@
+Furthermore, the integration of perceptual loss functions during training has shown promise in maintaining the naturalness of enhanced images, thereby addressing the issue of over-amplification (Ledig et al., 2017).

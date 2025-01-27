@@ -1,0 +1,1 @@
+Methods based on power balance calculations to correct the measured DC-link voltage are not suitable for applications where the DC-bus voltage fluctuates, such as in electric vehicles.

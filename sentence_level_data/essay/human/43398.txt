@@ -1,0 +1,1 @@
+As flow separate and reattach around bluff bodies, the external shape of tall buildings plays an influential role in the generation of wind load on high rise buildings.

@@ -1,0 +1,1 @@
+Additionally, Hadoop's data replication capabilities further enhance reliability by creating multiple copies of data across different nodes.

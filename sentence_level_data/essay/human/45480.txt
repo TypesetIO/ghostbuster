@@ -1,0 +1,1 @@
+Topographic and land cover data are relatively available on different websites (Earth Explorer site, European Environmental Agency, CORINE Land Cover sites, etc.).

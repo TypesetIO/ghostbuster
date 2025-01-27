@@ -1,0 +1,1 @@
+2. Uneven sampling entails increasing the sampling frequency where details must be represented while decreasing in areas with minor picture changes.

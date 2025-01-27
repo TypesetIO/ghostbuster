@@ -1,0 +1,1 @@
+As IoT devices often operate in resource-constrained environments, balancing security measures with performance is crucial.

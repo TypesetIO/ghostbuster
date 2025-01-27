@@ -1,0 +1,1 @@
+This method showed a better differentiation of HCT binding potential between the two steroid receptors, whereby higher affinity (MM-GBSA-binding score: −79.38 kcal/mol) was obtained for the glucocorticoid receptor compared to the mineralocorticoid target (MM-GBSA-binding score: −66.07 kcal/mol).

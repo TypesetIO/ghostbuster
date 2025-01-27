@@ -1,0 +1,1 @@
+In particular, Cronbach’s alpha is used to assess internal consistency, and the intraclass correlation coefficient (ICC) is used for test-retest reliability (Massai et al., 2018).

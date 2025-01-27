@@ -1,0 +1,1 @@
+Research by Liu et al. (2021) indicated that an ensemble of RF and SVM classifiers significantly improved the classification of complex agricultural landscapes compared to individual models.

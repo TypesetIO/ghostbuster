@@ -1,0 +1,1 @@
+We have tried to look at the interaction between LXR and selected active compounds of S. fusiformis (b-carotene, phycocyanobilin, and vitamin B 12 ) by in silico docking experiments.

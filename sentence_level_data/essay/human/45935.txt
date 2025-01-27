@@ -1,0 +1,1 @@
+Many undesirable effects may appear when an inventory replenishment policy is implemented in the supply chain described above.

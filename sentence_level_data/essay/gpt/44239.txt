@@ -1,0 +1,1 @@
+In practical applications, this analysis is essential for ensuring that the transformations applied to the variables do not lead to singularities or loss of information.

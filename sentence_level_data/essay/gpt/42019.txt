@@ -1,0 +1,1 @@
+One such approach is the use of multi-scale retinex algorithms, which combine the advantages of both spatial and spectral information to improve image quality without compromising detail in brighter areas (Jobson et al., 1997).

@@ -1,0 +1,1 @@
+These methods, such as Lasso and Ridge regression, impose penalties on the size of the coefficients, thereby promoting sparsity in the model and improving interpretability [Tibshirani, 1996].

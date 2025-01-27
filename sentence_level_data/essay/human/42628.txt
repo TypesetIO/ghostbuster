@@ -1,0 +1,1 @@
+Such switch failures can cause extensive damage to the drive system, and they are generally categorized as open-switch faults and shortswitch faults.

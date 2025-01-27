@@ -1,0 +1,1 @@
+For instance, the position [X1; Y1] of an object 1 can be updated in real-time defining a 'tunable' parameter POSITION

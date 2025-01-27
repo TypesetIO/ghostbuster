@@ -1,0 +1,1 @@
+T statistics are used for deciding whether you should support or reject the null hypothesis, and it must be above 1.96 (Manurung&Budiastuti, 2019).

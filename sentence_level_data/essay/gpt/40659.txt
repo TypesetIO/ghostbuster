@@ -1,0 +1,1 @@
+Moreover, the stability of BP under operational conditions is a critical factor that warrants investigation, as degradation of the electrode material can lead to diminished efficiency over time.

@@ -1,0 +1,1 @@
+However, NIDS may require additional network infrastructure or have compatibility issues with certain network configurations.

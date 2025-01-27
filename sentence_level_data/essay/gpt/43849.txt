@@ -1,0 +1,1 @@
+To mitigate these issues, researchers have explored the use of hardware-in-the-loop (HIL) simulations, which allow for the testing of fault diagnosis algorithms in a controlled environment before deployment in actual systems.

@@ -1,0 +1,1 @@
+Both these estimators are in reasonable agreement (Lawless, 1982) .Nevertheless, since the Breslow estimator is simpler to evaluate it is being used more frequently in practice.

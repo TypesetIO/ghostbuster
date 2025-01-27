@@ -1,0 +1,1 @@
+For example, administrators may use time series analysis to predict future patient volumes, enabling them to allocate financial resources accordingly.

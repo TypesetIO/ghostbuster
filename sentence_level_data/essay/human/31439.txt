@@ -1,0 +1,1 @@
+This performance is better than the simple moving average.

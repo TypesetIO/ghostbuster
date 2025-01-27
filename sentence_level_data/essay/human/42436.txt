@@ -1,0 +1,1 @@
+The within-day (n = 3) and between-days (n = 6) precision of three concentration levels of standards was found to be precise, as the Relative Standard Deviation (RSD) values were less than 3%.

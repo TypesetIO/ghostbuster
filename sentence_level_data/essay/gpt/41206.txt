@@ -1,0 +1,1 @@
+Furthermore, the transformation of spatial information from eye-centered to head-centered coordinates in LIP underscores the necessity of integrating sensory inputs with motor plans, facilitating a coherent representation of the environment.

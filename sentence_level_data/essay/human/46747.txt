@@ -1,0 +1,1 @@
+Dwivedi et al. [3] adopted a simple approach for experiment on aerodynamic static stability analysis of different types of wing shapes.

@@ -1,0 +1,1 @@
+Molecular docking of HCT on the glucocorticoid receptor (PDB: 4P6X) revealed that the conformation was consistent with previous X-ray-diffraction studies [51] and revealed associated critical molecular interactions.

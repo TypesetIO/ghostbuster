@@ -1,0 +1,1 @@
+Integrating HIDS and NIDS allows for a comprehensive and multifaceted approach to intrusion detection.

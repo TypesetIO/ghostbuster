@@ -1,0 +1,1 @@
+This sequencing avoids unnecessary delays and minimizes risks associated with simultaneous implementation of multiple components.

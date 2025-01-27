@@ -1,0 +1,1 @@
+For example, some researchers have developed robotic cleaners that are designed to work on tilted PV panels [28, 29] , while others have developed robotic cleaners that can work in environments with high levels of dust [30, 31] .Furthermore, some researchers have investigated the impact of different cleaning frequencies on the performance of PV panels [32, 33] .

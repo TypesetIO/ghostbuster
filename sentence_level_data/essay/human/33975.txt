@@ -1,0 +1,1 @@
+In order to elaborate an obstacle course that can test the autonomy of simple robots, it is possible to select a “real-world” simulation as a course general design approach.

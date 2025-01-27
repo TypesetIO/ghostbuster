@@ -1,0 +1,1 @@
+Furthermore, the use of bispecific CARs, which can target two different antigens, has shown promise in preclinical models, suggesting a potential strategy to enhance the breadth of CAR-T cell responses [15].

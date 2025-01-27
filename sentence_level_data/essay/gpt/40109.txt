@@ -1,0 +1,1 @@
+For instance, the interaction between OH surf and Pd atoms may lead to modifications in the d-band center, which is known to correlate with catalytic activity [Author, Year].

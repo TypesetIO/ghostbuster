@@ -1,0 +1,1 @@
+A Gray Level Co-occurrence Matrix (GLCM) feature was used to implement an ArSL transformation system suggested in [15] .Despite the fact that the system was not deep learningbased, it had four phases: processing, feature extraction, matching technique, and display translation.

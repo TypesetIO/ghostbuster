@@ -1,0 +1,4 @@
+The risks for the performance of the end product are as follows:
+  * The product might not be secure enough to be allowed to work with personal student data;
+  * The product would be economically unfeasible to run;
+  * The product would not perform adequately to the university’s requirements.

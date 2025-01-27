@@ -1,0 +1,1 @@
+For example, in the case of audio recording, a higher sampling resolution allows for a greater range of frequencies to be captured, resulting in a higher-fidelity reproduction of the original sound.

@@ -1,0 +1,1 @@
+Pyrolysis is an exothermic process and requires a small amount (≈ 58MJ/t) of energy to initiate the pyrolysis process (Saft, 2007) . Boateng et al. (2010) calculated the energy recovery of the soybean straw-based biochar system based on the energy balance of all products (steam, bio-oil, biochar, and non-condensable gases), which was approximately 90%.

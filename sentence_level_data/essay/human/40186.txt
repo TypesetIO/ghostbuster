@@ -1,0 +1,1 @@
+We focus on the particularly interesting case of the d-dimensional Euclidean space where X = Bd under some a, norm.

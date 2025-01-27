@@ -1,0 +1,1 @@
+On comparing Fig. 38 to Fig. 32 for the non-spinpolarized case we recognize the main changes arising from spinpolarization in the small energy interval from -1 to 1 eV about the Fermi energy.

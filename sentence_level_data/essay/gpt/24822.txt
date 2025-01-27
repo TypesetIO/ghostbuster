@@ -1,0 +1,1 @@
+Traditionally, route planning was a time-consuming process that relied on historical data and assumed static conditions.

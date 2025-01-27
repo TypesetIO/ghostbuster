@@ -1,0 +1,1 @@
+The higher the quantization level, the more precise the digital representation will be, but also the larger the resulting file size.

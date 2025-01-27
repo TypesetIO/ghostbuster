@@ -1,0 +1,1 @@
+To confirm that all the selected samples are benign, we used VirusTotal to label all the APK files and selected those without malicious labels as benign samples.

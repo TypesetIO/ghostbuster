@@ -1,0 +1,1 @@
+Furthermore, the reliance on a central processor introduces a single point of failure, which can compromise the entire system's functionality.

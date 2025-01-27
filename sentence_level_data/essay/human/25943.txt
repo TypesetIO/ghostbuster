@@ -1,0 +1,1 @@
+Once the responsible anchors itself in the host, it starts to reproduce and eventually breaks free to infect others.

@@ -1,0 +1,1 @@
+During reactor service, zirconium alloys react with coolant water, which produces undesirable hydrogen [1] .A fraction of the produced hydrogen is absorbed in zirconium alloys, which is precipitated as brittle zirconium hydrides when the hydrogen concentration exceeds the terminal solid solubility of hydrogen in zirconium matrix.

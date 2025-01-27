@@ -1,0 +1,1 @@
+Unlike other network security systems, IDS is an active network security protection technology that detects network intrusion data in near-real-time.

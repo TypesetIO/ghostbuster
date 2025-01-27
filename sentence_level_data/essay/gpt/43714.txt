@@ -1,0 +1,1 @@
+By minimizing the transmission power, TPC can significantly reduce energy consumption while maintaining reliable communication [19].

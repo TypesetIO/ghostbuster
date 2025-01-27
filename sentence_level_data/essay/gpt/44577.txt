@@ -1,0 +1,1 @@
+For instance, the presence of a gradient in porosity can lead to localized stress concentrations, which may enhance or diminish the effective Young's modulus depending on the specific geometry and loading conditions [Author, Year].

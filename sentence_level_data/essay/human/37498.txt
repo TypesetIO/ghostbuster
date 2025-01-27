@@ -1,0 +1,1 @@
+This box includes the date and time of the incident, what happened, and 1-2 suggestions on what individuals are recommended to do to ensure personal safety.

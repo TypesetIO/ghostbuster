@@ -1,0 +1,1 @@
+Tissues or cells can be treated before or during Ussing chamber runs and more than one analysis can be conducted including epithelial resistance, FITC-LPS, or FITC-Dextran transport, as well as measures of glucose or amino acid transport.

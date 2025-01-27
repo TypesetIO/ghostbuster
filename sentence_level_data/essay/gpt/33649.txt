@@ -1,0 +1,1 @@
+Another strength of Hadoop is its ability to handle different types of data.

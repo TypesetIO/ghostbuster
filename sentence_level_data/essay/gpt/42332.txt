@@ -1,0 +1,1 @@
+The development of lightweight models that can operate efficiently on edge devices is an area of active research, as it allows for immediate feedback and intervention in crop management practices [Author, Year].

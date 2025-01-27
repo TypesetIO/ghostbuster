@@ -1,0 +1,1 @@
+Each small task shall be assigned to a specific team that shall develop it independently.

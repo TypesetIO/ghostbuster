@@ -1,0 +1,1 @@
+This flexibility is particularly beneficial in research environments where rapid prototyping and testing of different algorithms are necessary.

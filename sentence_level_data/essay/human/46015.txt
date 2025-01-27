@@ -1,0 +1,1 @@
+While transistors are the most common type of fault, it is important to consider other possible faults in the system as well.

@@ -1,0 +1,1 @@
+Here we propose a novel hybrid IDS for the detection of DDoS attacks in loT networks merging multiobjective optimization algorithms and deep learning algorithms.

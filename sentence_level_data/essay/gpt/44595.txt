@@ -1,0 +1,1 @@
+Recent studies have highlighted that the metal-insulator transition (MIT) in VO 2 is not merely a thermal phenomenon but can also be influenced by external stimuli such as electric fields and light, leading to a phenomenon known as photo-induced MIT [7, 8].

@@ -1,0 +1,1 @@
+One of the primary considerations in the design process is the selection of appropriate substrate materials, which significantly influence the antenna's performance characteristics, including bandwidth, efficiency, and radiation pattern.

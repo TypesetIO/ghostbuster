@@ -1,0 +1,1 @@
+To sequentially label the target taxon with an N-bit barcode, we developed a protocol that allowed for iterative labeling of microbial rRNAs with rapid probe hybridization and dissociation (Supplementary Fig. 1 , see Multi-round FISH imaging in Methods).

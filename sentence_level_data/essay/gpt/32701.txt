@@ -1,0 +1,1 @@
+In terms of analytics, HIDS provides more context-rich information about system-level events.

@@ -1,0 +1,1 @@
+To this aim, we combined genetic approaches with cryo-focused ion beam (cryo-FIB) milling and cryo-electron tomography (cryo-ET) to examine HeLa cells overexpressing this protein (either full length or with an internal truncation) along with VAP, its anchoring binding partner at the ER.

@@ -1,0 +1,1 @@
+The technology preserves all data regarding the virtual identity and transactions, which is transparent to all parties involved but severely secured by well-built cryptography.

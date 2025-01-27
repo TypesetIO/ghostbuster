@@ -1,0 +1,1 @@
+This model describes the role of combining ANN with NSGA-II in reducing energy demand and thermal discomfort.

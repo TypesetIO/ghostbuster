@@ -1,0 +1,1 @@
+Paso 5: con los valores definidos se determina el límite de error real de acuerdo con la fórmula (8.14), y este debe ser menor que el 10%.8.7.6 Pruebas Los transformadores de corriente deberán ser sometidos a las siguientes pruebas: 8.7.6.1

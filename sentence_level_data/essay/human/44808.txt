@@ -1,0 +1,1 @@
+The Gini coefficient of disposable income is taken from Solt's Standardised World Income Inequality Database (2016) and the net poverty rate is based on OECD data.7

@@ -1,0 +1,1 @@
+Different parts of the model strongly interact with each other based on anatomical constraints and functional purposes.

@@ -1,0 +1,1 @@
+Notably, the temperature dependence of the phonon lifetime plays a critical role in determining the effective relaxation time, as evidenced by the simulations presented in Fig.

@@ -1,0 +1,1 @@
+The ordinary Hall effect arises from the Lorentz force acting on charge carriers, while the anomalous Hall effect is attributed to the intrinsic spin-orbit coupling and the magnetization of the material [Author, Year].

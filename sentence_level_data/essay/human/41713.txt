@@ -1,0 +1,1 @@
+The high number of non-periodic flows is expected because MMS implements more advanced control schemes than Modbus.

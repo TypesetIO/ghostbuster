@@ -1,0 +1,1 @@
+This means that the Lorentzian is expected to converge to a Dirac's function for a smaller line width.

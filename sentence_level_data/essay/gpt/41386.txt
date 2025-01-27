@@ -1,0 +1,1 @@
+By employing CFD, researchers can visualize the thermal and hydrodynamic behavior of nanofluids and assess the impact of various design modifications, such as the arrangement and geometry of inserts, on the overall efficiency of the heat exchanger [8].

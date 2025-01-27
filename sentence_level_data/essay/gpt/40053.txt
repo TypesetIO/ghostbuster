@@ -1,0 +1,1 @@
+This model has shown potential in accurately predicting the flow characteristics in regions of high shear and rotation, which are prevalent in stirred tank operations [Author, Year].

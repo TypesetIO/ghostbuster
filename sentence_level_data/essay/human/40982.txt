@@ -1,0 +1,1 @@
+Each dot represents a unique OTU which appeared in both SF and during the react cycle.

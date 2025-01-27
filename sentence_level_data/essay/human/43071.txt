@@ -1,0 +1,1 @@
+However, because of the spreading loss, the total path-loss is exceptionally high, and because of that, high directivity antennas are needed, and a new 3D massive multiple-input-multiple-output (MIMO) techniques are also needed.

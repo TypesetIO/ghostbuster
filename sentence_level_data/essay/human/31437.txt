@@ -1,0 +1,1 @@
+Specifically, the mean absolute deviation and mean standard error for the initial weights (0.1, 0.2, 0.3, and 0.4) was 6.27 and 47.29.

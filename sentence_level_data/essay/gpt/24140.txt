@@ -1,0 +1,1 @@
+Additionally, reliance on statistical models can create a self-fulfilling prophecy, perpetuating existing patterns and biases present in historical data.

@@ -1,0 +1,1 @@
+The RANS approach with a turbulence model based on the fully predictive strategy, i.e., the sliding mesh or the multiple frames of reference (MFR) framework, or sometimes a combination of the two, or the inner-outer iterative procedure, has been widely used to model the turbulent macro-mixing processes in stirred tanks.

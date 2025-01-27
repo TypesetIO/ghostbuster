@@ -1,0 +1,1 @@
+Moreover, the integration of advanced modeling techniques, such as data assimilation and machine learning, may offer pathways to mitigate representativeness errors by improving the parameterization of soil moisture dynamics and enhancing the spatial resolution of model outputs.

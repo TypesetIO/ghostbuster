@@ -1,0 +1,1 @@
+However, due to limitations in the EPHPP tool's process for determining overall ratings and the small numbers of studies identified, our ability to explore the effect of variation in study quality on the meta-analytic results was limited.

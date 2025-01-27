@@ -1,0 +1,1 @@
+WingMOD uses intermediate fidelity analyses to quickly analyze an aircraft in over twenty design conditions that are needed to address issues from performance, aerodynamics, loads, weights, balance, stability and control.

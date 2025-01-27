@@ -1,0 +1,1 @@
+Finally, Android Studio embraces the separation of project building into Java and XML files.

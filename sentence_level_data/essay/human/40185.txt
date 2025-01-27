@@ -1,0 +1,1 @@
+The nearest neighbor search (NNS) problem ix Given a set of n points P = (PI, . . .,p,) in a metric space .Y wit,h distance function d, preprocess P so as to efficiently auswcr queries for finding the point in P closest to a query point q E X.

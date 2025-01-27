@@ -1,0 +1,1 @@
+It is possible to open a bandgap in graphene by lateral quantum confinement, in the form of one-dimensional nanostructures.

@@ -1,0 +1,1 @@
+One significant limitation of current CAR-T therapies is the potential for antigen escape, where tumor cells downregulate or lose the targeted antigen, such as CD19, leading to treatment failure [12].

@@ -1,0 +1,1 @@
+.A notably improved agreement with experimental data is obtained using the EASM simulation, despite the drop coalescence and break-up have not been taken into consideration.

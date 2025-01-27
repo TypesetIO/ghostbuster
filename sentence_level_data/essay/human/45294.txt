@@ -1,0 +1,1 @@
+It can also be blended with diesel to operate the CI engine.

@@ -1,0 +1,1 @@
+Manipulating and Accessing CSS Class Names jQuery allows you to easily add, remove, and toggle CSS classes, which comes in handy for a variety of practical uses.

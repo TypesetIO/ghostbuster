@@ -1,0 +1,1 @@
+This property offers a way to lower the temperature threshold and broaden the response range of undoped VO 2 actuators.

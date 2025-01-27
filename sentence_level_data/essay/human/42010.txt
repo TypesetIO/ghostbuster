@@ -1,0 +1,1 @@
+The shift of the eyes is externally determined by saccade generator affecting the input image that visually samples the world.

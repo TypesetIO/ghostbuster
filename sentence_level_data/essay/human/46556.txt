@@ -1,0 +1,1 @@
+Users should check the water balance components (ET, evaporation, surface (base flow ratios, tile flow, proportions, plant yield, and biomass) during the calibration process to make sure the predictions are reasonable for the study region or watershed.

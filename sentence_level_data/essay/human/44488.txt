@@ -1,0 +1,1 @@
+However, it should be noted that the reaction profile we calculated is an enthalpy profile, not Gibbs free-energy profile, so the entropic effects were not included.

@@ -1,0 +1,2 @@
+2. Methodology:
+   a. Genomics utilizes high-throughput technologies (such as next-generation sequencing) to sequence and analyze entire genomes.

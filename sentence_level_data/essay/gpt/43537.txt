@@ -1,0 +1,1 @@
+Results indicated that the integration of the ODCA attention mechanism and the S-HorBlock feature extraction significantly improved the model's ability to detect small defects, achieving a mAP increase of over 15% compared to the baseline YOLOv7.

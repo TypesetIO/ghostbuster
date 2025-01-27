@@ -1,0 +1,1 @@
+The use of lighter vacuum, nevertheless, can still improve the permeate flux of AGMD modules without a strong impact on the energy consumption, if it is only used to mitigate mass transfer resistance without reducing the absolute pressure below the saturation pressure, so all vapour is condensed inside the gap.

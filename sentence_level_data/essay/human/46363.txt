@@ -1,0 +1,1 @@
+The joint precedence graph for pen disassembly [26] . . . . . . . . .Fig. 3.6 Hyper-arc AND/OR graph of the product in Fig. 3 .2a; a-d and d-f correspond to F1-F3 and C1-C3 respectively . . . . . . . .Fig. 3 . 7 TAOG for automatic pencil in [30] . . . . . . . . . . . . . . . . . . . . . . . .Fig. 3.8

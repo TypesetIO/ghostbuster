@@ -1,0 +1,1 @@
+Using pull-down assay and isothermal titration calorimetry (ITC) analysis, we found that a conformational-homogeneous DISC1 fragment lacking the predicted unstructured N-terminal region (amino acid [aa] 1-321; Figure 1A ) binds to the full-length Nde1 (FL-Nde1) at a 1:1 stoichiometry and with a very high affinity (Kd $40 nM; Figures 1B-1D1 ).

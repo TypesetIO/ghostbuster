@@ -1,0 +1,1 @@
+In a Multiple Attribute Decision Making (MADM) problem, our aim is to select the best alternative satisfying all the attributes.

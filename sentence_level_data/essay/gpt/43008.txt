@@ -1,0 +1,1 @@
+This analysis revealed that while the model performed exceptionally well on most classes, there were instances of confusion between similar lesion types, suggesting that further refinement of the feature extraction process may be necessary.

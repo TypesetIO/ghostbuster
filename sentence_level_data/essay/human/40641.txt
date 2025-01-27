@@ -1,0 +1,1 @@
+Con el Tp estimado en el paso 1, con Ts definido en el paso 2 y con el valor de la carga del secundario calculada en el paso 3, se estima nuevamente el valor del factor Ktd.

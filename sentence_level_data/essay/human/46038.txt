@@ -1,0 +1,1 @@
+This is because the span time for generating adequately detailed FEM models is too long for them to be used actively in the conventional design process.

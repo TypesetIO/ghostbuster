@@ -1,0 +1,1 @@
+The emphasis is laid on energy efficiency as WSN is marred with low capacity of energy saving while higher level of energy consumption, which depletes the network lifetime at a fast pace.

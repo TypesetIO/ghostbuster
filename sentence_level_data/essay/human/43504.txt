@@ -1,0 +1,1 @@
+Still liquid and a homogeneous distribution of the dispersed phase within the computational domain are considered as initial conditions for each case of flow field simulation.

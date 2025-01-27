@@ -1,0 +1,1 @@
+Among these, the instability is the main problem since signals describing the inventory and orders may diverge as time goes on.

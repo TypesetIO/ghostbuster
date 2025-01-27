@@ -1,0 +1,1 @@
+Three tracer injection locations (P1, P2 and P3) and two monitoring locations (probes A and B) are set the same as those used in the experiments of Zhao et al. (2011) , and their exact coordinates are marked in Fig. 1 .The injection and monitoring positions are all located mid-way between two consecutive baffles.

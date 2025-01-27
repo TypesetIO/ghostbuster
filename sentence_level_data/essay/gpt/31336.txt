@@ -1,0 +1,1 @@
+Different IoT platforms may have different protocols, making it difficult for devices to communicate effectively with each other.

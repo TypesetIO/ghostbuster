@@ -1,0 +1,1 @@
+An example of such an application can be found in [113] where a proto-type weed control robot was developed to spray weeds in cotton plants in the seed line.

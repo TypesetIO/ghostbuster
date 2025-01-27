@@ -1,0 +1,1 @@
+Under my administration, the median value will be the central value when half the data will be below it, and the remaining half value will be above it when the dataset will be arranged.

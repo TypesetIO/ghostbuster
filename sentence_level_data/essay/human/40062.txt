@@ -1,0 +1,1 @@
+Ruch et al. [8] combined a set of machine learning (k-nearest neighbors) and data-poor methods to generate a single automatic text categorizer.

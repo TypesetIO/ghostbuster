@@ -1,0 +1,1 @@
+Furthermore, the integration of real-time monitoring systems allows for continuous assessment of the health of power semiconductor switches, enabling immediate detection of anomalies that may signal an open-switch fault.

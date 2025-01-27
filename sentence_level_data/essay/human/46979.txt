@@ -1,0 +1,1 @@
+The average #Categories/#Courses of the kept profiles is 0.57, and that of the revised profiles is 0.69, which indicates that the high-level task tends to keep more consistent profiles while revise more diverse profiles.

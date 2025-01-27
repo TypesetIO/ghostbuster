@@ -1,0 +1,1 @@
+Using the Case Based Reasoning (CBR) techniques, the system proposes to the learners the most appropriate MOOCs (from different providers) responding to his request.

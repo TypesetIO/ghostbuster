@@ -1,0 +1,1 @@
+These techniques often integrate multiple optimization algorithms, such as combining genetic algorithms with particle swarm optimization (PSO), to enhance the exploration and exploitation capabilities of the search process [Author, Year].

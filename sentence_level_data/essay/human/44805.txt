@@ -1,0 +1,1 @@
+Perfect equality is marked as 0, which implies that everyone has an equal income.

@@ -1,0 +1,1 @@
+Finally, the decoding stage reverses the process, converting the compressed digital representation back into a visual display.

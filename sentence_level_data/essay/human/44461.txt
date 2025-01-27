@@ -1,0 +1,1 @@
+Under diesel mode, the COV IMEP values were below 2.5%, while under dual-fuel mode, the values ranged from approximately 1.5%e7% depending on the load.

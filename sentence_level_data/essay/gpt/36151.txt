@@ -1,0 +1,1 @@
+Users can easily filter and interact with the visualizations in their dashboards to explore the data from different perspectives.

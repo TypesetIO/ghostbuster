@@ -1,0 +1,1 @@
+Resultaten visade en hög korrelation mellan prediktionerna från modellen och visuella poängsättning av sjukdomen gjord av en expert på området, och visade sig vara ett potentiellt verktyg för val av genotyper som uppfyller marknadsstandarder och resistens mot CS.

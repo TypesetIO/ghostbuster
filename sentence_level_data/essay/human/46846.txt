@@ -1,0 +1,1 @@
+To pick up the component, users select the component they want to move with the mouse and use keyboard keypad buttons to move and rotate the component into the right location in the chassis.

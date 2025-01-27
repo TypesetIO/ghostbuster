@@ -1,0 +1,1 @@
+For instance, one decision-maker might assign a membership degree of 0.7 to a supplier's price based on their personal threshold for affordability, while another might assign a degree of 0.5, reflecting a more stringent criterion.

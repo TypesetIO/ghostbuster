@@ -1,0 +1,1 @@
+The equation involves the volume of displacement (V), jth cylinder pressure (Pj), and jth volume of the cylinder (Vj).E (9) calculates the overall uncertainty (U Y ) of the measurement value, dependent parameters (xi), and error limits of measured parameters (U xi ).

@@ -1,0 +1,1 @@
+The subsequent sections of this paper will delve into these aspects, providing a comprehensive analysis of the proposed antenna design, simulation results, and their implications for future THz communication systems.

@@ -1,0 +1,1 @@
+Therefore, in order to avoid double counting and pushing the combined change propagation likelihood and impact values close to 100%, it is required to exclude cyclic paths.

@@ -1,0 +1,1 @@
+Here are the different syntaxes for accomplishing this: $("div").addClass("content");// adds class "content" to all <div> elements $("div").removeClass("content");// removes class "content" from all <div> elements $("div").toggleClass("content");// toggles the class "content" on all <div> elements (adds it if it doesn't exist, // and removes it if it does)

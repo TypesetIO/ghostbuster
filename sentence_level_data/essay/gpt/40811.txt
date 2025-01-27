@@ -1,0 +1,1 @@
+In addition to the ABC analysis, another effective method for optimizing inventory management in spare parts warehouses is the Economic Order Quantity (EOQ) model.

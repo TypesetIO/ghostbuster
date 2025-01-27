@@ -1,0 +1,1 @@
+The advancements in deep learning (DL) techniques have significantly enhanced the capabilities of robotic systems in agricultural applications, particularly in plant recognition and phenotyping.

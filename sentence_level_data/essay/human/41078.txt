@@ -1,0 +1,1 @@
+The test with 39 patient samples confirms that symptom-based diagnosis combined with a Dx-FS can identify patients who need antimicrobials, thereby reducing antimicrobial misuse.

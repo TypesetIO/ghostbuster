@@ -1,0 +1,1 @@
+Capnography provides real-time data on a patient's ventilation status, which can help identify respiratory distress or arrest early on.

@@ -1,0 +1,1 @@
+By encoding each target taxon with a unique barcode through N rounds of FISH imaging, SEER-FISH provides a scalable coding capacity of F N (F-color, N-round) (Fig. 1a ).

@@ -1,0 +1,1 @@
+For the previous example, the update in the object 1 position could be performed as follows, where 'Block Diagram' is the name of the Simulink le located in the same folder as the .mfile: Parameters must be defined and initialized only once.

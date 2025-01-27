@@ -1,0 +1,1 @@
+Variations in strut thickness, surface roughness, and defect density are all factors that can influence the effective stiffness of porous materials [Author, Year].

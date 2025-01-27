@@ -1,0 +1,1 @@
+Additionally, the moisture content of the feedstock plays a crucial role in the energy dynamics of the pyrolysis process; higher moisture levels can lead to increased energy consumption for drying, thereby reducing the overall energy efficiency [Author, Year].

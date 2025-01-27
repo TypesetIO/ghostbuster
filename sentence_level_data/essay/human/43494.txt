@@ -1,0 +1,1 @@
+To see the effect of the turbulence models on the macro-mixing processes, both the isotropic standard k−ε model and the anisotropic two-phase EASM are used to deal with turbulence.

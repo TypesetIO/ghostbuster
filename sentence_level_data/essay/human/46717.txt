@@ -1,0 +1,1 @@
+Some researchers used publicly available datasets by considering important lands of an area and performed classification studies by CNN models (Helber et al., 2019) .In this review, only those studies were considered which incorporated agricultural land covers.

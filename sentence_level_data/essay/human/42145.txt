@@ -1,0 +1,1 @@
+6, 7 The damage degree of engineering structures can be conveniently evaluated by using the number or energy of AE hits.

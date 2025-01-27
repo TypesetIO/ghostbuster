@@ -1,0 +1,1 @@
+Random sampling can be achieved through simple random sampling, where each individual is selected entirely by chance, or through stratified random sampling, where the population is divided into subgroups or strata and individuals are randomly selected from each group.

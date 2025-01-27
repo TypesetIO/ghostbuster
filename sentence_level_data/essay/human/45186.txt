@@ -1,0 +1,1 @@
+The light grey area indicates the steps in the pipeline that are automated by the Tree-based Pipeline Optimization Tool (TPOT).more accessible, scalable, and flexible.

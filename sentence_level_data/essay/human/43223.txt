@@ -1,0 +1,1 @@
+An agent is a computing system capable of performing an action independently without the need for support from other entities (including other agents) (Wooldridge, 2002) .

@@ -1,0 +1,1 @@
+For example, the path S 1 →S 2 →S 1 →S 3 includes S 1 twice.

@@ -1,0 +1,1 @@
+Object location information is also transformed from an eye-centred to a head-centred reference frame in LIP and stored in a parietal priority map (X h ).

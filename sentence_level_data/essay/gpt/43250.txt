@@ -1,0 +1,1 @@
+Recent studies have indicated that machine learning algorithms, particularly deep learning techniques, have shown promise in enhancing diagnostic accuracy by leveraging large datasets of skin images for training [Author, Year].

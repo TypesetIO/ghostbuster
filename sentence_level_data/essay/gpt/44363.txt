@@ -1,0 +1,1 @@
+Moreover, the ethical implications of using DL in land cover classification, particularly concerning data privacy and environmental impact, warrant careful consideration as these technologies become more prevalent (O'Neil, 2016).

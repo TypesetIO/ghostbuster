@@ -1,0 +1,1 @@
+Furthermore, the design phase must consider the drone's aerodynamics, as the shape and surface texture can greatly influence drag and lift characteristics.

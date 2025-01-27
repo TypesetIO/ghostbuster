@@ -1,0 +1,1 @@
+This method can be adaptive, taking more samples in areas of higher detail and fewer samples where the detail is lower.

@@ -1,0 +1,1 @@
+This dynamic pricing strategy helps to balance the supply and demand for rides and motivates more drivers to be available.

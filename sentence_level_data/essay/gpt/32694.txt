@@ -1,0 +1,1 @@
+Both HIDS and NIDS offer unique advantages and drawbacks in terms of analytics, data control, ease of use, and price.

@@ -1,0 +1,3 @@
+Main Body:
+1. Overview of the National Incident Management System (150 words)
+NIMS is a comprehensive system designed to enable effective coordination, cooperation, and integration among federal, state, tribal, and local governments, as well as private sector organizations, non-governmental organizations, and other stakeholders involved in emergency management and response.

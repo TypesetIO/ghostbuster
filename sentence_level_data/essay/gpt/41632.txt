@@ -1,0 +1,1 @@
+Such systems can utilize sensor data to track parameters such as temperature, voltage, and current, which are essential for diagnosing the operational state of the switches [Author, Year].

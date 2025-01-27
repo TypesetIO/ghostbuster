@@ -1,0 +1,1 @@
+Additionally, the incorporation of advanced technologies such as CRISPR/Cas9 gene editing allows for precise modifications of T cells, enabling the knockout of inhibitory receptors (e.g., PD-1) that dampen T cell activity within the tumor microenvironment [14].

@@ -1,0 +1,1 @@
+A user interface allows users to enter information or check in on the system if required.

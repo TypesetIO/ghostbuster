@@ -1,0 +1,1 @@
+By the nature of the calculations, these two measures are expected to be anticorrelated because a sample is metagenomes spanning over 75 ecosystems.

@@ -1,0 +1,1 @@
+Therefore, all scientists must find and establish a database of soil characteristics and also for every land cover class spatially distributed in their research area before applying the model because this leads to low simulation accuracy for the research area.

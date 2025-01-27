@@ -1,0 +1,2 @@
+3.3 Data Analysis:
+Data will be analyzed using statistical techniques to identify correlations between alcohol consumption and neighborhood characteristics.

@@ -1,0 +1,1 @@
+Statistical techniques such as regression analysis, hypothesis testing, and data visualization can help administrators identify patterns, trends, and correlations in patient data.

@@ -1,0 +1,1 @@
+This phase transition-based actuation, however, is triggered abruptly near the VO 2 MIT temperature, ∼67 °C, and does not respond to lower driving temperatures, which limits the operation responsivity, as shown in Figure 4 .

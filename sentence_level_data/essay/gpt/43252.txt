@@ -1,0 +1,1 @@
+Furthermore, the integration of multi-modal data, such as patient history and demographic information, into these models could potentially enhance their predictive capabilities [Author, Year].

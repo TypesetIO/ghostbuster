@@ -1,0 +1,1 @@
+Their experiments obtained recall of 81.8 percent and demonstrated the importance of powerful machine learning method and stemming features.

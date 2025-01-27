@@ -1,0 +1,6 @@
+Month 1      Month 2     Month 3     Total      
+CASH IN                                                     
+Ticket Sales             $10,000.00   $15,000.00  $20,000.00  $45,000.00 
+Donations (sponsors)     $20,000.00   $30,000.00  $50,000.00  $100,000.00
+Advertisement packs      $0.00        $10,000.00  $30,000.00  $40,000.00 
+Total Cash In            $185,000.00

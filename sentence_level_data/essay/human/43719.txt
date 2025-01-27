@@ -1,0 +1,1 @@
+Therefore, this study employs the FMOLS and DOLS estimators, because it eliminates the problems of serial correlation in the error term and endogeneity.

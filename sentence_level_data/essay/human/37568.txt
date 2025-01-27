@@ -1,0 +1,1 @@
+When satisfied, the client can book logistic service and the system automatically generates their bill.

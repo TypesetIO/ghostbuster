@@ -1,0 +1,1 @@
+Despite these advancements, the deployment of RF-based systems raises concerns regarding privacy and security, as the continuous monitoring of RF signals could potentially lead to unauthorized surveillance.

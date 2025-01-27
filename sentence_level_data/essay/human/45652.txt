@@ -1,0 +1,1 @@
+By interfacing number of photovoltaics cells with arrangement (for necessity of high voltage) and in parallel necessity of high current the needed power can be produced.

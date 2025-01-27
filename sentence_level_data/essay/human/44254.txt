@@ -1,0 +1,1 @@
+We split each subset into a test set (3 malignant / 8 benign) and validation set (2 malignant / 6 benign).

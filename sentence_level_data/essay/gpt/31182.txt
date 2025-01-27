@@ -1,0 +1,1 @@
+The algorithms' training data, which consists mainly of white male faces, leads to biased outcomes that misidentify individuals from racialized minority groups, particularly women.

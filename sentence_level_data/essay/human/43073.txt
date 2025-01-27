@@ -1,0 +1,1 @@
+A frequency range above 275 GHz was not standardized by the International Telecommunication Union Radio (ITU-R) communication sector organization, and these frequencies can be used to transmit information at high data rates (tens of Gb/s and even Tb/s).

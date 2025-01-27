@@ -1,0 +1,1 @@
+11, 12 Real-time temperature monitoring is achieved via 6 thermocouples embedded into the tip to provide tip-tissue interface temperature feedback in parallel or perpendicular catheter orientation, while 3 microelectrodes provide high-resolution electrograms for finer endocardial electrical mapping to better assess possible conduction gaps.

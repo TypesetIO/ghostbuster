@@ -1,0 +1,1 @@
+La velocidad del viento no excede 34 m/s (correspondiente a una presión de 700 Pa sobre superficies cilindricas).

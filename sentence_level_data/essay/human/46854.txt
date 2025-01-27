@@ -1,0 +1,1 @@
+Both users are given a list of pallets they need to pick up from various location in the warehouse.

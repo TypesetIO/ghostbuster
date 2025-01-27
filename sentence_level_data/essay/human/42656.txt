@@ -1,0 +1,1 @@
+Following the above process, we obtained a dataset of 61,730 APK files, consisting of 49,045 benign and 12,685 malicious files.

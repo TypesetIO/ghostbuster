@@ -1,0 +1,1 @@
+While no additional amino-acid residue was suggested by MM-GBSA in the mineralocorticoid receptor's HCT docking, the water-molecule orientation was optimized to initiate formation of the hydrogen bond between the Arg 817 residue and the ligand (Figure 10A ).

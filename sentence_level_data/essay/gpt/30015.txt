@@ -1,0 +1,1 @@
+It provides a standardized framework that encompasses command and management, resource management, communication and information management, and ongoing training and exercises.

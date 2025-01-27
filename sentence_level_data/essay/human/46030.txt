@@ -1,0 +1,1 @@
+Measurement errors in the DC-link voltage sensor, such as zero drift and gain variation, can lead to biased dq-axis voltages, which in turn can worsen the stability of the system.

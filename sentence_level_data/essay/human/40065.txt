@@ -1,0 +1,1 @@
+Wu is with the Division of Biomedical Engineering and Department of Mechanical Engineering, University of Saskatchewan, Saskatoon, SK S7N5A9, Canada.E-mail: faw341@mail.usask.ca.Y. matching score calculation between training and testing corpus, which overcomes the knowledge acquisition bottleneck in an unsupervised method.

@@ -1,0 +1,1 @@
+In this case, B(r,t) only has a component in the longitudinal (k) direction and the Bloch equations simplify to, This is a set of coupled differential equations -but only the transverse components M x (r,t) and M y (r,t) are coupled together.

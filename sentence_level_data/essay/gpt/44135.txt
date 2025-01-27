@@ -1,0 +1,1 @@
+This is particularly important in IoT environments, where resource constraints often limit the deployment of complex algorithms.

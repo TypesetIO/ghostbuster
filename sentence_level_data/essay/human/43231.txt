@@ -1,0 +1,1 @@
+Contrary to a standard multi-agent system, an intelligent multi-agent system ought to be affected by existing environmental factors that help achieve desirable goals more effectively and efficiently.

@@ -1,0 +1,1 @@
+Another approach extracted a correlation between the three main color components R, G and B which constitute weeds and sugar beet color classes by means of discriminant analysis [123] .

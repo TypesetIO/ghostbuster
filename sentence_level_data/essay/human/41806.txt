@@ -1,0 +1,1 @@
+To further deepen the mechanistic understanding of catalytic WGSR, reaction profiles were obtained using DFT calculations.

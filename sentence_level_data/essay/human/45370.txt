@@ -1,0 +1,1 @@
+Type-2 fuzzy sets (see Zadeh [53] ), intuitionistic fuzzy sets (see Atanassov [1] ), interval-valued intuitionistic fuzzy (see Atanassov and Gargove [2] ) sets are some wellknown extensions of fuzzy sets.

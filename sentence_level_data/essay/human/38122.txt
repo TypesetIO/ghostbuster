@@ -1,0 +1,1 @@
+Lastly, variance is a dispersion measure that relies on every data, and the larger the variance value, the more widely spread the data, and the more variability can be observed.

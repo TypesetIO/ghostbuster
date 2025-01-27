@@ -1,0 +1,1 @@
+The inference on the baseline hazard and the baseline cumulative hazard function is typically based on either the Breslow (1972 Breslow ( , 1974) ) estimator or the Kalbfleisch and Prentice (1973) estimator.

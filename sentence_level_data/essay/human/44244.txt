@@ -1,0 +1,1 @@
+After the acquisition, we use the ImageJ-implementation of the SIFT-algorithm Linear Stack Alignment with SIFT [19] for aligning of the HSI images.

@@ -1,0 +1,1 @@
+Wu et al. [2012] conducted a static analysis on the Android application and its manifest file for feature extraction and then flag the Android malware based on the kNN classifier.

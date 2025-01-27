@@ -1,0 +1,2 @@
+For example, consider the following deductive argument: 
+Premise 1: All apples are fruits.

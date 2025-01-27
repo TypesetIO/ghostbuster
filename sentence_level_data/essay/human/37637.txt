@@ -1,0 +1,4 @@
+* Development Platforms:
+      + Sublime text IDE (Integrated Development Environment);
+      + GitHub for Version Control;
+      + Android Studio to be used as a platform for development.

@@ -1,0 +1,1 @@
+Despite these promising possibilities, few applications using Industrial AI are currently implemented in real environment.

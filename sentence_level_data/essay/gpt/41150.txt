@@ -1,0 +1,1 @@
+By occluding different segments of the kick trajectory, we aimed to identify whether expert players could still maintain high levels of accuracy in their anticipation despite limited visual input.

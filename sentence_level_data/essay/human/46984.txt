@@ -1,0 +1,1 @@
+We present several cases of the revised profiles by the proposed HRL+NAIS and show three cases and the corresponding learned attention coefficients by NAIS in Table 2 .The cases present that HRL+NAIS can definitely remove the noisy courses in the profile that are totally irrelevant to the target course.

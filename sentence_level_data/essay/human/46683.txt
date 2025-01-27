@@ -1,0 +1,1 @@
+The flame and the detonation have quite different properties for the same fuel mixture; particularly, the propagation velocity of the reaction front may differ by several orders of magnitude in these two regimes.

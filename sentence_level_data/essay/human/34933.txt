@@ -1,0 +1,1 @@
+The article proposes the construction of such a safety rating with the condition of its understandability for the end-user.

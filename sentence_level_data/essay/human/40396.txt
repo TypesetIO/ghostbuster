@@ -1,0 +1,1 @@
+Machine learning has many aspects, including feature extraction, feature selection, algorithm selection, training, and testing.

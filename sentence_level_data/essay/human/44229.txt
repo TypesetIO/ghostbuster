@@ -1,0 +1,1 @@
+We do not need to consider the effects of the rf pulse here and this term will be ignored from now on.

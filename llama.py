@@ -9,6 +9,7 @@ from utils.symbolic import vec_functions, scalar_functions
 
 from transformers import AutoTokenizer
 from collections import defaultdict
+from pdb import set_trace
 
 import math
 import tqdm
@@ -23,30 +24,66 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import f1_score
 
 datasets = [
-    Dataset("normal", "data/wp/human"),
-    Dataset("normal", "data/wp/gpt"),
-    Dataset("author", "data/reuter/human"),
-    Dataset("author", "data/reuter/gpt"),
+    # Dataset("normal", "data/wp/human"),
+    # Dataset("normal", "data/wp/gpt"),
+    # Dataset("author", "data/reuter/human"),
+    # Dataset("author", "data/reuter/gpt"),
     Dataset("normal", "data/essay/human"),
     Dataset("normal", "data/essay/gpt"),
 ]
 
-best_features = [
-    "trigram-logprobs v-add unigram-logprobs v-> llama-logprobs s-var",
-    "trigram-logprobs v-div unigram-logprobs v-div trigram-logprobs s-avg-top-25",
-    "unigram-logprobs v-mul llama-logprobs s-avg",
-    "trigram-logprobs v-mul unigram-logprobs v-div trigram-logprobs s-avg",
-    "trigram-logprobs v-< unigram-logprobs v-mul llama-logprobs s-avg-top-25",
-    "trigram-logprobs v-mul unigram-logprobs v-sub llama-logprobs s-min",
-    "trigram-logprobs v-mul unigram-logprobs s-avg",
-    "trigram-logprobs v-< unigram-logprobs v-sub llama-logprobs s-avg",
-    "trigram-logprobs v-> unigram-logprobs v-add llama-logprobs s-avg",
-    "trigram-logprobs v-div llama-logprobs v-div trigram-logprobs s-min",
+paragraph_quantized_best_features = [
+    "trigram-logprobs v-add unigram-logprobs v-> llama-logprobs s-avg",
+    "unigram-logprobs v-sub llama-logprobs s-avg-top-25",
+    "unigram-logprobs v-add llama-logprobs s-max",
+    "trigram-logprobs v-add unigram-logprobs v-> llama-logprobs s-avg-top-25",
+    "trigram-logprobs v-> unigram-logprobs v-div trigram-logprobs s-var",
+    "llama-logprobs v-div trigram-logprobs v-< unigram-logprobs s-min",
+    "unigram-logprobs v-mul llama-logprobs v-div unigram-logprobs s-max",
+    "trigram-logprobs v-mul llama-logprobs v-div unigram-logprobs s-max",
+    "unigram-logprobs v-div llama-logprobs v-div unigram-logprobs s-avg",
 ]
+paragraph_best_features = [
+    "trigram-logprobs v-add unigram-logprobs v-< llama-logprobs s-var",
+    "llama-logprobs v-div unigram-logprobs v-div llama-logprobs s-l2",
+    "unigram-logprobs v-add llama-logprobs s-max",
+    "trigram-logprobs v-add unigram-logprobs v-> llama-logprobs s-avg-top-25",
+    "unigram-logprobs v-> llama-logprobs v-div unigram-logprobs s-var",
+    "unigram-logprobs v-div trigram-logprobs v-sub llama-logprobs s-min",
+    "unigram-logprobs v-mul llama-logprobs s-avg",
+    "unigram-logprobs v-sub llama-logprobs s-avg",
+    "trigram-logprobs v-mul unigram-logprobs v-div trigram-logprobs s-var",
+    "trigram-logprobs v-add llama-logprobs s-var",
+    "trigram-logprobs v-sub unigram-logprobs v-> llama-logprobs s-l2",
+    "trigram-logprobs v-mul unigram-logprobs v-> llama-logprobs s-avg",
+    "unigram-logprobs v-< llama-logprobs v-div trigram-logprobs s-var",
+]
+sentence_best_features = [
+    "trigram-logprobs v-add unigram-logprobs v-sub llama-logprobs s-avg",
+    "trigram-logprobs v-add unigram-logprobs v-> llama-logprobs s-avg-top-25",
+    "unigram-logprobs v-mul llama-logprobs s-avg",
+    "trigram-logprobs v-sub llama-logprobs s-avg-top-25",
+    "trigram-logprobs v-< unigram-logprobs v-div trigram-logprobs s-avg-top-25",
+    "trigram-logprobs v-sub unigram-logprobs v-> llama-logprobs s-l2",
+    "trigram-logprobs v-mul unigram-logprobs v-div trigram-logprobs s-avg-top-25",
+    "trigram-logprobs v-mul llama-logprobs v-div trigram-logprobs s-var",
+    "trigram-logprobs v-div unigram-logprobs s-avg-top-25",
+    "unigram-logprobs v-add llama-logprobs v-div unigram-logprobs s-avg-top-25",
+    "trigram-logprobs v-add llama-logprobs v-div trigram-logprobs s-l2",
+    "trigram-logprobs v-sub unigram-logprobs v-add llama-logprobs s-var",
+    "unigram-logprobs s-min",
+    "llama-logprobs v-div unigram-logprobs v-sub llama-logprobs s-var",
+    "trigram-logprobs v-> unigram-logprobs v-< llama-logprobs s-var",
+    "trigram-logprobs v-< unigram-logprobs v-> llama-logprobs s-avg-top-25",
+    "trigram-logprobs v-add llama-logprobs s-var",
+]
+best_features = paragraph_quantized_best_features
+
 
 models = ["gpt"]
 domains = ["wp", "reuter", "essay"]
-eval_domains = ["claude", "gpt_prompt1", "gpt_prompt2", "gpt_writing", "gpt_semantic"]
+eval_domains = ["claude", "gpt_prompt1",
+                "gpt_prompt2", "gpt_writing", "gpt_semantic"]
 
 
 vectors = ["llama-logprobs", "unigram-logprobs", "trigram-logprobs"]
@@ -56,7 +93,7 @@ parser.add_argument("--feature_select", action="store_true")
 parser.add_argument("--classify", action="store_true")
 
 args = parser.parse_args()
-tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf")
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-3B-Instruct")
 
 sentences = brown.sents()
 
@@ -73,7 +110,8 @@ for vec1 in range(len(vectors)):
     for vec2 in range(vec1):
         for func in vec_functions:
             if func != "v-div":
-                vec_combinations[vectors[vec1]].append(f"{func} {vectors[vec2]}")
+                vec_combinations[vectors[vec1]].append(
+                    f"{func} {vectors[vec2]}")
 
 for vec1 in vectors:
     for vec2 in vectors:
@@ -116,18 +154,28 @@ def backtrack_functions(
     return ret
 
 
-def score_ngram(doc, model, tokenizer, n=3):
+def score_ngram(doc, encodings, model, tokenizer, n=3):
     """
     Returns vector of ngram probabilities given document, model and tokenizer
     """
     scores = []
-    tokens = (
-        tokenizer(doc.strip())[1:] if n == 1 else (n - 2) * [2] + tokenizer(doc.strip())
-    )
-
+    # # For sentence level Test Temp
+    if encodings:
+        if n == 1:
+            tokens = encodings
+        else:
+            tokens = (n - 1) * [2] + encodings
+    else:
+        tokens = (
+            tokenizer(doc)[1:] if n == 1 else (
+                n - 2) * [2] + tokenizer(doc)
+        )
+    # tokens = (
+    #     tokenizer(doc.strip())[1:] if n == 1 else (
+    #         n - 2) * [2] + tokenizer(doc.strip())
+    # )
     for i in ngrams(tokens, n):
         scores.append(model.n_gram_probability(i))
-
     return np.array(scores)
 
 
@@ -151,35 +199,72 @@ def get_all_logprobs(
     for file in to_iter:
         if "logprobs" in file:
             continue
-
         with open(file, "r") as f:
             doc = preprocess(f.read())
-        llama_logprobs[file] = get_logprobs(
-            convert_file_to_logprob_file(file, "llama-7b")
+        llama_logprobs[file], encodings = get_logprobs(
+            convert_file_to_logprob_file(file, "llama-13b")
         )[:num_tokens]
-        trigram_logprobs[file] = score_ngram(doc, trigram, tokenizer, n=3)[:num_tokens]
-        unigram_logprobs[file] = score_ngram(doc, trigram.base, tokenizer, n=1)[
+        trigram_logprobs[file] = score_ngram(
+            doc, encodings, trigram, tokenizer, n=3)[:num_tokens]
+        unigram_logprobs[file] = score_ngram(doc, encodings, trigram.base, tokenizer, n=1)[
             :num_tokens
         ]
 
     return llama_logprobs, trigram_logprobs, unigram_logprobs
+# def get_all_logprobs(
+#     generate_dataset,
+#     preprocess=lambda x: x.strip(),
+#     verbose=True,
+#     trigram=None,
+#     tokenizer=None,
+#     num_tokens=2047,
+# ):
+#     llama_logprobs = {}
+#     trigram_logprobs, unigram_logprobs = {}, {}
 
+#     if verbose:
+#         print("Loading logprobs into memory")
+
+#     file_names = generate_dataset(lambda file: file, verbose=False)
+#     to_iter = tqdm.tqdm(file_names) if verbose else file_names
+
+#     for file in to_iter:
+#         if "logprobs" in file:
+#             continue
+#         with open(file, "r") as f:
+#             doc = preprocess(f.read())
+#         llama_logprobs[file] = get_logprobs(
+#             convert_file_to_logprob_file(file, "llama-13b")
+#         )[:num_tokens]
+#         trigram_logprobs[file] = score_ngram(
+#             doc, trigram, tokenizer, n=3)[:num_tokens]
+#         unigram_logprobs[file] = score_ngram(doc, trigram.base, tokenizer, n=1)[
+#             :num_tokens
+#         ]
+
+#     return llama_logprobs, trigram_logprobs, unigram_logprobs
 
 all_funcs = backtrack_functions(max_depth=3)
 np.random.seed(0)
 
 # Construct the test/train split. Seed of 0 ensures seriality across
 # all files performing the same split.
-indices = np.arange(6000)
-np.random.shuffle(indices)
+indices = np.arange(46000)
+# indices = np.arange(6000)
+for i in range(10):
+    np.random.shuffle(indices)
 
+# for paragraph level
+# indices = indices[:math.floor(0.2 * len(indices))]
+indices = indices[:math.floor(0.6 * len(indices))]
 train, test = (
     indices[: math.floor(0.8 * len(indices))],
-    indices[math.floor(0.8 * len(indices)) :],
+    indices[math.floor(0.8 * len(indices)):],
 )
 
 # [4320 2006 5689 ... 4256 5807 4875] [5378 5980 5395 ... 1653 2607 2732]
-print("Train/Test Split:", train, test)
+print("Train/Test Split:", len(train), len(test))
+set_trace()
 
 generate_dataset_fn = get_generate_dataset(*datasets)
 labels = generate_dataset_fn(
@@ -218,7 +303,7 @@ for model in models + ["human"]:
 
         indices_dict[train_key] = train_indices
         indices_dict[test_key] = test_indices
-
+set_trace()
 if args.feature_select:
     (
         llama_logprobs,
@@ -240,13 +325,16 @@ if args.feature_select:
     def calc_features(file, exp):
         exp_tokens = get_words(exp)
         curr = vector_map[exp_tokens[0]](file)
-
-        for i in range(1, len(exp_tokens)):
-            if exp_tokens[i] in vec_functions:
-                next_vec = vector_map[exp_tokens[i + 1]](file)
-                curr = vec_functions[exp_tokens[i]](curr, next_vec)
-            elif exp_tokens[i] in scalar_functions:
-                return scalar_functions[exp_tokens[i]](curr)
+        try:
+            for i in range(1, len(exp_tokens)):
+                if exp_tokens[i] in vec_functions:
+                    next_vec = vector_map[exp_tokens[i + 1]](file)
+                    curr = vec_functions[exp_tokens[i]](curr, next_vec)
+                elif exp_tokens[i] in scalar_functions:
+                    return scalar_functions[exp_tokens[i]](curr)
+        except Exception as e:
+            print(f"Error calculating features for {file}: {e}")
+            set_trace()
 
     print("Preparing exp_to_data")
     exp_to_data = {}
@@ -255,7 +343,8 @@ if args.feature_select:
             lambda file: calc_features(file, exp)
         ).reshape(-1, 1)
 
-    select_features(exp_to_data, labels, verbose=True, to_normalize=True, indices=train)
+    select_features(exp_to_data, labels, verbose=True,
+                    to_normalize=True, indices=train)
 
 if args.classify:
     (
@@ -293,16 +382,29 @@ if args.classify:
         return exp_featurize
 
     data = generate_dataset_fn(get_exp_featurize(best_features, vector_map))
-    data = normalize(data)
+    data, mu, sigma = normalize(data, ret_mu_sigma=True)
 
-    def train_llama(data, train, test):
+    def train_llama(data, train, test, model_path="llama_model.pkl"):
         model = LogisticRegression()
         model.fit(data[train], labels[train])
-        return f1_score(labels[test], model.predict(data[test]))
+        set_trace()
 
+        # # Save the model
+        # directory = "quantized_paragraph_level_model"
+        # if not os.path.exists(directory):
+        #     os.makedirs(directory)
+        # model_path = os.path.join(directory, model_path)
+        # with open(model_path, "wb") as f:
+        #     pickle.dump(model, f)
+        # pickle.dump(mu, open(os.path.join(directory, "mu"), "wb"))
+        # pickle.dump(sigma, open(os.path.join(directory, "sigma"), "wb"))
+
+        return f1_score(labels[test], model.predict(data[test]))
+    # set_trace()
     print(
         f"In-Domain: {train_llama(data, indices_dict['gpt_train'] + indices_dict['human_train'], indices_dict['gpt_test'] + indices_dict['human_test'])}"
     )
+    set_trace()
 
     for test_domain in domains:
         train_indices = []

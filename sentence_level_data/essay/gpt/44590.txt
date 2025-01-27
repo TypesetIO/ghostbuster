@@ -1,0 +1,1 @@
+Recent studies have indicated that hybrid encoding strategies, which combine multiple techniques, can significantly improve both performance and resilience against attacks [Author, Year].

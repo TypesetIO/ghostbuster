@@ -1,0 +1,1 @@
+High-quality "big data" and AI can help manage the unusual and massive data from different networks and databases [61, 62] .An example that used an ANN-PSO algorithm to predict confirmed cases of COVID-19 found that population density, number of cases 14 days earlier, and humidity were crucial factors for prediction [63] .

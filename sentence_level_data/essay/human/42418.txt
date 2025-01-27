@@ -1,0 +1,1 @@
+This reduces the chance of highly conserved features for this type of biome and may make it difficult to unambiguously predict a sample's class from its profiles because the variance uncertainty is so large.

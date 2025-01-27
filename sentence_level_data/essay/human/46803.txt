@@ -1,0 +1,1 @@
+As can be seen from above, the k−ε turbulence model has returned reasonable predictions of the continuous phase mixing time in the presence of immiscible drops, which is consistent with previous computational studies reported in the literature (Kukukova et al., 2005; Javed et al., 2006; Min and Gao, 2006; Jahoda et al., 2009; Ochieng et al. 2008, etc.)

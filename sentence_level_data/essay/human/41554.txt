@@ -1,0 +1,1 @@
+The large positive coefficient of 1.1863 means that the effect of IT Capability for listed (1) companies results in a higher firm performance value than the effect of IT Capability which is not listed (0).

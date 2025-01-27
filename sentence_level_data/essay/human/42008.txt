@@ -1,0 +1,1 @@
+During memory recall, world-centred information from MTL is fed back to PWo via RSC and further into X h , from where it acts as a spatial attention signal in V4/IT via LIP and FEF.

@@ -1,0 +1,1 @@
+You could also check a set of elements (instead of just one), and the result would return "true" if any one of the elements contained the class.

@@ -1,0 +1,1 @@
+4 processing enable direct measures of movement (acceleration, mg) to be extracted as a marker of PA intensity comparable across devices and populations.

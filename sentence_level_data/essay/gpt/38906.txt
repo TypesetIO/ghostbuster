@@ -1,0 +1,3 @@
+Body:
+1. Caster Wheels:
+Caster wheels are pivotal components that facilitate object movement by allowing rotation around a fixed axis.

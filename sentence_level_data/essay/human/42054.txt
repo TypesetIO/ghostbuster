@@ -1,0 +1,1 @@
+These advantages come at the cost of lack of commonality between WingMOD and conventional analyses, an issue that has to be addressed by devoting considerable time to calibrating WingMOD against established analyses.

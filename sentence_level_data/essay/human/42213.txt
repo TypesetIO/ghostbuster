@@ -1,0 +1,1 @@
+Motion sensor based approaches usually require individuals to wear a specialized device to track body motions, which are not always convenient in practice.

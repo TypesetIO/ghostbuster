@@ -1,0 +1,1 @@
+Recent studies have suggested that in certain molecular magnets, the spin relaxation can be dominated by specific phonon modes that couple strongly to the spin states, thereby amplifying the effects of phonon lifetime on relaxation rates [Author, Year].

@@ -1,0 +1,1 @@
+Because of its simplicity, this encryption technique is exceptionally quick, uses less power, and has no effect on Wi-Fi or internet performance.

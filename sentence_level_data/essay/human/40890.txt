@@ -1,0 +1,1 @@
+Denna plugin har sedan dess utveckling visat sig vara ett alternativ till konventionella mätningar och ger mycket reproducerbara resultat med hög noggrannhet.

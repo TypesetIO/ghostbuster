@@ -1,0 +1,1 @@
+In (Cheng & Matson, 2015) , an autonomous robot was used for the discrimination between crop (rice) and weed by featuring a base system consisting of a Harris Corner Detection algorithm along with ML algorithms that were compared in terms of precision and recall.

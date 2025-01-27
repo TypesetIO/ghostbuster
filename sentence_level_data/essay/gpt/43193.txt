@@ -1,0 +1,1 @@
+The integration of PPG technology into wearable devices not only enhances the accessibility of continuous BP and HR monitoring but also raises important considerations regarding data accuracy and user compliance.

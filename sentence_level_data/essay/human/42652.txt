@@ -1,0 +1,1 @@
+Considering an app detected by two or three anti-malware tools as malicious is a more strict rule on the labeling of malicious apps, but the goal of our method is to identify not only the definitely malicious apps, but also the highly suspicious ones that are only flagged by one anti-malware tool.

@@ -1,0 +1,1 @@
+Three properties of connectors, assembly/disassembly direction, execution tool and precedence relations, are given . . .Fig. 3 .9 DCG representation of the telephone handset [12] . . . . . . . . . . . .The main decision variables of DLBP.

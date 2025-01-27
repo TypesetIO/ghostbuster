@@ -1,0 +1,1 @@
+In addition to the considerations of absolute pressure and feed flow rate (FFR), the thermal efficiency of the multi-envelope V-AGMD modules plays a crucial role in optimizing the specific energy consumption (SEEC).

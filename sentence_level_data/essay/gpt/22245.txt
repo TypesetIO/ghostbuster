@@ -1,0 +1,1 @@
+By using demand-driven pricing, also known as surge pricing, Uber adapts its prices based on the demand for rides at any given time.

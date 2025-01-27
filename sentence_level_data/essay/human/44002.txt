@@ -1,0 +1,1 @@
+Next we turn to the spinpolarized calculations as suggested by the experimental finding of antiferromagnetic Heisenberg chains in the M 2 phase of VO 2 .As a result we obtain a stable antiferromagnetic solution with a total energy, which is by 0.7 mRyd per unit cell lower than that growing out of the non-spinpolarized calculation.

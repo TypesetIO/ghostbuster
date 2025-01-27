@@ -1,0 +1,1 @@
+Since this is free cooling application, the process of heat release from the PCM is generally called as 'charging/solidification of PCM' and heat storage in PCM is called as 'discharging/melting of PCM'.

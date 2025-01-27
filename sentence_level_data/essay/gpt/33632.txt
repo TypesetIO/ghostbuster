@@ -1,0 +1,1 @@
+In contrast, Hadoop breaks down the dataset into smaller subsets and distributes them across a cluster of computers.

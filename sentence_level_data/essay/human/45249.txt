@@ -1,0 +1,1 @@
+For additional precaution, no occluding application was in place for more than 8 min at a time.

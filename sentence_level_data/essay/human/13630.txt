@@ -1,0 +1,1 @@
+Currently, the policy dictated that the intruders be administered a test or other challenge, of which there was an approved list of options for the intruders to choose from.

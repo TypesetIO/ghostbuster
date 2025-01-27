@@ -1,0 +1,1 @@
+Each criterion has its weight compared to others or relative priority.

@@ -1,0 +1,1 @@
+It excels at capturing and analyzing volatile memory, allowing investigators to retrieve valuable information such as passwords, encryption keys, and active network sessions.

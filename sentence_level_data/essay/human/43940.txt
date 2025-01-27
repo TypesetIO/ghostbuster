@@ -1,0 +1,1 @@
+The calculated lesion diameter is similar to the actual diameter for 90 W/4 s RF applications and slightly larger than the actual diameter for RF applications at 50 W/10 s and 30 W/30 s (Figure 5A , top).

@@ -1,0 +1,1 @@
+The following are the indicators used as the base of the decision-making process whereas if r count is positive and r count > r table, then the variable is deemed valid and vice versa.

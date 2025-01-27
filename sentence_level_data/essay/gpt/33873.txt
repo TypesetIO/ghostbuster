@@ -1,0 +1,1 @@
+By analyzing data on customer preferences, buying patterns, and market demand, prescriptive analytics algorithms can recommend optimal product assortments, promotions, and pricing strategies.

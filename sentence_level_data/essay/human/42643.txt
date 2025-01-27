@@ -1,0 +1,1 @@
+Specifically, fault diagnosis signals can be extracted from the midpoint voltages of the neutral-point-clamped bridge arms, and the mean values and duty cycles of these voltages can be utilized to pinpoint the faulty switch.

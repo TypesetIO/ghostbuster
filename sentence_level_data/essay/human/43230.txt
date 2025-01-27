@@ -1,0 +1,1 @@
+A multi-agent system has applications in several fields such as: E-commerce, real-time monitoring of telecommunication networks, information handling on the Internet, air traffic control, meeting scheduling, Network Intrusion Detection (Weiss, 1999) , etc.

@@ -1,0 +1,1 @@
+Yeoh et al. (2005) have actually made comprehensive comparisons between the LES predictions with various measurements, empirical correlations and published experimental data available in the literature, and an average deviation of 18% was satisfactorily obtained.

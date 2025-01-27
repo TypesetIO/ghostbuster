@@ -1,0 +1,1 @@
+Investigaciones recientes han explorado diversas técnicas de mitigación de interferencias, incluyendo el uso de filtros ópticos avanzados y algoritmos de procesamiento de señales que permiten una mejor separación de las portadoras de RF y las señales de datos ópticos [18].

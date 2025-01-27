@@ -1,0 +1,1 @@
+Future research should focus on optimizing model architectures and exploring lightweight frameworks that can be deployed on mobile devices, making ArSL recognition more accessible to the broader community.

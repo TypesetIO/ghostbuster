@@ -1,0 +1,1 @@
+To validate these findings, we employed CRISPR/Cas9 technology to introduce specific mutations in control iPSCs, thereby mimicking the DISC1 mutation and allowing us to observe the resultant phenotypic changes in a controlled manner.

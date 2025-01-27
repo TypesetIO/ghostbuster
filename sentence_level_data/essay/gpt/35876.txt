@@ -1,0 +1,1 @@
+Dynamic infrastructure is a key feature of Farcargo's information system.

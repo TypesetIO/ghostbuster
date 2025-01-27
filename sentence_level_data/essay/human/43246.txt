@@ -1,0 +1,1 @@
+Figure 2 shows the spin relaxation time as function of the external magnetic fieldB → at 20 K for a single electronic spin coupled to the V nuclear spin and a purely harmonic phonons bath.

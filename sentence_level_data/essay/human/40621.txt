@@ -1,0 +1,1 @@
+Algunas de las características base de la selección, se explican a continuación: -Tipo TPS: además de ser el transformador de corriente con flujo de pérdidas mas bajo, tienen la relación de espiras perfectamente controlada, lo que lo hace muy útil en esquemas de protección basados en la simple circulación de corriente usando relés de alta impedancia.

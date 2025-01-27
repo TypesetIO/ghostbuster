@@ -1,0 +1,1 @@
+In particular, the module with the shortest residence time yielded a permeate flux of 8.7 l h − 1 m − 2 , and the module with the longest residence time attained STEC as low as 49 kWh th m − 3 , equivalent to GOR = 13.5.

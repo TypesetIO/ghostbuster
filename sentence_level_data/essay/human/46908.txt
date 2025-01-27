@@ -1,0 +1,1 @@
+In moderate confinement where p , h < R g,bulk (de Gennes regime), the dynamics of a polymer has been characterized by Brochard and de Gennes 1,2 using blob theory.

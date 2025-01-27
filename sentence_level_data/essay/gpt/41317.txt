@@ -1,0 +1,1 @@
+The evolution of malicious application detection techniques has led to the exploration of more sophisticated methodologies that leverage machine learning and deep learning paradigms.

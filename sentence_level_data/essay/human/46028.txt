@@ -1,0 +1,1 @@
+Another problem is the use of a small volume DC-link capacitor in a PMSM drive system can cause large DC bus voltage harmonics which affect the accuracy of rotor position estimation.

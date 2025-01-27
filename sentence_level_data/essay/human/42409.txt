@@ -1,0 +1,1 @@
+Both full-length proteins and isolated sensors used for clustering are protein-coding genes.

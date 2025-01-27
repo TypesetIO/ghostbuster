@@ -1,0 +1,1 @@
+The website will form a base for all interactions whereby the users will perform their interactions.

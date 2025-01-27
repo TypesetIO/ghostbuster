@@ -1,0 +1,1 @@
+In distributed systems, the local processing capabilities of sensor nodes can significantly reduce the bandwidth required for communication, as only synthesized estimates are shared rather than raw data.

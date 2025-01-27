@@ -1,0 +1,1 @@
+This software enables Farcargo to effectively manage all aspects of its operations, including order processing, inventory management, and tracking.

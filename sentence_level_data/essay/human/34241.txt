@@ -1,0 +1,1 @@
+As such, Arsenal Recon is an instrument constructed to explore the Windows operating system and its registry, thus accessing information about the device’s configuration specifics.

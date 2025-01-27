@@ -1,0 +1,1 @@
+Calibration involves adjusting model parameters to minimize the difference between simulated and observed values, while validation tests the model's predictive capabilities using independent datasets.

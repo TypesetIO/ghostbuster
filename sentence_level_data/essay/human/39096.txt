@@ -1,0 +1,1 @@
+A mix for loading in the PCR was made by adding 0.5µL of forward primer 8F, 0.5 µL of reverse primer 1492R, 1µL of the DNA template, 10.5 µL of sterile water, and 12.5 µL of master mix to a PCR tube.

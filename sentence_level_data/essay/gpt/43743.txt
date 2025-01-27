@@ -1,0 +1,1 @@
+While the k−ε model is widely used due to its simplicity and computational efficiency, it may not capture the complex flow dynamics present in systems with significant turbulence and varying flow patterns, as evidenced by the underprediction of peak concentrations in certain scenarios.

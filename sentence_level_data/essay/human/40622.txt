@@ -1,0 +1,1 @@
+La interrupción de la corriente primaria provoca un decrecimiento muy rápido de la corriente secundaria; por lo tanto, los tiempos de reposición de los relés no son muy afectados por las características de decrecimiento de la corriente en los transformadores tipo TPS.

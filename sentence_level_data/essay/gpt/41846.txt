@@ -1,0 +1,1 @@
+In addition to addressing the challenges of cost and maintenance, future research should also focus on enhancing the adaptability of IoT-based robotic cleaners to various environmental conditions.

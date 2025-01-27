@@ -1,0 +1,1 @@
+BG deployment is influenced by many factors, such as firm's size, age and electricity demand [29, 42] .Due to the wide untraceable market and relatively private decisions, the statistical information of BG is often not publicly available, so most studies use indirect methods to estimate the installed capacity of BG.

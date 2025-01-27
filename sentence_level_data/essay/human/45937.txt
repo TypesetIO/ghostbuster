@@ -1,0 +1,1 @@
+Hoberg et al. [6] applies linear control theory to study the effect of several inventory policies on order and inventory variability (using z-transform techniques) and their conditions for stability are examined by the Jury criteria.

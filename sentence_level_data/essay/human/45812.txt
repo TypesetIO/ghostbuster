@@ -1,0 +1,1 @@
+The proposed EOMR protocol uses the integration of network and new path discovery to establish communications for heterogeneous environment dynamically.

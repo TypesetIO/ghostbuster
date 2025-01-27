@@ -1,0 +1,1 @@
+The advancements in deep learning (DL) techniques have not only enhanced the accuracy of land cover classification but have also opened new avenues for integrating diverse data sources.

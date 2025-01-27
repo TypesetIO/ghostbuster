@@ -1,0 +1,1 @@
+Sampling contributes to a spatial resolution, and quantization gives a gray image resolution (Torii, 2018).

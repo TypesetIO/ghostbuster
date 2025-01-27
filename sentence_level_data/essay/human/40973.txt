@@ -1,0 +1,1 @@
+For the majority of OTUs, relative 16S rRNA gene abundances were proportional to the 16S rRNA transcript abundances with less than 1-log fold differences.

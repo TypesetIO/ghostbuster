@@ -1,0 +1,1 @@
+The class returns to the room and locks the door.

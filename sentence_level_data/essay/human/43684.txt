@@ -1,0 +1,1 @@
+eresa Princy et al. have conducted a survey on several machine learning techniques which are utilized to predict the heart diseases risk of a person depending on various attributes such as gender, age, cholesterol, and pulse rate.

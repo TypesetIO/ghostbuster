@@ -1,0 +1,1 @@
+Additionally, the integration of machine learning techniques could facilitate the classification of flows based on their behavior, allowing for real-time alerts and automated responses to anomalies.

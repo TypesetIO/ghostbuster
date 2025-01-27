@@ -1,0 +1,1 @@
+In addition, although more statistically powerful than Cochran's Q, I 2 has low power and can be biased as a test for heterogeneity in small meta-analyses (von Hippel 2015).

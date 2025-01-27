@@ -1,0 +1,1 @@
+If a longer time period is available for hydrology than water quality data, it is important to use all available hydrologic data for calibration and validation to achieve long-term trends.

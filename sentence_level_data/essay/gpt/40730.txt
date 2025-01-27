@@ -1,0 +1,1 @@
+One significant issue is the interpretation of AE signals, which can be influenced by various factors such as environmental conditions, material heterogeneity, and sensor placement [62].

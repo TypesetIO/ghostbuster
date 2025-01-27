@@ -1,0 +1,1 @@
+PCR relies on the ability of DNA to denature and reanneal at specific temperatures, and the G + C content can influence the efficiency and specificity of this process.

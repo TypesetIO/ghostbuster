@@ -1,0 +1,1 @@
+Moreover, integrating scRNA-seq data with comparative genomics can help pinpoint conserved regulatory elements that may have undergone adaptive changes in the human lineage (Gonzalez et al., 2020).

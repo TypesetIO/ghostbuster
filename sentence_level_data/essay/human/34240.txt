@@ -1,0 +1,1 @@
+Some digital forensics software is incredibly specific, created to examine a particular system.

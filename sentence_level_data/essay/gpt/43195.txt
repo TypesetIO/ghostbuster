@@ -1,0 +1,1 @@
+Recent advancements in signal processing techniques, including adaptive filtering and machine learning algorithms, have shown promise in mitigating these issues, thereby improving the robustness of PPG-based measurements [11].

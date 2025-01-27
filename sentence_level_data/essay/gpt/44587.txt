@@ -1,0 +1,1 @@
+For instance, the use of cryptographic algorithms ensures that sensitive information remains protected against unauthorized access, thereby maintaining confidentiality and trust in digital communications [Author, Year].

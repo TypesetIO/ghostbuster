@@ -1,0 +1,1 @@
+One promising avenue is the incorporation of surrogate models, which can approximate the behavior of high-fidelity simulations while significantly reducing computational costs.

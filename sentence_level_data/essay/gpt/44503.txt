@@ -1,0 +1,1 @@
+En este sentido, se están llevando a cabo estudios que analizan el impacto de diferentes esquemas de modulación en la capacidad de transmisión y la robustez frente a condiciones adversas de propagación [20].

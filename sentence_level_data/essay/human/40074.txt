@@ -1,0 +1,1 @@
+The primary weakness of the k−ε model is that it fails to predict accurately the flow in anisotropic turbulence regions for its assumption of isotropic turbulence and spectral equilibrium.

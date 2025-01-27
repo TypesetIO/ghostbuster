@@ -1,0 +1,1 @@
+This way, two consumers are not seen as a homogenous group, but they get to see different ads on websites and newsletters, both tailored to their inferred interests.

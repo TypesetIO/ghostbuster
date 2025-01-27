@@ -1,0 +1,1 @@
+Para la verificación del valor de la resistencia del devanado secundario estimado, se determina el número de espiras con la relación:

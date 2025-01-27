@@ -1,0 +1,3 @@
+Implementation Schedule
+Task                                                            Person responsible                                                           Start Date  End Date    Time taken
+Planning for the project development                            Project manager

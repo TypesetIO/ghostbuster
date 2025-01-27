@@ -1,0 +1,1 @@
+By integrating computational fluid dynamics (CFD) simulations with experimental data, a more comprehensive understanding of the mixing mechanisms can be achieved, paving the way for improved design and operation of mixing systems in various chemical engineering applications.

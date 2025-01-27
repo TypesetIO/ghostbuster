@@ -1,0 +1,1 @@
+This finding underscores the importance of selecting a backbone that not only maximizes detection accuracy but also aligns with the deployment constraints of specific applications.

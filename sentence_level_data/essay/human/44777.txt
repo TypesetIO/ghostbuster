@@ -1,0 +1,1 @@
+With batch size 32, optimizer ADAM, dense layers 4 with learning rate and weight decay constants of 0.0001 and 0.0001, we achieved low loss.

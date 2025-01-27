@@ -1,0 +1,1 @@
+"We are detecting messages coming from both fleets, their not talking to us yet, so it's encrypted.

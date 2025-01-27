@@ -1,0 +1,3 @@
+Body:
+1. Overview of Parkinson's Disease and its Management:
+Parkinson's Disease is characterized by the progressive degeneration of dopaminergic neurons in the substantia nigra, leading to motor symptoms such as rigidity, bradykinesia, tremors, and postural instability.

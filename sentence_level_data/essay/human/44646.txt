@@ -1,0 +1,1 @@
+Measurement models define a relationship between observed variables (OVs) and their latent variable (LV).

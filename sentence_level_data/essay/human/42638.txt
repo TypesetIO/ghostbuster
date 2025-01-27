@@ -1,0 +1,1 @@
+On the other hand, open-circuit faults are more difficult to detect as they may not immediately cause noticeable damage.

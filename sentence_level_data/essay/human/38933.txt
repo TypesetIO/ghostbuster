@@ -1,0 +1,1 @@
+The authors discuss color picture quantization algorithms that are adjustable and tapered.

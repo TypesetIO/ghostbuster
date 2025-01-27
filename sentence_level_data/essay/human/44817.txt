@@ -1,0 +1,1 @@
+Third, a more general control for the quality of democracy of the countries in the dataset is introduced via the World Bank's Rule of Law index.

@@ -1,0 +1,1 @@
+NIDS, however, captures and analyzes network traffic, which means it cannot control data once it leaves the local network.

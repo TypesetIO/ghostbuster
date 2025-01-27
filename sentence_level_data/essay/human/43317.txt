@@ -1,0 +1,1 @@
+But trait values in the major comparative datasets do not represent average field values, and it is important to remember that.

@@ -3,6 +3,7 @@ import os
 import tqdm
 from nltk import ngrams
 from utils.score import k_fold_score
+from pdb import set_trace
 
 
 def get_logprobs(file):
@@ -10,13 +11,25 @@ def get_logprobs(file):
     Returns a vector containing all the logprobs from a given logprobs file
     """
     logprobs = []
+    encodings = []
 
     with open(file) as f:
-        for line in f.read().strip().split("\n"):
-            line = line.split(" ")
-            logprobs.append(np.exp(-float(line[1])))
-
-    return np.array(logprobs)
+        with open(file, "r") as f:
+            data = f.read()
+        try:
+            if data:
+                data = data.strip().split("\n")
+                for idx, line in enumerate(data):
+                    print(idx, line)
+                    line = line.split(" ")
+                    logprobs.append(np.exp(-float(line[1])))
+                    encodings.append(int(line[2]))
+            else:
+                print(f"File {file} is empty")
+        except Exception as e:
+            print(f"Error reading file {file}: {e}")
+            set_trace()
+    return np.array(logprobs), encodings
 
 
 def get_tokens(file):

@@ -1,0 +1,1 @@
+A new, fourth-generation of CAR-T cell constructs combines additional T cell activity modulators with tumor-targeted effectors, such as T cells redirected for universal cytokine-mediated killing (TRUCK) CAR-T cells.

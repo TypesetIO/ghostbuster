@@ -1,0 +1,1 @@
+The traditional approach to calculating ABT does not take shifting back and forth between stimulus types into account.

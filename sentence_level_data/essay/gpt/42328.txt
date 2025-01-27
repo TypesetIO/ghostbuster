@@ -1,0 +1,1 @@
+For instance, the application of transfer learning has shown promising results, allowing models pre-trained on large datasets to adapt effectively to specific agricultural tasks, thereby reducing the need for extensive labeled data [Author, Year].

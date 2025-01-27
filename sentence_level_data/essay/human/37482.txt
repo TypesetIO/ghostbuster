@@ -1,0 +1,1 @@
+This variable was chosen due to the fact that it allows determining what environment has surrounded the respondent.

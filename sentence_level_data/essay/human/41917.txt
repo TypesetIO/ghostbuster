@@ -1,0 +1,1 @@
+This explanation is compatible with the observation that samples that were cooled at slower rates showed higher enthalpy values, because such systems would be at temperatures <T g for longer periods of time (20 min for 2 K/min.compared with 2 min for 20 K/min.).

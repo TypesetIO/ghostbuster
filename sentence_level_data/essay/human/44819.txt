@@ -1,0 +1,1 @@
+Finally, a survey year dummy is included that indicates whether the respondent was part of the 2004 or 2014 Citizenship wave, to account for a possible time trend (Table 3 ).

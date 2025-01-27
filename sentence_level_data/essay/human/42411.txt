@@ -1,0 +1,1 @@
+However, we observe that the ecosystems with high RER and low ETSR are more spatially and environmentally heterogeneous, which may indicate their class labeling is too broad and are labeling physically distinct biome types.

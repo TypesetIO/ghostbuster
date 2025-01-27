@@ -1,0 +1,1 @@
+A PI-type observer that incorporates a proportional integral resonant controller is also utilized.

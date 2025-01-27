@@ -1,0 +1,1 @@
+For example, $("ul").on("click", "li", function() { // code to execute }); will ensure that any list item within the unordered list can trigger the event, even if it is added after the event handler is set.

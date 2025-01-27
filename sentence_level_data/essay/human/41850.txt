@@ -1,0 +1,1 @@
+Marqusee et al. [28] argues that each building will be equipped with 10 kW to several MWs diesel BG empirically to prevent the risk of power outages, and the size of backup capacity is related to critical infrastructure or building types.

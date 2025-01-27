@@ -1,0 +1,1 @@
+Furthermore, feature selection methods can be utilized to identify the most relevant attributes that contribute to the prediction of heart and liver diseases, thereby reducing dimensionality and enhancing model interpretability.

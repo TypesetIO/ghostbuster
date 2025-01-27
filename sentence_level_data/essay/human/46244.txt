@@ -1,0 +1,1 @@
+Related studies applying sentiment analysis research with software engineering data are heavily based on off-the-shelf tools, which are trained in different contexts, such as product or movie reviews and may therefore not apply to other domains.

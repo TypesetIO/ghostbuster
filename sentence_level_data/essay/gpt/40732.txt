@@ -1,0 +1,1 @@
+Recent studies have explored machine learning algorithms to enhance the classification of AE signals, aiming to improve the accuracy of damage detection and characterization [63].

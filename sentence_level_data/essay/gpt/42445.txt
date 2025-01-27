@@ -1,0 +1,1 @@
+The total Hall resistivity, denoted as ρ H , can be expressed as the sum of the ordinary Hall effect (ρ OH ), the anomalous Hall effect (ρ AH ), and the contribution from the topological Hall effect (ρ THE ).

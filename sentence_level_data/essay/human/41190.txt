@@ -1,0 +1,1 @@
+The performance of the cell with CCM may further improve by optimizing the parameters of the CCM such as carbon load, thickness and preparation method.

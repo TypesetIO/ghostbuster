@@ -1,0 +1,1 @@
+For instance, the use of Internet of Things (IoT) devices within CBTC systems can enhance operational efficiency but also raises concerns regarding data integrity and system resilience against cyber threats [Author, Year].

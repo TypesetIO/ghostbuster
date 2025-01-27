@@ -1,0 +1,1 @@
+We used two values of the learning rates, 0.01, 0.001, weight decay constants of 0.01 and 0.001, and dense layers of 4 and 5, which required a batch size of 64.

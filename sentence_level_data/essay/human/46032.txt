@@ -1,0 +1,1 @@
+In reference to [54] , a proposed methodology entails using a power balance-based observer for DC-link voltage measurement to enhance accuracy and minimize the effect of voltage measurement errors on rotor position estimation.

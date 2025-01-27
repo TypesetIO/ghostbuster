@@ -1,0 +1,1 @@
+It postulates that the conditional hazard function of an event time given covariates is a product of an unspecified baseline hazard function and an exponential function of a linear combination of covariates with unknown coefficients.

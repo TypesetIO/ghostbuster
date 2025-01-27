@@ -1,0 +1,1 @@
+According to this explanation, a flame front interacts with the tube walls due to the nonslip boundary conditions at the walls and the thermal expansion of the burning matter.

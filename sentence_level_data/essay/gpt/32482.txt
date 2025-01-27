@@ -1,0 +1,1 @@
+Social media platforms collect vast amounts of personal information, such as demographics, location data, and browsing history, which is then used to train algorithms.

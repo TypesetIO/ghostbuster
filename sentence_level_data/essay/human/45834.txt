@@ -1,0 +1,1 @@
+These variables are defined in the "\Port and Data Manager" window of the MATLAB function.

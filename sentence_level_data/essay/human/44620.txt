@@ -1,0 +1,1 @@
+Is the extraction of certain statements from property lists.

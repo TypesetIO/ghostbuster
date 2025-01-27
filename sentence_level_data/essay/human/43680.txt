@@ -1,0 +1,1 @@
+Various studies revealed the hybrid model merits that achieved good performance in heart disease prediction, namely, RF with a linear model, MLP, Bayes Net (BN), majority voting of NB, and RF and two stacked SVMs, respectively [14] .Kalia Orphanou et al., in the NB classification model, the TARs (Temporal Association Rules) feature is used for diagnosing heart disease.

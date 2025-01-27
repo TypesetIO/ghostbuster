@@ -1,0 +1,2 @@
+Purpose of the Implementation Plan and its Guidance:
+The information system implementation plan serves as a roadmap to ensure the successful deployment and adoption of Farcargo's new system.

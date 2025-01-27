@@ -1,0 +1,1 @@
+Another research used a UAV for the collection of datasets to detect Tobacco plants by the CNN models.

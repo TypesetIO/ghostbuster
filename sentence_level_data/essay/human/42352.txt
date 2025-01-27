@@ -1,0 +1,1 @@
+Since wind power has a cubic relationship with wind speed [2] , the wind speed has a significant influence on the power generated.

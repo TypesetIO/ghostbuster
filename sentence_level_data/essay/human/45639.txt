@@ -1,0 +1,1 @@
+It was found that the wind data of three hourly are well introduced by Markov chains means.

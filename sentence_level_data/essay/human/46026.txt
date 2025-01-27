@@ -1,0 +1,1 @@
+Additionally, this algorithm is not effective in low-speed and light-load conditions where the power level is too low.

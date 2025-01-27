@@ -1,0 +1,1 @@
+This method allows researchers to expand their sample size gradually.

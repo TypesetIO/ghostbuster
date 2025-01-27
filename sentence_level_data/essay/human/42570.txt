@@ -1,0 +1,1 @@
+The software simulate the way of casting engineer decides the process, parting line, core, mould, feeders, gating system and mould layout and analyses the design is suitable actually i.e. improve quality as well as reduce defects.

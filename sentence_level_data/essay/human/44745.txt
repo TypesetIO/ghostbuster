@@ -1,0 +1,1 @@
+However, the cases of [95] and [96] do not consider the whole system but focus on the subsystem or equipment, which means there are difficulties to describe the effects of security on the safety from the view of the system.

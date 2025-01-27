@@ -1,0 +1,1 @@
+In the combined MMS datasets, 24 of 43 flows are periodic.

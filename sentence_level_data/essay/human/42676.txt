@@ -1,0 +1,1 @@
+Finally, the number of malware samples for each threshold is 24,389 with 60 families, 24,157 with 43 families, and 23,681 with 28 families, respectively.

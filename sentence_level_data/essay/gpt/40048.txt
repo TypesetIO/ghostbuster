@@ -1,0 +1,1 @@
+As the field progresses, it is crucial to establish standardized evaluation metrics that not only assess the accuracy of ICD-9 code assignments but also consider the clinical relevance and usability of the predictions [Author, Year].

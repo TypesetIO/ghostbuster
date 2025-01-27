@@ -1,0 +1,1 @@
+EOMR protocol also balanced the load & thus throughput is increases which lead to maximum life span of the network and less delay to end to end in the network.

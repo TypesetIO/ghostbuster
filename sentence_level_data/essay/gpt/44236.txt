@@ -1,0 +1,1 @@
+This leads to the formulation of the total derivative of the composition g(f(u)), which can be expressed as J_g(f(u)) 	imes J_f(u).

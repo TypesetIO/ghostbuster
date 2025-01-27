@@ -1,0 +1,1 @@
+None of the methods were found to be effective in mitigating reflection cracking when vertical movement of slabs is predominant.

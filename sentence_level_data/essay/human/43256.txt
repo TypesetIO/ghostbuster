@@ -1,0 +1,1 @@
+Figure 3 displays the simulated and experimental temperature dependence of the spin relaxation time in a field of 5 T.

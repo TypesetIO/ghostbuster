@@ -1,0 +1,1 @@
+Various hyperparameters were set for optimizers, learning rate, weight decay value, and dense layers.

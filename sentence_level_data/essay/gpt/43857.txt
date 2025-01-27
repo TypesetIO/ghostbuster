@@ -1,0 +1,1 @@
+By training these models on a dataset generated from a limited number of detailed CFD analyses, it may be possible to achieve a balance between fidelity and efficiency, thus facilitating more comprehensive design iterations.

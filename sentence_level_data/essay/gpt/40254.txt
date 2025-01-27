@@ -1,0 +1,1 @@
+In this context, algorithms such as Recursive Feature Elimination (RFE) or Lasso regression can be applied to systematically eliminate less informative features.

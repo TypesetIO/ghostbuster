@@ -1,0 +1,1 @@
+During testing, engineers can analyze the robot's behavior, sensor data, and decision-making algorithms to identify areas of improvement.

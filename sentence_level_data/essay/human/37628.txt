@@ -1,0 +1,1 @@
+2. SSL secure communication; this connection allows the configuration of connections to each end-user.

@@ -1,0 +1,1 @@
+Manual administration of IV medications is prone to errors, such as incorrect dosages or infusion rates, which can have significant consequences for patients.

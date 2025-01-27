@@ -1,0 +1,1 @@
+The high-speed characteristics were studied by using computational fluid dynamics (CFD) method [12] .To further improve the concept for potential applications, it was decided to increase the payload and the cruise Mach number and to keep some experienced design principles on the blending of wing and body [13] - [16] .

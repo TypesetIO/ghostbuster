@@ -1,0 +1,1 @@
+The robot should possess a metal detector that can identify objects on the ground, ultrasonic sensors that determine proximity to objects, and a compass that uses the Earth’s magnetic field to select directions.

@@ -1,0 +1,1 @@
+This framework describes such elements as act, agent, scene, agency, and purpose, as well as their relations.

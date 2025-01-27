@@ -1,0 +1,1 @@
+On the other hand, NIDS operates at the network level, monitoring traffic on a network segment and analyzing packet headers and payloads for suspicious patterns.

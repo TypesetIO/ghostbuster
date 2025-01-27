@@ -1,0 +1,1 @@
+This method can also handle multiple events simultaneously, such as $("#myButton").on("click mouseenter", function() { // code to execute });, which triggers the same function for both click and mouse enter events.

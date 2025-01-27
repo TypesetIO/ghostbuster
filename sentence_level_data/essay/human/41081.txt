@@ -1,0 +1,1 @@
+Compared with conventional AST methods, a Fidget-AST can be performed instrument free by someone with minimal training.

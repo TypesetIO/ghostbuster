@@ -1,0 +1,1 @@
+Recent advancements in transfer learning have also shown promise in this area, enabling models trained on resource-rich languages to be adapted for use in low-resource languages, thereby expanding the applicability of NER techniques [13].

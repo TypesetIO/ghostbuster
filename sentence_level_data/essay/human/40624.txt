@@ -1,0 +1,1 @@
+Durante la transición del estado de saturación al estado de flujo remanente, la corriente en el circuito secundario se mantiene en un nivel bastante más elevado y por un tiempo mayor que en el caso de un transformador de corriente clase TPS o TPX de dimensiones similares y con una carga similar conectada en el secundario.

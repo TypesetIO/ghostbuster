@@ -1,0 +1,1 @@
+It can detect changes in system files, registry keys, user privileges, and other elements that could signify an intrusion.

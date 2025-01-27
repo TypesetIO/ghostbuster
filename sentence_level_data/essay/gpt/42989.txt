@@ -1,0 +1,1 @@
+Furthermore, the establishment of standardized metrics for evaluating both safety and security will facilitate more effective comparisons and benchmarking across different CBTC implementations.

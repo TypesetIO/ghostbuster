@@ -1,0 +1,1 @@
+Multidisciplinary design optimization (MDO) is adding value in the design of the Blended-Wing-Body (BWB), a revolutionary concept for transport that integrates wing, fuselage, engines, and tail to achieve a substantial improvement in performance over a conventional transport (Figure 1 and References 1-2).

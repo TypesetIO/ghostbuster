@@ -1,0 +1,1 @@
+For instance, the use of machine learning algorithms in robots like Ladybird and MARS enables real-time data analysis, allowing for precise interventions based on the specific needs of crops [Author, Year].

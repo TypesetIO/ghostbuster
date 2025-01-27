@@ -1,0 +1,1 @@
+Mitigating the Global Software Engineering challenges by themselves is not a straightforward task and combining agile practices with a global or distributed context complicates things even further.

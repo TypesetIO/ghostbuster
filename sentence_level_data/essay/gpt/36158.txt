@@ -1,0 +1,1 @@
+Users can dive deep into the data through interactive visualizations, filtering, and drilling down to specific details.

@@ -1,0 +1,1 @@
+Physics class meant launching themselves from one side of the room to the other using trampolines.

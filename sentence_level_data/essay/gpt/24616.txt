@@ -1,0 +1,1 @@
+d. Iterative Testing and Improvement: Once the obstacle course simulation is ready, the robot's performance is evaluated through iterative testing.

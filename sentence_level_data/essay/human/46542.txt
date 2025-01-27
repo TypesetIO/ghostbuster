@@ -1,0 +1,1 @@
+There are two types of sensitivity analysis: local, by changing values one at a time, and global, by allowing all parameter values to change.

@@ -1,0 +1,1 @@
+El nivel de aislamiento asignado de un equipo debe seleccionarse entre los valores indicados en las Tablas 8.2 a 8.5.

@@ -1,0 +1,1 @@
+We define representativeness errors as those deviations of a product from such chosen, unknown "true" state, which are related to real soil moisture variations.

@@ -1,0 +1,1 @@
+According to [1, 7] , several technologies enable high gain antennas, but the most effective is the microstrip antennas and horn antennas, enabling efficiency beyond 5 G cellular communication.

@@ -1,0 +1,1 @@
+The whole tank is considered as a solution domain since no symmetry in the tracer concentration field could be assumed.

@@ -1,0 +1,1 @@
+As organizations navigate the complexities of IoT security, they must also consider regulatory compliance, particularly with frameworks such as the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), which impose stringent requirements on data handling practices.

@@ -1,0 +1,1 @@
+The platform utilizes a proof-of-stake mechanism, which is more energy-efficient compared to the traditional proof-of-work algorithm.

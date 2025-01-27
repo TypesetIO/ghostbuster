@@ -1,0 +1,1 @@
+Computational fluid dynamics (CFD) simulations have proven invaluable in this regard, allowing for the exploration of different design iterations and their impact on performance metrics such as lift-to-drag ratio and stall characteristics [Author, Year].

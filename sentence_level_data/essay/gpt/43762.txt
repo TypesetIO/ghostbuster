@@ -1,0 +1,1 @@
+For instance, in scenarios such as disaster response or emergency management, agents must rapidly exchange information to adapt to changing conditions and coordinate their actions effectively (Zhang et al., 2018).

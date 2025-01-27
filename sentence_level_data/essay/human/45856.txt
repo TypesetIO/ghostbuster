@@ -1,0 +1,1 @@
+The general mixing trends are well predicted by the k−ε and the EASM as can be seen in Fig. 4 . The peak values predicted by the EASM are larger than those predicted by the k−ε model, though they are lower than the experimental data.

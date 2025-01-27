@@ -1,0 +1,1 @@
+To accurately capture these effects, it is essential to consider the phase interaction mechanisms, including coalescence and breakage of droplets, which can be modeled using population balance equations (PBEs) [Author, Year].

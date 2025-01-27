@@ -1,0 +1,1 @@
+The weighted moving average used four weights to determine the likely level of sales in the next month.

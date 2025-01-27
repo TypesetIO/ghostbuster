@@ -1,0 +1,1 @@
+This hypothesis was tested by stratifying the models based on their reconstruction completeness and analyzing the correlation with prediction outcomes.

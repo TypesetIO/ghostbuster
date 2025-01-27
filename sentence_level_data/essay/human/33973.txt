@@ -1,0 +1,1 @@
+Thirdly, designing the machine’s central command module, which will be in charge of decision-making, and constructing a shell will provide physical characteristics and functionality.

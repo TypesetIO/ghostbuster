@@ -1,0 +1,1 @@
+Modbus is a typical supervisory control and data acquisition (SCADA) protocol that supports only simple supervisory commands.

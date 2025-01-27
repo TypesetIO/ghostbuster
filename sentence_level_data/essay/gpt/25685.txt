@@ -1,0 +1,1 @@
+This would include evaluating the expenses for infrastructure, web development, data migration, and ongoing maintenance.

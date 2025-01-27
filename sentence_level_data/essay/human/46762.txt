@@ -1,0 +1,1 @@
+An IoT system comprises sensors and devices communicating with the cloud over the Internet connection.

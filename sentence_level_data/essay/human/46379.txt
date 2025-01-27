@@ -1,0 +1,1 @@
+Some did not, increasing uncertainty about the direction of causation (although if the baseline outcome measure which included random errors was introduced as a covariate, regression to the mean might lead to biased results according to Lord's paradox [68] ).

@@ -1,0 +1,1 @@
+Furthermore, the integration of substrate integrated waveguide (SIW) technology allows for compact designs while maintaining high performance, making it an attractive option for THz applications.

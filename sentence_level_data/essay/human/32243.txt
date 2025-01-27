@@ -1,0 +1,1 @@
+Other blockchains possess a small capacity for transactions, as their operations per second make them unfeasible (Locke, 2021).

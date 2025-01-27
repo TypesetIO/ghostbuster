@@ -1,0 +1,1 @@
+The selection of appropriate weighting schemes is critical in the computation of the Multidimensional Poverty Index (MPI), as it directly influences the resulting poverty estimates and their implications for policy-making.

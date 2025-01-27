@@ -1,0 +1,1 @@
+An even number observation becomes the mean of the two middle numbers (Evans and Williams, 2014).

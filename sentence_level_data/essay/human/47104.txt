@@ -1,0 +1,1 @@
+The more layers, the longer it takes to train, but the accuracy tends to be higher, especially in complex object detection.

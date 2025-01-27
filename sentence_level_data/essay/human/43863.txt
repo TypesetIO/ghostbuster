@@ -1,0 +1,1 @@
+The importance of water molecules in ligand binding and affinity prediction has been characterized before [77, 78] .On the mineralocorticoid target (PDB: 5HCV), HCT interacted through hydrogen bonding with the corresponding amino-acid residues that included Thr 945 and Asn 770 .A similar water-based hydrogen-bonded network was observed encompassing Arg 817 and Ser 810 .

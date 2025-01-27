@@ -1,0 +1,1 @@
+According to the research, various color images that normally need a frame buffer with 15 bits for every pixel could be quantized to 10 or fewer bits with little subjective deterioration.

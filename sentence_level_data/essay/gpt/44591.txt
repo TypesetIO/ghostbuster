@@ -1,0 +1,1 @@
+Additionally, the implications of these encoding methods extend beyond mere data transmission; they also influence the design of protocols and architectures in distributed systems.

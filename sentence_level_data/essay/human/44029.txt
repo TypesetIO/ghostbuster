@@ -1,0 +1,1 @@
+Other vanadium oxide (VO x ) thin films with various stoichiometries free of MIT have been used as commercial bolometer sensing material, taking advantage of their strong infrared absorption, relatively high TCR (2−3%/ K) and low ρ (0.05−0.1 Ω•cm). 33, 34 Our graded W-doped VO 2 offers a new, superior bolometer material by exploiting the MIT, as opposed to avoiding it.

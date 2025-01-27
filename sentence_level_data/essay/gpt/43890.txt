@@ -1,0 +1,1 @@
+Additionally, jQuery provides methods for stopping event propagation and preventing default actions, such as event.stopPropagation() and event.preventDefault(), which are essential for controlling the behavior of events in a web application.

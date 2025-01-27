@@ -1,0 +1,1 @@
+This interactivity allows for a more intuitive and exploratory approach to data analysis, as users can dynamically adjust their visualizations based on their analysis goals.

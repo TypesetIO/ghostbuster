@@ -1,0 +1,1 @@
+This model is justified by perturbation theory arguments (25) .Figure 3 shows that this model has the effect of increasing the t versus T power law of one unit and, depending on the size of the coefficient g, speeding up the overall spin relaxation rate.

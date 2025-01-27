@@ -1,0 +1,1 @@
+To address the limitations of the current WingMOD framework, future research should focus on developing hybrid methodologies that integrate both CFD and mission analysis within a cohesive optimization environment.

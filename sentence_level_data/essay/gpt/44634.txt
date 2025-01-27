@@ -1,0 +1,1 @@
+One promising approach is to integrate existing models of learning and transfer, such as the Transfer of Learning Theory, which emphasizes the role of context and individual differences in the transfer process [Author, Year].

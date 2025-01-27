@@ -1,0 +1,1 @@
+SEM is a multivariate statistical analysis technique which enables researchers to incorporate unobservable variables measured indirectly by indicators variables.

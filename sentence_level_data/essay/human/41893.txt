@@ -1,0 +1,1 @@
+The obtained optimization results for a pilot building, showed a significant deduction of the calculation time while obtaining acceptable optimal results.

@@ -1,0 +1,1 @@
+These models often employ techniques such as weighted averaging or fuzzy majority voting to synthesize individual assessments into a coherent group decision.

@@ -1,0 +1,1 @@
+As such, future research should aim to disentangle the contributions of attention, expertise, and temporal dynamics in face and object recognition, potentially employing a multimodal approach that integrates behavioral, neuroimaging, and electrophysiological methodologies.

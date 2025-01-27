@@ -1,0 +1,1 @@
+Non-destructive testing (NDT) methods, such as ultrasonic pulse velocity, acoustic emission, and infrared thermography, have gained prominence in recent years for their ability to provide real-time data on the condition of concrete without causing further damage [9].

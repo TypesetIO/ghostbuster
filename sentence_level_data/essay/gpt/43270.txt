@@ -1,0 +1,1 @@
+However, while AutoML presents significant advantages, it is not without limitations; for instance, the black-box nature of some automated processes can obscure the interpretability of the resulting models, raising concerns about trust and accountability in critical applications [Author, Year].

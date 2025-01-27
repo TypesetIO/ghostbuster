@@ -1,0 +1,1 @@
+This algorithm may not converge, but if it does it converges to the maximum partial likelihood estimate and the Breslow estimate of the baseline cumulative hazard.

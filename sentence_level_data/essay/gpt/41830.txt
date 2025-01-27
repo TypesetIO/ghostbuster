@@ -1,0 +1,1 @@
+Notably, the dark state appears to be thermally accessible, allowing for a non-radiative transition back to the emitting state, which is crucial for the observed photoluminescence.

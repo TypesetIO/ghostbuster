@@ -1,0 +1,1 @@
+Moreover, the introduction of 180° pulses can be strategically employed to refocus the transverse magnetization, counteracting the dephasing effects induced by the gradient.

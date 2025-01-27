@@ -1,0 +1,1 @@
+The children were asked to start with the fourth line from the bottom (5.0), and proceed to the next line, if optotypes of the line were correctly described, otherwise, they continued with the previous line.

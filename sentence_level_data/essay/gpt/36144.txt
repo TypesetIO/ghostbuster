@@ -1,0 +1,1 @@
+When dealing with large datasets or multiple tables with complex relationships, Power BI may struggle to efficiently process and manage the connections between the tables.

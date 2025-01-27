@@ -1,0 +1,1 @@
+The combined ranking system obtained a precision of 75 percent at high ranks and a recall of about 63 percent for the top twenty returned codes.

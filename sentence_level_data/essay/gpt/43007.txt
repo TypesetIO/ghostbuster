@@ -1,0 +1,1 @@
+Additionally, we analyzed the confusion matrix in greater detail to identify potential areas for improvement, particularly in the misclassification of certain lesion types.

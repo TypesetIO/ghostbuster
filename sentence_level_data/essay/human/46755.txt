@@ -1,0 +1,1 @@
+Wakayama [6] studied and presented basic results from wing planform optimization for minimum drag with constraints on structural weight and maximum lift.

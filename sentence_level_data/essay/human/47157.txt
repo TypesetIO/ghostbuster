@@ -1,0 +1,1 @@
+In this regard, the only particularity of CONIS, UCDP/GED and ACLED is that they localize conflict events to the micro level by georeferencing the events or identifying the administrative units in which these events occur.

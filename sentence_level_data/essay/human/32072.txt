@@ -1,0 +1,1 @@
+Having a common definition ensures that there are no problems during the execution of the guidelines.

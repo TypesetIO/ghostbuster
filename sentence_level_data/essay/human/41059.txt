@@ -1,0 +1,1 @@
+The issues like an in-camera sensor, design of the filter, and image segmentation methods for the identification of fruits through harvesting robots were presented in Li et al. (2011) .

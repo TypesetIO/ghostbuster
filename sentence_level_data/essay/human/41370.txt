@@ -1,0 +1,1 @@
+26 In the viscosity curve of a shear-thinning fluid, there are two Newtonian plateaus: maximum viscosity, where the shear rate is very low (zero-shear viscosity, μ 0 ), and minimum viscosity, where the shear rate is very high (infinite-shear viscosity, μ ∞ ). 26

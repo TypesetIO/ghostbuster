@@ -1,0 +1,1 @@
+Each run was separated by a beep from an audio device played through loudspeakers.

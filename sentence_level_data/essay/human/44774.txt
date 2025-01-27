@@ -1,0 +1,1 @@
+With both Adam and RMS prop tuned with various hyperparameters, the Adam optimizer had the best performance, followed by AdaGrad and Adadelta.

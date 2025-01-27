@@ -1,0 +1,1 @@
+In the sampling stage, the image is divided into a grid of pixels, with each pixel representing a small part of the image.

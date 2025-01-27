@@ -1,0 +1,1 @@
+However, the experimental information is strictly adhered to in the predictions of mixing time by the EASM and the k−ε turbulence model (e.g., the same mixing time definition, tracer feed location and monitoring position) in the present work, which may have partly improved the predictive accuracy.

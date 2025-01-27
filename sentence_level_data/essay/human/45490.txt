@@ -1,0 +1,1 @@
+The engine brake power (BP), brake specific fuel consumption (BSFC), and brake thermal efficiency (BTE) were determined i n t e r n a t i o n a l j o u r n a l o f h y d r o g e n e n e r g y x x x ( x x x x ) x x x using equations ( 1)e( 3), which incorporated experimental data such as torque, fuel consumption, and in-cylinder pressures against crank angles.

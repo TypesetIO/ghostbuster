@@ -1,0 +1,1 @@
+In particular, we note that the slight overestimation of t in the high-field regime (B ∼ 10 T) might come from the overall overestimation of the calculated vibrational frequencies with respect to the experimental ones.

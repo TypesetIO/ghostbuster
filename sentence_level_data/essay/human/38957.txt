@@ -1,0 +1,2 @@
+Conclusion
+Black and white image processing, gray image processing, and color image processing are the three types of image processing.

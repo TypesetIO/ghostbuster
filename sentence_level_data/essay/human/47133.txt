@@ -1,0 +1,1 @@
+The coefficients of "lnFDI", "(lnFDI) 2 " and "(lnFDI) 3 " are all negative at the 5% significant level in the central region, so this nonlinear effect of FDI on NO x emissions presented an "inverse-N 00 shape (Fig. 6 ).

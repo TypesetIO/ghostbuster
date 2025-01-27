@@ -1,0 +1,1 @@
+This framework should encompass data collection, storage, processing, and sharing protocols, thereby fostering a culture of data-driven decision-making within organizations [Author, Year].

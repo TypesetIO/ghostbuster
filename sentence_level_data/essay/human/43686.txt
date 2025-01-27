@@ -1,0 +1,1 @@
+For handling patients' records and various machine learning algorithms analysis, the map reduce programming is used and given with the graphical representation.

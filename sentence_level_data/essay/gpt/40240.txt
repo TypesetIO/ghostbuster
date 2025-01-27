@@ -1,0 +1,1 @@
+For instance, languages with rich morphological structures, such as Indonesian, present unique challenges for NER systems due to their complex word formations and variations in named entity expressions [11].

@@ -1,0 +1,1 @@
+For instance, if the program successfully identifies a property list associated with 'want (at (l, x))', it can leverage previously established knowledge to inform its current objectives.

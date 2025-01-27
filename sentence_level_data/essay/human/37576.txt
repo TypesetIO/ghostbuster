@@ -1,0 +1,1 @@
+Upon the arrival of goods to their destination, the employee updates the status of the contract to “delivered” and uploads a few pictures as evidence.

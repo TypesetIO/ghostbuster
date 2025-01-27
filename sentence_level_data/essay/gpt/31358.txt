@@ -1,0 +1,1 @@
+Android Studio includes tools like Lint, which performs static analysis on Android projects, identifying common coding mistakes, and providing suggestions to improve code quality.

@@ -1,0 +1,1 @@
+The tunable properties of these nanowires, particularly their ability to modulate the phase transition temperature through varying W-doping levels, allow for the design of highly sensitive thermal sensors that can operate across a broader temperature spectrum.

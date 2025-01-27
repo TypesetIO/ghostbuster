@@ -1,0 +1,1 @@
+It is a note-taking application that allows users to create, organize, and share digital notes.

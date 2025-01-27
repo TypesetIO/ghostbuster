@@ -1,0 +1,1 @@
+Hadoop's ability to distribute the workload across multiple computers is one of its key features.

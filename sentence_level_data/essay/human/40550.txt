@@ -1,0 +1,1 @@
+Also proposed two methods based on AE count characteristic to classify crack types in ordinary concrete and reinforced concrete beams and found that the fracture mode of the crack usually changes from tensile mode to shear mode when the concrete is about to failure [42] .

@@ -1,0 +1,1 @@
+Together, these two measurements show the sensor space covered by an ecosystem and how much average samples within an ecosystem cover its sensor space (Fig. 3a ).

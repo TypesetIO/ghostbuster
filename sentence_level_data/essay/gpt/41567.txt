@@ -1,0 +1,1 @@
+Additionally, the role of anharmonic phonon interactions may introduce further complexity, potentially leading to non-linear relaxation behavior at elevated temperatures.

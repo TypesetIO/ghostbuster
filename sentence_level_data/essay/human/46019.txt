@@ -1,0 +1,1 @@
+In fault diagnosis of capacitors, the goal is to estimate their voltage without using separate sensors by employing a Kalman filter, state observer or sliding mode observer.

@@ -1,0 +1,1 @@
+Subsequently, in the MAGICS 17.02 software environment (Materialise, Leuven, Belgium), the STL model of the porous structure is merged with the STL model of the fully dense volume (see step 1).

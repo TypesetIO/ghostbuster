@@ -1,0 +1,1 @@
+HMMs help developers create signer-independent systems that do not need gloves or attached sensors.

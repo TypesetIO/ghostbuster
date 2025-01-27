@@ -1,0 +1,1 @@
+The ANN achieved a considerably higher classification accuracy than SVM which proved the usefulness of the neural network-based technique (Bakhshipour & Jafari, 2018) .A research was conducted to show the effectiveness of near-infrared mosaic hyperspectral imaging for crop and weed discrimination in a maize field.

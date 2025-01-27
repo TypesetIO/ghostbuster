@@ -1,0 +1,1 @@
+One promising approach is the use of the Reynolds Stress Model (RSM), which directly solves transport equations for the Reynolds stresses, thereby providing a more detailed representation of the turbulent flow field.

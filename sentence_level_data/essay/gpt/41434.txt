@@ -1,0 +1,1 @@
+Additionally, machine learning algorithms, such as Support Vector Machines (SVM) and Random Forests, have shown promise in capturing complex relationships within the data, thereby improving forecasting accuracy [7].

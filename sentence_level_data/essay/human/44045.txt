@@ -1,0 +1,1 @@
+This wider range of working temperature, gradual κ change, and smaller Δκ/dT (compared to Cr/VO 2 bimorph) allow precise control of the actuation displacement, while outputting large amplitude of the displacement.

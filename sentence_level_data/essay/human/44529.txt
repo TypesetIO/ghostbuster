@@ -1,0 +1,1 @@
+Stacks of images were analyzed from both 5 male WT and 5 male KO followed by 2D segmentation of areas of interest.

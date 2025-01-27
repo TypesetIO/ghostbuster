@@ -1,0 +1,1 @@
+To tackle this issue, researchers have proposed a fault-tolerant control scheme that utilizes a complementary-switch-blocking technique in [30] , which mitigates the negative effects of an OCF by blocking the gate-driving signal of the complementary switch.

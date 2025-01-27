@@ -1,0 +1,1 @@
+Hadoop, with its distributed processing capabilities, has emerged as a leading technology for big data analytics.

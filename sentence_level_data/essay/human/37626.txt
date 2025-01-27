@@ -1,0 +1,1 @@
+To access their information, clients will be required to provide authorization and authentication on one interface.

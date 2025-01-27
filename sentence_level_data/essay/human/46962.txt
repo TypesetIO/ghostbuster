@@ -1,0 +1,1 @@
+In the free cooling concept, PCM is cooled during the night/early morning hours by the ambient air and subsequently heat is discharged from the PCM by letting it to solidify.

@@ -1,0 +1,2 @@
+"Blink once for a yes and twice for a no, do you understand?"
+'Blink'

@@ -1,0 +1,1 @@
+To quantify these effects, we employed Bader charge analysis to assess the charge transfer between the OH groups and the Pd atoms, revealing that increased OH coverage tends to withdraw electron density from the Pd surface.

@@ -1,0 +1,1 @@
+Weak or default passwords are frequently used, enabling unauthorized individuals to gain access to devices and their data.

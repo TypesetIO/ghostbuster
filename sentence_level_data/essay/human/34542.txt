@@ -1,0 +1,17 @@
+A proposed financial plan to support Mental Health Services for Healthcare Providers of Critical Patients:
+Category                               Subcategory                    Expenditures ($)
+Staff                                  Mental Health Service Manager  400,000         
+Personal Consultants                   840,000                      
+Group Consultants                      650,000                      
+Technical Support Staff                180,000                      
+Equipment                              Personal Laptops               12,000          
+Personal Mobile Phones                 5,000                        
+Services                               Telephone Service              2,400           
+Internet Service                       300                          
+Supplies                               Administrative Supplies        500             
+Medication                             1,500                        
+Training                               Employee Training              2,000           
+Managerial Training                    2,000                        
+Maintenance                            Offices Maintenance            3,000           
+Laptops and Mobile Phones Maintenance  1,500                        
+Other Expenditures                     Unforeseen Expenditures        5,000

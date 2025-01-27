@@ -1,0 +1,1 @@
+This expansion provided enough codons to specify all 20 amino acids, as well as stop signals for protein synthesis.

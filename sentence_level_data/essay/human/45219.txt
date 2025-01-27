@@ -1,0 +1,1 @@
+Countries can have more than one culture, and cultures can span national borders.

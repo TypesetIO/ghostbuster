@@ -1,0 +1,1 @@
+Additionally, the introduction of machine learning techniques, including random forests and support vector machines, has opened new avenues for survival analysis, allowing for the modeling of complex, non-linear relationships between covariates and survival outcomes [Ishwaran et al., 2008].

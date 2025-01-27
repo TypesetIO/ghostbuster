@@ -1,0 +1,1 @@
+For example, as people age, they have higher levels of self-reported PA (likely relative intensity) but lower accelerometer-derived activity (absolute intensity), reflecting changes in PA perceptions with age.

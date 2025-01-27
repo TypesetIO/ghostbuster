@@ -1,0 +1,1 @@
+However, it can be more computationally demanding and may introduce additional complexity in the processing algorithms.

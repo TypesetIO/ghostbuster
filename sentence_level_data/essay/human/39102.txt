@@ -1,0 +1,1 @@
+For unknown #15, the tests performed were gram stain, thioglycolate, oxidase, catalase, ONPG (B-galactosidase), and indole production.

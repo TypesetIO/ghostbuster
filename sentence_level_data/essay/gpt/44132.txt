@@ -1,0 +1,1 @@
+Supervised learning can be employed to train the model on labeled datasets, allowing it to recognize patterns associated with normal and malicious traffic.

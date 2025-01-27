@@ -1,0 +1,1 @@
+In molecular magnets, the phonons' lifetime is mainly limited by phonon-phonon scattering events, and it can be estimated within perturbation theory.

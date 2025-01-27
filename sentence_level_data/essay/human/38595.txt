@@ -1,0 +1,1 @@
+In this case, based on a patient’s health records, a physician may detect an increased risk of conditions such as cancer, diabetes, stroke, and obesity, among others.

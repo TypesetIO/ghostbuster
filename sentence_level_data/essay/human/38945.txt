@@ -1,0 +1,1 @@
+It converts the continuous image to digital form by digitalizing the coordinate and amplitude values.

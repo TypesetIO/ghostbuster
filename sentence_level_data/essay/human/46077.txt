@@ -1,0 +1,1 @@
+Artificial neural networks have also been used by many researchers to discriminate weeds with machine vision [134, 135] .For example, BoniRob [18, 106] uses AI to differentiate between weeds and plants and then mechanically destroys the detected weeds using a custom-built mechanism called "ramming death rod".

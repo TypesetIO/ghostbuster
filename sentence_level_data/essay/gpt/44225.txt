@@ -1,0 +1,1 @@
+GIS provides a spatial framework that allows for the visualization and analysis of watershed characteristics, such as land use, soil types, and topography, which are critical for accurate model calibration and validation.

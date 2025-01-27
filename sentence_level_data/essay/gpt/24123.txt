@@ -1,0 +1,2 @@
+Introduction:
+Predictive policing is a rapidly growing approach in law enforcement that employs mathematical models and data analysis to identify potential criminals and predict crime hotspots.

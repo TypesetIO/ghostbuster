@@ -1,0 +1,1 @@
+The grid independency tests are carried out by considering four grids: 24(r) Â 48(θ) Â 45(z), 36 Â 72 Â 72, 48 Â 192 Â 96 and 48 Â 240 Â 150 for the case of T¼0.38 m, H¼T, C¼T/3, D¼T/3, α d;av ¼ 5% and N¼400 rpm.

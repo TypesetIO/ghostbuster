@@ -1,0 +1,1 @@
+For instance, SSL connection can be enabled for the client, peer-to-peer, HTTP connection, gateway senders and receivers, and JMX.

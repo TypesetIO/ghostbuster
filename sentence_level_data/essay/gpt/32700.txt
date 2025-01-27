@@ -1,0 +1,1 @@
+NIDS is excellent at detecting network-based attacks, including port scans, DoS attacks, and suspicious network behavior.

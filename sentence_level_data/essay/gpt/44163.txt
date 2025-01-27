@@ -1,0 +1,1 @@
+This approach not only improved the recognition accuracy to 90% but also demonstrated resilience against variations in signing speed and individual signing styles.

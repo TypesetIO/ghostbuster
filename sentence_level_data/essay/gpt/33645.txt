@@ -1,0 +1,1 @@
+Hadoop incorporates robust security features to protect the confidentiality and integrity of the data being processed.

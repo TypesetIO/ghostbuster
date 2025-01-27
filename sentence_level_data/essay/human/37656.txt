@@ -1,0 +1,5 @@
+A List of Materials and Equipment
+ITEM                DESCRIPTION                                         COST($)
+Laptop              Core i5                                             600    
+Android Smartphone  Version 6.0                                         250    
+Hard Disk

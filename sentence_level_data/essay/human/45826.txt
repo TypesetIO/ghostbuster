@@ -1,0 +1,1 @@
+A robot control application is detailed here in order to explain the properties of the proposed framework.

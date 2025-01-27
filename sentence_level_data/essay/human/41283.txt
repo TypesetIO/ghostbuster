@@ -1,0 +1,1 @@
+Ohtsu et al. used AE technique for crack detection and damage evaluation in concrete [41] .Ohno and Ohtsu et al.

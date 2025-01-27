@@ -1,0 +1,1 @@
+While many other blockchain platforms face issues with slow transaction speeds and high fees, Solana can process up to 65,000 transactions per second, making it one of the fastest networks currently available.

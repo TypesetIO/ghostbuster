@@ -1,0 +1,1 @@
+This flexibility enhances the model's applicability across various fields, including medicine and social sciences, where the assumption of constant hazard ratios may not hold.

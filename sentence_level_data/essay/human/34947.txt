@@ -1,0 +1,1 @@
+What are the common vulnerabilities of consumer smart home devices when viewed as IoT peripherals?

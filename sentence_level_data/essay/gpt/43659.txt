@@ -1,0 +1,1 @@
+Convolutional Neural Networks (CNNs), in particular, have demonstrated superior performance in image classification tasks due to their ability to automatically extract hierarchical features from raw pixel data.

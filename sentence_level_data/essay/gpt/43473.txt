@@ -1,0 +1,1 @@
+The integration of remote sensing data and advanced statistical techniques can enhance the model's performance by providing more precise estimates of input variables.

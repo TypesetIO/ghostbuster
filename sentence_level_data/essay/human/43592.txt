@@ -1,0 +1,1 @@
+The experimental data included species-level positive and negative metabolite uptake and secretion data for 457 species (5,341 strains) and 269 metabolites in AGORA2 from the NJC19 resource 30 , and species-level positive metabolite uptake data from ref. 32 for 184 species (328 strains) and 85 metabolites in AGORA2.

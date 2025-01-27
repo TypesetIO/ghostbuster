@@ -1,0 +1,1 @@
+Unless stated otherwise, the simulated mixing time (t m ) used in this paper is calculated from probe A, which is the same as Zhao et al. (2011) .Measurements are obtained in the Reynolds number (Re) range from 8:78 Â 10 4 to 12:23 Â 10 4 with

@@ -1,0 +1,1 @@
+When radiofrequency pulses are involved, it's convenient to set ω rf equal to the frequency of the rf pulse (the subscript rf can then be interpreted either as rotating frame or radiofrequency).

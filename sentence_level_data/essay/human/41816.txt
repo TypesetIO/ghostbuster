@@ -1,0 +1,1 @@
+Notably, this DISC1 C-terminal region (aa 765-835) was sufficient for binding to both FL-Nde1 and Nde1 CT-CC (Figures 1C, 1D2 , and S1C2; we used Nde1 here because FL-Nde1 behaves better for quantitative biochemical studies than Ndel1 does).

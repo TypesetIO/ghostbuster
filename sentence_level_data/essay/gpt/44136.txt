@@ -1,0 +1,1 @@
+Additionally, the hybrid IDS can be designed to adaptively learn from new attack vectors, ensuring that it remains effective against evolving threats.

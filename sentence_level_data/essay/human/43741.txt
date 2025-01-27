@@ -1,0 +1,1 @@
+The Faster Recurrent Convolution Neural Network (Faster RCNN) model was used for generating the bounding box and the binary output was obtained by Fully Convolution Network (FCN) to classify images as either stalk or background.

@@ -1,0 +1,1 @@
+A coefficient g = 0.1 cm −1 /K is chosen.

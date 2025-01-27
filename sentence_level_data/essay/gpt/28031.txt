@@ -1,0 +1,1 @@
+This includes configuring workflows, defining user roles and permissions, and integrating existing systems, if any.

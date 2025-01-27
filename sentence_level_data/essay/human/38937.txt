@@ -1,0 +1,2 @@
+The Task of Color Picture Quantization is divided into Four Stages :
+ 1.

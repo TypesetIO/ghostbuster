@@ -1,0 +1,1 @@
+Takahashi and Ban [2019] designed a scheme to further improve the accuracy of malicious application detection based on the variety types of features consisting of API calls, permissions, category information, and descriptions.

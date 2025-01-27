@@ -1,0 +1,1 @@
+By integrating comparative genomic analyses with experimental data, our pipeline allows for the identification of previously overlooked pathways that are essential for understanding microbial metabolism and its implications for human health.

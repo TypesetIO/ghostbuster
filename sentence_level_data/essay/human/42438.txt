@@ -1,0 +1,1 @@
+Linearity, which was obtained by calculating the regression line using the coefficient of determination (r 2 ) of the standard curve of each reference compound, was shown to be good (correlation coefficient r 2 > 0.99).

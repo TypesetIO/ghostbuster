@@ -1,0 +1,1 @@
+Hyperparameters in the network include the learning rate, optimizer, dense layers, and decay constant.

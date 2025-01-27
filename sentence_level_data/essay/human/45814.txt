@@ -1,0 +1,1 @@
+In [18] , the authors have proposed NNEWM (neural network enabled WSN management) model for increasing the energy efficiency in wireless sensor networks.

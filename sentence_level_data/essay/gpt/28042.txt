@@ -1,0 +1,2 @@
+7. System Testing and Quality Assurance:
+Conducting thorough testing at various stages of implementation is crucial to identifying and rectifying any system malfunctions or data inconsistencies.

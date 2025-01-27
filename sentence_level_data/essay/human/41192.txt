@@ -1,0 +1,1 @@
+Aer charge-discharge for 200 cycles, the efficiency of the blank cell and a cell with BP CCM keeps the same value as the original without obvious decay, which indicates good stability of the ZBFB system.

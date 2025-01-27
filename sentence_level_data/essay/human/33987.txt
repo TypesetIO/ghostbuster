@@ -1,0 +1,1 @@
+Moreover, the second step is devoted to changing the robot’s initial position in the space before testing.

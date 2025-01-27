@@ -1,0 +1,1 @@
+One significant limitation is the inability of CMA to detect balanced chromosomal rearrangements, which can be clinically relevant in certain genetic disorders.

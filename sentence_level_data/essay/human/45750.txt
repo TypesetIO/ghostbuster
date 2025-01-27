@@ -1,0 +1,1 @@
+In (Tellaeche et al., 2011) , the weeds were identified in a cereal crop by SVM and the classification accuracy was measured by Correct Classification Percentage (CCP) and Yule coefficient; the novelty of this work was shown by the evaluation of spray applied in the field.

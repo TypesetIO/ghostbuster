@@ -1,0 +1,1 @@
+This measure is analogous to the asymmetric scaling measure used in Dabney et al. 15 , the difference being that, whereas Dabney et al. 15 measured asymmetric scaling from the cue presentation epoch, we estimated the scaling at a separate task epoch to cue presentation/ choice; that is, at feedback time, when RPEs will be elicited after a cued probabilistic reward delivery.

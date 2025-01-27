@@ -1,0 +1,1 @@
+AI algorithms, particularly those based on deep learning, have shown significant potential in analyzing medical imaging data, such as CT scans and X-rays, to identify patterns indicative of COVID-19 infection.

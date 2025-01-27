@@ -1,0 +1,1 @@
+In addition to the aforementioned methods for estimating backup generation (BG) capacity, it is essential to consider the role of technological advancements and policy frameworks in shaping BG deployment.

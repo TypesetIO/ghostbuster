@@ -1,0 +1,1 @@
+The most recent data received a higher weight due to its higher relevance to the future level of sales.

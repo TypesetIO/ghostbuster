@@ -1,0 +1,1 @@
+Additionally, the temporal dynamics of soil moisture can exacerbate representativeness errors, as soil moisture conditions can change rapidly due to precipitation events or evapotranspiration processes, which may not be uniformly represented across the grid cell.

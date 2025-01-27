@@ -1,0 +1,1 @@
+By defining a set of security attributes, such as authentication, access control, data encryption, and update frequency, a comparative evaluation can be conducted using pairwise comparisons.

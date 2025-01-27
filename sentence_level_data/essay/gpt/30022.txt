@@ -1,0 +1,1 @@
+NIMS provides standardized mechanisms for identifying, requesting, and deploying resources in a timely and efficient manner.

@@ -1,0 +1,1 @@
+Balanced translocations, inversions, and other structural variations may not result in copy number changes detectable by CMA, potentially leading to missed diagnoses in patients with unexplained phenotypes.

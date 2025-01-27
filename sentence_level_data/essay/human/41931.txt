@@ -1,0 +1,1 @@
+Secondly, we subtracted the enthalpy values obtained using the same heating protocol with instantaneous reheating, which will account for the annealing during cooling and reheating at < T g at 2 K/min and any overshoot effects in the reversing signal.

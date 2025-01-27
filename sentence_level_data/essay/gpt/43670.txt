@@ -1,0 +1,1 @@
+Recent studies have demonstrated that machine learning algorithms, when applied to large datasets, can uncover non-linear relationships that traditional statistical methods may overlook [Author, Year].

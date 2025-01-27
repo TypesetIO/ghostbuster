@@ -1,0 +1,1 @@
+Each tool has its own unique set of capabilities and uses, as well as varying availability, cost, and value in conducting digital forensic investigations.

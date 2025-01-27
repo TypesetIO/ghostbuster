@@ -1,0 +1,1 @@
+These constraints might encompass limitations in speed, payload capacity, power consumption, and sensor range.

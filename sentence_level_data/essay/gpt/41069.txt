@@ -1,0 +1,1 @@
+Future studies should also consider the impact of nozzle geometry and fuel temperature on spray formation, as these factors could significantly influence the jet dynamics and subsequent combustion processes.

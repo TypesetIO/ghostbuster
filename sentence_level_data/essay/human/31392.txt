@@ -1,0 +1,1 @@
+Users often use maps at narrower zoom levels, such as for navigation designed with the Mercator projection.

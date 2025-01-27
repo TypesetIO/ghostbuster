@@ -1,0 +1,1 @@
+The robot was equipped with a dust detection sensor and was capable of autonomously cleaning PV panels using a rotating brush.

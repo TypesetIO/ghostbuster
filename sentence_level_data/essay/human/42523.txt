@@ -1,0 +1,1 @@
+Although detection of somatic mosaicism by CMA that was missed by chromosome analysis has been reported, 5, 6 mosaicism <30% cannot be reliably detected by CMA.

@@ -1,0 +1,1 @@
+In particular, the AS26 module demonstrated superior performance at higher FFRs, suggesting its design is more suited for handling increased flow without compromising efficiency.

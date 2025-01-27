@@ -1,0 +1,1 @@
+Overall, the promising results from this simulation underscore the viability of the HOG plus SVM hybrid model as a foundation for developing robust ASL translation systems.

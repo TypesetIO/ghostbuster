@@ -1,0 +1,1 @@
+For instance, the k−ε model, despite its widespread application, often struggles with complex flow patterns and may not capture the nuances of turbulence in highly stratified systems.

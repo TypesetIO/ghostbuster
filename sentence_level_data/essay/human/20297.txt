@@ -1,0 +1,1 @@
+Up until this point, we had always programmed self-preservation and sustained functioning into the code for the AI models.

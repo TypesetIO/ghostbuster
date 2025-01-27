@@ -1,0 +1,1 @@
+Although this proposed scheme can also be tested for pest detection, more improvement in the system's performance is recommended in the future by the implementation of generative adversarial networks (GANs) for the generation of synthetic images (Quiroz & Alferez, 2020) .

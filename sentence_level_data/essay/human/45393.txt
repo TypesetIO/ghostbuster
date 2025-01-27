@@ -1,0 +1,1 @@
+For the purpose of data validation, it is practical to use a definition that potentially allows us to separate representativeness errors from other error sources upon estimation.

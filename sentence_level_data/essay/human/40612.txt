@@ -1,0 +1,1 @@
+Es el conjunto de tensiones soportadas que caracterizan la rigidez dieléctrica del aislamiento.

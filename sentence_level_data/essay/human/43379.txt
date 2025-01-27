@@ -1,0 +1,1 @@
+As shown in Fig. 2 , various modification strategies have been developed to improve the photocatalytic degradation activity, including morphology control, defect engineering, cocatalyst loading, element doping, and heterojunction construction (S-scheme, Z-scheme, p-n, and Schottky junctions).

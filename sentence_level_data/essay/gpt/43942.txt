@@ -1,0 +1,1 @@
+By applying scRNA-seq to iPS cells derived from both humans and great apes, researchers can identify not only differentially expressed genes but also the specific cell types and developmental stages at which these differences manifest (Klein et al., 2015).

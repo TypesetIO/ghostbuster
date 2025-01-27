@@ -1,0 +1,1 @@
+In this simulation, by combining the HOG module plus SVM module, a hybrid model is formed for the design of the translation system.

@@ -1,0 +1,1 @@
+A multi-agent system is defined as a system constituted of several collaborating agents, with each one responsible for a specific task, such as network communication, data filtering or data analysis.

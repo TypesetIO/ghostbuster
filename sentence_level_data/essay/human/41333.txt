@@ -1,0 +1,1 @@
+The entropy associated with each cell of the environment, is defined using Shannon's information entropy measurement model, in terms of bits, for a discrete random event X, with possible states 1, . . .,n, as illustrated in Eq. ( 1).

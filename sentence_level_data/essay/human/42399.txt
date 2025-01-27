@@ -1,0 +1,1 @@
+Prior research suggests HK sensor diversity scales with ecosystem complexity and that constant environments require a minimal number of sensing proteins (9) .We explored the diversity of sensor clusters across the ecosystems in our data set using two calcula tions.

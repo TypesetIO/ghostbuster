@@ -1,0 +1,1 @@
+Los valores de las tensiones soportadas "sobre la distancia de seccionamiento" son válidos únicamente para equipos de maniobra donde la distancia entre los contactos abiertos está diseñada para cumplir con las exigencias de seguridad especificadas para los seccionadores.

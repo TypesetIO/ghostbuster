@@ -1,0 +1,1 @@
+However, the YOLO series algorithm has always had the problem of poor detection capability for small targets [26] .

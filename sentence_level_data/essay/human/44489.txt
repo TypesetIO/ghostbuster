@@ -1,0 +1,1 @@
+A desorption process has an adsorbed initial state with small entropy and a gas-phase final state with large entropy, which leads to a large entropic contribution to the desorption free energy.

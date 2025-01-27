@@ -1,0 +1,1 @@
+For example, at the frequency ranges of 380-440 GHz, the influence of molecular absorption loss is less than 0.01 dB/m.

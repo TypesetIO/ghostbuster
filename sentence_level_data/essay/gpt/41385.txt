@@ -1,0 +1,1 @@
+Computational fluid dynamics (CFD) simulations, for instance, allow for a detailed analysis of fluid flow and heat transfer characteristics within the heat exchanger, providing insights that are often unattainable through experimental methods alone [7].

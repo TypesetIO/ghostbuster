@@ -1,0 +1,1 @@
+The average value of the accuracy rate for the test achieved is 99.28% and the error is 0.5981.

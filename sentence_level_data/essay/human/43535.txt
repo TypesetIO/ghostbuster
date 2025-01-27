@@ -1,0 +1,1 @@
+Permeate samples were extracted periodically in each experiment to evaluate their quality and verify the stability of the process by measuring their electrical conductivity.

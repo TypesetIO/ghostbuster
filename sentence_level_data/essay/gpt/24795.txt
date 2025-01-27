@@ -1,0 +1,1 @@
+It provides an intuitive user interface and a wide range of features such as keyword searching, file carving, and artifact analysis.

@@ -1,0 +1,1 @@
+El principal problema al que se enfrentan estos nuevos transformadores de medida viene de la dificultad para conectarlos con los equipos actuales de protección y medida, puesto que estos últimos están preparados para recibir señales análogas de los transformadores convencionales (1 A, 5 A. 120 V), descritos en las secciones anteriores.8.8.2

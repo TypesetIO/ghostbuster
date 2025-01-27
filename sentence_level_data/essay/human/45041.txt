@@ -1,0 +1,1 @@
+In addition, the CNN blocks are followed by a fully connected layer for feature extraction and intrusion detection (classification).

@@ -1,0 +1,1 @@
+The image to be processed first is saved in a computer as a continuous voltage waveform then the computer converts the images into digital form.

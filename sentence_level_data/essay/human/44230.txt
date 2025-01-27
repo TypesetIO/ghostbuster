@@ -1,0 +1,1 @@
+We can also assume the gradient to be along the longitudinal direction and to be of the form G(t) = gf(t)k, where g is the strength of the magnetic gradient and f(t) is a temporal shape function (having a maximum value of one).

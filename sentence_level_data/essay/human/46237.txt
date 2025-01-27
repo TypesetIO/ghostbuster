@@ -1,0 +1,1 @@
+Archived communications from developer interactions provide a rich source of information which, under appropriate analysis and interpretation, may reveal interesting facts related to practices, decisions and team dynamics in a collaborative development environment.

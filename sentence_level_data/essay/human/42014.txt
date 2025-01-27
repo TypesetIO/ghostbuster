@@ -1,0 +1,1 @@
+Solid arrows denote fully connected neural populations, while dotted arrows show connections which require additional (external) cues.

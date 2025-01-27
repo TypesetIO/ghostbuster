@@ -1,0 +1,1 @@
+This reduction in precision leads to a smaller file size but at the cost of losing some fine color details.

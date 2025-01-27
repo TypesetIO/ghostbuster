@@ -1,0 +1,1 @@
+Central to this field are two fundamental concepts: sampling resolution and quantization.

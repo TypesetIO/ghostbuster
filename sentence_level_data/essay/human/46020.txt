@@ -1,0 +1,1 @@
+These methods offer benefits such as simpler structure, lower hardware cost, and good performance during transients/faults, with simplified controller communication and protection of the inverter submodule.

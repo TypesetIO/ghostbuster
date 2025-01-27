@@ -1,0 +1,1 @@
+The segmentation of Fig plants was done by UAV, and a CNN model was inspired by SegNet encoder-decoder architecture CNN.

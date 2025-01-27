@@ -1,0 +1,1 @@
+It monitors their heartbeat, can show GPS location, and can be scanned for identification purposes.

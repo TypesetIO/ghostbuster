@@ -1,0 +1,1 @@
+After removing some malware samples from which we were unable to extract API calls and permission requests, the final number of malware samples with 71 families is 24,461.

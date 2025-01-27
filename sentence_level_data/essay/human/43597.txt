@@ -1,0 +1,1 @@
+For enzyme data, it was tested whether at least one reaction mapped to the respective enzyme was present in the model and could carry a nonzero flux.

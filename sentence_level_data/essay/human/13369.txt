@@ -1,0 +1,1 @@
+Additionally the center was showing, but a ring around the center was also removed.

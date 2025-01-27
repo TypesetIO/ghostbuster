@@ -1,0 +1,1 @@
+Here the researchers proposed a method that uses color information to discriminate between vegetation and background, whilst shape analysis techniques were applied to distinguish between crop and weeds.

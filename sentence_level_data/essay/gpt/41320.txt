@@ -1,0 +1,1 @@
+Furthermore, the use of ensemble learning techniques has gained traction, where multiple classifiers are combined to enhance detection accuracy and robustness against adversarial attacks [Author, Year].

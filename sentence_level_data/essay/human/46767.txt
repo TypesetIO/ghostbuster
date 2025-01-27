@@ -1,0 +1,1 @@
+Second, security-critical design defects in the permission architecture of IoT platforms, such as over-privileged device controls caused by present coarse-grained access restrictions, necessitate analysis sensitive to these privileges and their impacts.

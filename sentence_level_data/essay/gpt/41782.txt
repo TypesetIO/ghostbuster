@@ -1,0 +1,1 @@
+The observed failure modes, including debonding and delamination, suggest that the mechanical interlock intended to be provided by the grid may not be sufficient to withstand the stresses imposed by thermal expansion and contraction, as well as traffic loads.

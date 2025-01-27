@@ -1,0 +1,1 @@
+To further explore the integration of safety and security assessments in Communication-Based Train Control (CBTC) systems, it is essential to consider the implications of emerging technologies and their potential vulnerabilities.

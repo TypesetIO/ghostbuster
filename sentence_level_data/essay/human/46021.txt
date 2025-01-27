@@ -1,0 +1,1 @@
+However, it may require higher computational requirements and more complex design and implementation compared to using individual sensors, and there could be accuracy limitations under certain operating conditions.

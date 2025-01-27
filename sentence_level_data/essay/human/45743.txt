@@ -1,0 +1,1 @@
+For example, the discrimination between crop and weed in a carrot farm was performed by an autonomous system through the implementation of the Random Forest classifier (Haug et al., 2014) .For a more comprehensive assessment of the proposed system, there should be a comparative evaluation of this method with other state-of-the-art techniques like SVM.

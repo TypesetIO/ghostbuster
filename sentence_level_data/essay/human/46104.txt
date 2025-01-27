@@ -1,0 +1,1 @@
+You can also check to see if a selected element has a particular CSS class, and then run some code if it does.

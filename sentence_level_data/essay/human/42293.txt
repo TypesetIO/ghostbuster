@@ -1,0 +1,1 @@
+The monoclinic phase at room temperature displays insulating features with a sizable resistivity and a good infrared (IR) transmittance, but when the temperatures are higher than the critical temperature, it displays conducting features with a low resistivity and the IR transmittance decreases as its lattice structure switches to tetragonal (or rutile).

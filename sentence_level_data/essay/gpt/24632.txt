@@ -1,0 +1,1 @@
+Testing allows for the evaluation of a robot's functionality and autonomy, ensuring its safe and efficient operation.

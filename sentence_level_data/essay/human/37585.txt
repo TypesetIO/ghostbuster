@@ -1,0 +1,1 @@
+Farcargo’s Business logic diagram.

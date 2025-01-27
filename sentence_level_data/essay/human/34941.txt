@@ -1,0 +1,1 @@
+The methods often focus on privacy, attack prevention, authentication, security, access, and integration.

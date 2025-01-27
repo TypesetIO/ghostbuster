@@ -1,0 +1,1 @@
+However, with its efficient consensus algorithm and ability to handle massive throughput, Solana provides extremely low-cost transactions, making it favorable for everyday users and businesses alike.

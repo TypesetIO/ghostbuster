@@ -1,0 +1,1 @@
+It is designed with a trainable bag-of-freebies, which allows YOLOv7 to greatly improve the detection accuracy without increasing the inference cost, while the method of extend and compound scaling is proposed and applied to the YOLOv7, which greatly reduces the number of parameters in the network and improves the detection speed.

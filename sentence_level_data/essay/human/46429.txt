@@ -1,0 +1,1 @@
+The attacker instruct s these zombie bots via the DDoS master to send several flooding attacks to the target system, which make the service unavailable to the legitimate users of the system.

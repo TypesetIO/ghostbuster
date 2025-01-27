@@ -1,0 +1,1 @@
+This top-down structure is often a Feature Pyramid Network (FPN) [122]

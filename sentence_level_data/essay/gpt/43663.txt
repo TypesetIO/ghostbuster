@@ -1,0 +1,1 @@
+Additionally, the combination of multispectral and hyperspectral imaging with deep learning algorithms has been explored, revealing that these advanced imaging techniques can significantly improve the detection of subtle differences between crops and weeds, which are often challenging to discern with standard RGB images [Author, Year].

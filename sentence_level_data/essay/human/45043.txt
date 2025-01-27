@@ -1,0 +1,1 @@
+Later, the raw data will be fed again to the trained model to convert raw samples attributes to the learned features by the CNN.

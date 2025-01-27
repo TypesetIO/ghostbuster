@@ -1,0 +1,1 @@
+NeXts often present better results when compared to the ResNet since it uses multiple parallel convolutions.

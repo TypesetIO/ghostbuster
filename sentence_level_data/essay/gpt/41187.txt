@@ -1,0 +1,1 @@
+Recent studies have demonstrated that the incorporation of pH-sensitive linkers within the MOF structure allows for controlled drug release at acidic pH levels, which are characteristic of many tumors [Author, Year].

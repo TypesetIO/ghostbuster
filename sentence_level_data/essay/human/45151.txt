@@ -1,0 +1,1 @@
+The cores are then sliced at 10mm depth increments and the Sika qualitative colour test applied to each slice to identify the presence of the inhibitor.

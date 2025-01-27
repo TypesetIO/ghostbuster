@@ -1,0 +1,1 @@
+Recent theoretical frameworks, such as dynamical mean-field theory (DMFT), suggest that these correlations may lead to a renormalization of the effective mass of the charge carriers, thereby affecting the transport properties in the M 2 phase [Author, Year].

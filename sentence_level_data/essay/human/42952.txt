@@ -1,0 +1,1 @@
+Similarly, the electronic and optical properties of GNRs can be modeled by a top-down approach, whereby lateral boundary conditions are applied to a graphene sheet, or a bottom-up approach, which describes them as organic molecules of progressively larger size.

@@ -1,0 +1,1 @@
+Additionally, the application of transfer learning techniques has emerged as a viable approach to address the challenges of limited labeled data in specific regions, enabling models trained on large datasets to be adapted for local applications (Khan et al., 2022).

@@ -1,0 +1,1 @@
+Additionally, the interplay between T1 and T2 relaxation times becomes crucial in determining the optimal timing for data acquisition, as these parameters govern the rate at which the magnetization returns to equilibrium.

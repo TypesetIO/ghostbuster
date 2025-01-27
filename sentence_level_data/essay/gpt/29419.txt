@@ -1,0 +1,1 @@
+Color picture quantization involves multiple stages, including sampling, quantization, encoding, and decoding.

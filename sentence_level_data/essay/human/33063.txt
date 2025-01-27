@@ -1,0 +1,7 @@
+As a result, the PCIOT question can be constructed as such:
+  * P = elderly patients within the risk of developing a hospital-acquired pressure injury
+  * I = minimization of shear and friction
+  * C = usage of pressure redistribution
+  * O = reducing the rates of HAPI development
+  * T = a year
+  * PICOT Question:

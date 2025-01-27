@@ -1,0 +1,1 @@
+Furthermore, the coupling of CFD with optimization algorithms, such as genetic algorithms or particle swarm optimization, has shown promise in identifying optimal configurations that maximize heat transfer while minimizing pressure drop [9].

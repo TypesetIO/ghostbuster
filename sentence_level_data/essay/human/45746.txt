@@ -1,0 +1,1 @@
+Due to the successful classification outcomes, it is suggested that the RF would be useful for multiple-weed class problems (Lottes et al., 2016) .

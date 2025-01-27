@@ -1,0 +1,1 @@
+Research indicates that variations in these parameters can significantly influence the microstructure and porosity of the printed components, ultimately affecting their mechanical performance (Thompson et al., 2016).

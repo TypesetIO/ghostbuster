@@ -1,0 +1,1 @@
+Because the crystal structure of the MOF is determined by the geometry and connectivity of the linkers (ditopic, tritopic, etc.) as well as that of the SBU's, the mathematical field of graph theory has informed much of what types of structures, or "nets", are mathematically possible given restrictions on connectedness. [13]

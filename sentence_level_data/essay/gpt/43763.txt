@@ -1,0 +1,1 @@
+Furthermore, the optimization criteria employed by intelligent agents necessitate a careful balance between exploration and exploitation, as agents must learn from their environment while also leveraging existing knowledge to make informed decisions (Sutton & Barto, 2018).

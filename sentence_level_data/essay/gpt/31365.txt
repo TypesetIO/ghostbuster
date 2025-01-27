@@ -1,0 +1,1 @@
+Android development generally involves creating layouts and views using XML files and defining application logic using Java code.

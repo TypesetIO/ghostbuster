@@ -1,0 +1,1 @@
+In order to reduce error rate and improve the detection of edge significantly, a certain type of algorithm was utilized.

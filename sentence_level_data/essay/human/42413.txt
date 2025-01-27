@@ -1,0 +1,1 @@
+This can lead to high RER due to higher diversity required and lower ESTR because different samples are caught at different moments in space time.

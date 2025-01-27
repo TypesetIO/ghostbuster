@@ -1,0 +1,1 @@
+This ensures that the profit margin remains constant, irrespective of any currency fluctuations.

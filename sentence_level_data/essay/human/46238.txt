@@ -1,0 +1,1 @@
+Software peer review is a QA practice widely adopted by open source and commercial projects [24] where, besides finding defects, it offers additional benefits such as knowledge transfer across members of a development team [3]

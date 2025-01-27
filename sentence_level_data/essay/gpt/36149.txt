@@ -1,0 +1,1 @@
+This visual approach to dashboard creation simplifies the process and makes it accessible to users without extensive coding or querying skills.

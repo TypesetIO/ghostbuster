@@ -1,0 +1,1 @@
+A practical protocol was developed and implemented to achieve the "50% wrap, 50% overlap" methodology commonly described on the websites of many band manufacturers, in order to achieve consistent application between participants.

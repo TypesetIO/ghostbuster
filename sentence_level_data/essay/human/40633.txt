@@ -1,0 +1,1 @@
+-Transformadores de corriente clases TPS y TPX: para estos equipos se cumple que P < tmax y Tp «

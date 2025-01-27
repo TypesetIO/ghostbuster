@@ -1,0 +1,1 @@
+These models can be instrumental in testing the resilience of the converter designs against open-switch faults and optimizing the control algorithms accordingly.

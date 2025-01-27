@@ -1,0 +1,1 @@
+Future research should focus on developing predictive models that incorporate these variables to better understand the relationship between porosity and mechanical performance.

@@ -1,0 +1,1 @@
+One user plays the role of an assembler while the other user plays the role of a supervisor and has access to the installation manual.

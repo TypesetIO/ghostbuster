@@ -1,0 +1,1 @@
+Restructuring trains and buses are stopping points to minimize the walking distance between stops and respective workplaces.

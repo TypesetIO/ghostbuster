@@ -1,0 +1,1 @@
+Regular security audits and vulnerability assessments should be conducted to identify and rectify any weaknesses in the database system.

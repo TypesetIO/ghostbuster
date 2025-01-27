@@ -1,0 +1,1 @@
+In terms of advantages, uniform sampling is straightforward to implement and allows for efficient data processing.

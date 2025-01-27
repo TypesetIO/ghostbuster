@@ -1,0 +1,1 @@
+Use of ABC method allows for planning of material demand towards most profit-generating goods with higher stock rotation rates.

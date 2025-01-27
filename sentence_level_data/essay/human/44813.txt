@@ -1,0 +1,1 @@
+The analyses are controlled for the size of a country's economy, which is operationalised via the GDP per capita index (World Bank).

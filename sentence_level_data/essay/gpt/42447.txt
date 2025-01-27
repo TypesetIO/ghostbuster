@@ -1,0 +1,1 @@
+In our measurements, we observe that the contribution of ρ AH becomes significant in the presence of skyrmion bubbles, indicating a strong coupling between the magnetic texture and the charge transport properties.

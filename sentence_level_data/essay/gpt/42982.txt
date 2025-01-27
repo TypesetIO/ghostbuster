@@ -1,0 +1,1 @@
+The increasing reliance on digital communication and automation in railway systems introduces new attack vectors that traditional safety analyses may overlook.

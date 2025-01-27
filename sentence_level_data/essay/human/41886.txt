@@ -1,0 +1,1 @@
+This approach uses genetic algorithms to perform a multi-objective optimization to minimize the energy demand for heating, cooling and lighting of the studied building.

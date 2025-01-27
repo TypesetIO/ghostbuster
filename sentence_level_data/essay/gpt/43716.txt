@@ -1,0 +1,1 @@
+For instance, reinforcement learning can be employed to develop intelligent routing protocols that adapt to changing network conditions, thereby prolonging the network's operational lifetime [20].

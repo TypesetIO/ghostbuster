@@ -1,0 +1,1 @@
+Sensitivity analysis is the process of determining the rate of change in the output model with respect to changes in model inputs (parameters).

@@ -1,0 +1,1 @@
+These algorithms can automatically extract intricate features from images, thus improving the classification of various skin lesions, including non-melanoma skin cancers and other dermatological conditions.

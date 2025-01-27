@@ -1,0 +1,1 @@
+Quantization, on the other hand, is the process of converting the continuous analog signal into a discrete digital signal by assigning numerical values to the samples.

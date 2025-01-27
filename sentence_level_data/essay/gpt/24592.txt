@@ -1,0 +1,1 @@
+It enables them to verify the robot's performance against predefined benchmarks and requirements.

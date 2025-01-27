@@ -1,0 +1,1 @@
+Only recently, though, via the development of semiconductor-based NCs, it has been possible to get more control of the LSPR, for instance by the acquired ability to shift it reversibly to lower or higher energies or by dynamically switching it by a laser pulse or by applying a static electric field.

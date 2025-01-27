@@ -1,0 +1,1 @@
+It is Variables with a P-value less than 0.05 in the univariate analysis were included in the ordinal logistic regression analysis.

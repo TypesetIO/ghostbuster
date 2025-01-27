@@ -1,0 +1,1 @@
+PLS-SEM is a structural equation modelling method that allows users to estimate complicated cause-effect relationships with latent variables.

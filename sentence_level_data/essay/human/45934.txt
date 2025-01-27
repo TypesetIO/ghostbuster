@@ -1,0 +1,1 @@
+This is known as replenishment lead time and it consists of an ordering time-delay and a production or distribution time delay [5] .

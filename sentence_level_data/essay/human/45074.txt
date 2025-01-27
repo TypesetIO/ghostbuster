@@ -1,0 +1,1 @@
+In this study, we modified the deep leaning model proposed by [8] for concurrent estimation of the systolic BP (SBP), diastolic BP (DBP), HR, and mean arterial pressure (MAP) through single-channel PPG signals.

@@ -1,0 +1,1 @@
+The purpose of the course is defined by the need to ensure the robot can navigate in space, detect barriers and effectively abolish them.

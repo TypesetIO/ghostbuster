@@ -1,0 +1,1 @@
+Each obstacle should be carefully crafted to evaluate specific aspects of the robot's functionality, such as mobility, manipulation, perception, and decision-making.

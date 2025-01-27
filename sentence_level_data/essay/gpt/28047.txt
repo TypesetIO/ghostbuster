@@ -1,0 +1,3 @@
+Farcargo will consider the following resources:
+1. Financial Resources:
+Implementing an advanced information system demands a significant investment.

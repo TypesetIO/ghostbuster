@@ -1,0 +1,1 @@
+In Abielmona et al. (2006) , a tree-in-motion mapping (TIMM) technique is proposed, to intelligently combine individual sensor data, while reducing the entropy (or randomness) that may be observed therein.

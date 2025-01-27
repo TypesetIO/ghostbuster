@@ -1,0 +1,1 @@
+The total cropped area was assumed equal to the total area of irrigated plots.

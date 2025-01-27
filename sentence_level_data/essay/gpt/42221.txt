@@ -1,0 +1,1 @@
+Furthermore, we examined the influence of metabolic network complexity on prediction accuracy, hypothesizing that models with more comprehensive reconstructions would yield higher predictive performance.

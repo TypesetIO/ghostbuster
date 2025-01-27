@@ -1,0 +1,1 @@
+Future research should focus on optimizing these encoding methods to enhance their applicability across various domains, including cloud computing and Internet of Things (IoT) environments, where data integrity and security are of utmost importance.

@@ -1,0 +1,1 @@
+Assuming a perfectly harmonic model for the vibrational bath, we simulate a T −1 behavior.

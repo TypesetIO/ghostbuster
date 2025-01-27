@@ -1,0 +1,1 @@
+This redundancy protects against data loss in the event of hardware failures.

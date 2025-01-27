@@ -1,0 +1,1 @@
+As shown in Figure 1 , our method works best visually, and the results are very similar to ground truth.

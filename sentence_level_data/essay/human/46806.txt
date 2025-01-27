@@ -1,0 +1,1 @@
+The average deviation is 20% between the EASM predictions with all the experimentally obtained values reported by Zhao et al. (2011) , suggesting that the EASM has the prediction accuracy close to the LES in predicting mixing time.

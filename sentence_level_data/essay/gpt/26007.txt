@@ -1,0 +1,1 @@
+This approach tends to view language as a fixed system that should be governed by strict rules, with deviations from these rules considered as errors.

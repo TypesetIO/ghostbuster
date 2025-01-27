@@ -1,0 +1,1 @@
+These systems can be trained on large datasets of dental radiographs, enabling them to recognize patterns indicative of demineralization that may not be visible to the naked eye.

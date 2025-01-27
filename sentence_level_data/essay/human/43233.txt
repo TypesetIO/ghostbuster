@@ -1,0 +1,1 @@
+Such criteria may include the application of intelligent techniques such as Neural Networks, Fuzzy Logic, Evolutionary Computing, etc., for providing enhanced responses to limited input data that the system may be subjected to, from individual agents.

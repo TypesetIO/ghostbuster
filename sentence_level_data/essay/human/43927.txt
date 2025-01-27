@@ -1,0 +1,1 @@
+For consistency and in order to avoid confusion, we use ρ xx and ρ xy to denote the magnetoresistance and Hall effect for both S1 and S2 in the text.

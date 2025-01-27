@@ -1,0 +1,1 @@
+The program begins with an observation routine which looks at the main list and puts certain statements about the contents of this list on a list called "observations of the main list".

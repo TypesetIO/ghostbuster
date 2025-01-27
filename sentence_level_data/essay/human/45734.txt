@@ -1,0 +1,1 @@
+Conversely, the aim of UBEM is primarily the modeling of the building stock, that can be used eventually as input to properly design and optimize energy systems; thus, in the latest tools, UBEM and USEM approaches are brought together.

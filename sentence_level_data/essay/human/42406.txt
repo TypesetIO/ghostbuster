@@ -1,0 +1,1 @@
+We focused on clusters that were present in at least 100 metagenomes, dropping any rare features, leading to 14,990 final clusters for analysis for our ML models.

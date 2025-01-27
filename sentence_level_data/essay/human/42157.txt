@@ -1,0 +1,1 @@
+Sahs and Khan [2012] used permissions and control flow graphs as features and applied a one-class SVM, which can only be trained by benign applications, which identified malicious applications as anomalies.

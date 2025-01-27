@@ -1,0 +1,1 @@
+Researchers have suggested that incorporating machine learning algorithms into the operational framework of these robotic cleaners could enable them to adapt their cleaning strategies based on real-time environmental data [42].

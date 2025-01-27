@@ -1,0 +1,1 @@
+In addition to the drag force, the modeling of interphase interactions in turbulent liquid-liquid flows necessitates a comprehensive understanding of the dispersion dynamics and the resultant phase distribution.

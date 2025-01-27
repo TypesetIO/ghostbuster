@@ -1,0 +1,1 @@
+Non-uniform sampling can potentially capture details more accurately, especially in areas with high-frequency content.

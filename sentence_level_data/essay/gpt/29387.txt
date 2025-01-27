@@ -1,0 +1,1 @@
+Sampling resolution refers to the number of samples taken per unit of time or space.

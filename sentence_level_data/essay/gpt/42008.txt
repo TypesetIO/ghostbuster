@@ -1,0 +1,1 @@
+In Figure 3, we observe a marked temperature dependence of the spin relaxation time at a fixed magnetic field of 5 T, which further elucidates the interplay between thermal excitations and spin dynamics.

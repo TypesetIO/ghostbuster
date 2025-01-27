@@ -1,0 +1,1 @@
+The model that was proposed encompassed filtering such as a low pass filtering, Radon transformation, and Zonal coding.

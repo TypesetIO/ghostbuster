@@ -1,0 +1,1 @@
+Animals that had already been captured and marked were not processed again.

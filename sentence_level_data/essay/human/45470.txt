@@ -1,0 +1,1 @@
+In the CATIA V5 software environment, the body of the stem is split by using a Boolean subtraction to obtain distinct volumes for the fully dense part (femoral head and distal shell) and the porous structure.

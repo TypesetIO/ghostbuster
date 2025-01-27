@@ -1,0 +1,1 @@
+Casting solidification is simulated and the results are shown as cooling animation and feed metal paths.

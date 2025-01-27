@@ -1,0 +1,1 @@
+Among the prominent security risks associated with IoT devices is the lack of proper authentication and access control.

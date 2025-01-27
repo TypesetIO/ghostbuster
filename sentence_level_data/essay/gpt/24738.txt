@@ -1,0 +1,1 @@
+Blockchain operates on a decentralized network, meaning that no single authority has complete control.

@@ -1,0 +1,1 @@
+Furthermore, the goodness-of-fit index (GFI) and adjusted goodness-of-fit index (AGFI) can also be employed to evaluate the model's performance, with values closer to 1 suggesting a better fit (Jöreskog & Sörbom, 1996).

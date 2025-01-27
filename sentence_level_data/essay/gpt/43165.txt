@@ -1,0 +1,1 @@
+To effectively forecast the death rate due to COVID-19 in India, it is crucial to select appropriate features that influence the spread and severity of the disease.

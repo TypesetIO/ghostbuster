@@ -1,0 +1,1 @@
+As described in References 3 and 4, WingMOD optimizes aircraft wings and horizontal tails subject to a wide array of practical constraints.

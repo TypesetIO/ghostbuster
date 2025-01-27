@@ -1,0 +1,2 @@
+The most attention will be given to developing the escape room, as it is the key feature of the event:
+  * Epic Games is the key partner that is expected to help with the development of the augmented reality software.

@@ -1,0 +1,1 @@
+Another estimation procedure for the Cox model was suggested by Clayton and Cuzick (1985) .

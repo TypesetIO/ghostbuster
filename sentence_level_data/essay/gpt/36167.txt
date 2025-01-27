@@ -1,0 +1,1 @@
+However, it does have limitations in handling complex table connections, which may impact its performance in certain scenarios.

@@ -1,0 +1,1 @@
+Additionally, the choice of activation function, whether it be ReLU, sigmoid, or tanh, significantly influences the learning dynamics and performance of the network.

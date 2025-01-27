@@ -1,0 +1,1 @@
+The red line shows the cutoff for OTUs which are greater than 1-log difference, the purple line indicates exactly 1-to-1 ratio, and the blue line shows a Ͻ1-log decrease cutoff.

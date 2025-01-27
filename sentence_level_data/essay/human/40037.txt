@@ -1,0 +1,1 @@
+Commonly mentioned challenges in the literature are related to data (e.g., availability and quality of data, data governance) and the lack of necessary competencies.

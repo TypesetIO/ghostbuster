@@ -1,0 +1,1 @@
+Among other tasks, our model is designed to perform object localisation supported by attentive dynamics, most notably feature-based and spatial attention.

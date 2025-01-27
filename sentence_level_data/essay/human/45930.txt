@@ -1,0 +1,1 @@
+In this way, the supply chain is modeled as a serial process where each element gives orders to its immediate supplier in order to have enough goods to supply the orders of the immediate customer of the chain.

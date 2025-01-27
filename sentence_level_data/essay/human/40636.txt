@@ -1,0 +1,1 @@
+En principio el valor de Rct no debe exceder el 50% de la carga externa.

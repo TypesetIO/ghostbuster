@@ -1,0 +1,1 @@
+Equipo para intemperie o exterior La temperatura ambiente en el aire no excede 40°C y su valor promedio, medido sobre un período de 24 h, no excede 35°C.La temperatura mínima en el aire es -10°C para equipos clase "exterior -10°C", -25°C para equipos clase "exterior -25°C" y -40°C para equipo clase "exterior -40°C".

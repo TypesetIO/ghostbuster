@@ -1,0 +1,1 @@
+Local storage is used for frequently accessed data, providing quick response times.

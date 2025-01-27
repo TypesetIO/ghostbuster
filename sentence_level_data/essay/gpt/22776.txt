@@ -1,0 +1,1 @@
+Its potential for widespread adoption is further facilitated by its compatibility with Ethereum's Virtual Machine, enabling developers to easily port projects to Solana.

@@ -1,0 +1,1 @@
+On the contrary, the latter approach (C-MSF), requires all sensors to transmit local readings to a centralized base station (or another central processor), which performs information fusion, as well as global estimation.

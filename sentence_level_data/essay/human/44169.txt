@@ -1,0 +1,1 @@
+In each round, probes of F colors were hybridized to targeted rRNAs, and the sample was imaged and then treated with dissociation buffer to remove the hybridized probes 31, 35 .After experiments were completed, the images were aligned to eliminate the shift in position during multiple rounds of imaging.

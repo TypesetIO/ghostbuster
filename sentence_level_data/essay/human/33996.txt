@@ -1,0 +1,1 @@
+What concerns the recommended course map is that it should be composed of circumstances and problems for a robot’s movement.

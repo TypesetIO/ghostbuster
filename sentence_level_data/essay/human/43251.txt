@@ -1,0 +1,1 @@
+Numerical tests concerning the effects of the numerical noise in the calculation of the frequencies and the spin-phonon coupling parameters are reported in the Supplementary Materials and prove the robustness of our results.

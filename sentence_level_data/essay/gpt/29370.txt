@@ -1,0 +1,1 @@
+It is essential to have both valid form and true premises because an argument can be valid and have false premises, leading to a false conclusion.

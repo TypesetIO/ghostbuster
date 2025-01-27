@@ -1,0 +1,1 @@
+These equations provide a framework for describing the size distribution of droplets and their evolution over time, thereby allowing for a more nuanced understanding of the mixing process.

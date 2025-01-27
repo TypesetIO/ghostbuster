@@ -1,0 +1,1 @@
+For an independent assessment of predictive potential of genome-scale reconstructions, independent (that is, not used for the reconstruction process) experimental data on metabolite uptake and secretion were retrieved from three sources 30, 32, 33 and mapped onto the VMH 23 nomenclature through custom MATLAB scripts.

@@ -1,0 +1,1 @@
+Future research could explore the synergistic effects of combining ABC analysis with EOQ and JIT principles, particularly in industries characterized by high variability in spare parts demand.

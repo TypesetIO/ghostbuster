@@ -1,0 +1,1 @@
+Furthermore, the implementation of federated learning approaches allows for the collaborative training of IDS across multiple devices without compromising user privacy, thereby improving the overall security posture of IoT networks (Smith et al., 2023).

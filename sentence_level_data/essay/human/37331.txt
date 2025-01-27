@@ -1,0 +1,1 @@
+In some cases, manipulators replace real keys with forged ones, which is initially unnoticed by owners.

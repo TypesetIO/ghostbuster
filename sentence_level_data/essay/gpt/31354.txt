@@ -1,0 +1,1 @@
+This enables developers to test their applications on a wide range of virtual devices, ensuring compatibility and performance across different platforms.

@@ -1,0 +1,1 @@
+In [32] , a modified version of TSO has been presented and applied to find the solution for different global optimization problems.

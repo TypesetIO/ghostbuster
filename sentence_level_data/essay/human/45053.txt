@@ -1,0 +1,1 @@
+We use a well-known technique to boost the search performance of the TSO and to avoid its limitations, such as trapping at local optima.

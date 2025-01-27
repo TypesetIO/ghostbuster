@@ -1,0 +1,1 @@
+Their method resulted in different classification success rates between 77 and 98%.

@@ -1,0 +1,1 @@
+Any changes or actions taken by the user are then communicated back in the other manner via the system: from the user interface to the cloud and then back to the sensors/devices to effect change.

@@ -1,0 +1,1 @@
+The comparison results in Figure 4 (a) show that HRL outperforms the one-level RL.

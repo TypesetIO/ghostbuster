@@ -1,0 +1,1 @@
+This simulation-based approach provides valuable insights into a robot's functionality and autonomy.

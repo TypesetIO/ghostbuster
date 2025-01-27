@@ -1,0 +1,1 @@
+As the shear rate increases, the transition from a high-viscosity state to a low-viscosity state can result in a delayed rebound effect, which is particularly advantageous in applications such as anti-icing and self-cleaning surfaces, where prolonged contact time is desired to facilitate surface interaction [Author, Year].

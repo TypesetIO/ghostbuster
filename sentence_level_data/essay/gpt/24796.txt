@@ -1,0 +1,1 @@
+Autopsy allows the extraction and analysis of data from various kinds of storage media, including hard drives, smartphones, and memory cards.

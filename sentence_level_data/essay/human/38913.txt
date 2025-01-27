@@ -1,0 +1,3 @@
+Example:
+ 1. All dogs are cats
+ 2.

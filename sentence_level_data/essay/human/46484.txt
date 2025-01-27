@@ -1,0 +1,1 @@
+The method has become popular mainly because it allows making inferences about the regression coefficients without involving the baseline hazard, yields an estimator with good theoretical properties and is programmed in the most common statistical software packages.

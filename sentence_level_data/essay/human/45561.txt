@@ -1,0 +1,1 @@
+Simultaneously, an enhancement is introduced to improve the precision of defect detection.

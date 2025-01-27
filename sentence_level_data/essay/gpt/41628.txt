@@ -1,0 +1,1 @@
+In addition to the aforementioned fault-tolerant control strategies, the implementation of advanced diagnostic algorithms plays a crucial role in enhancing the reliability of multilevel converters under open-switch fault conditions.

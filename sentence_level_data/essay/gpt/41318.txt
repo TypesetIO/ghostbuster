@@ -1,0 +1,1 @@
+Recent studies have highlighted the potential of deep learning models, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs), to automatically extract features from raw data, thereby reducing the reliance on manual feature engineering [Author, Year].

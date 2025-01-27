@@ -1,0 +1,1 @@
+Additionally, at any time, only one forklift can access the shelves, as such the users have to communicate and coordinate their locations to avoid collision and efficiently transport the pallets.

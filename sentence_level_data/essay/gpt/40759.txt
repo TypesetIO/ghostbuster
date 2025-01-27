@@ -1,0 +1,1 @@
+This not only alleviates network congestion but also enhances the system's resilience to node failures, as local nodes can continue to operate independently in the event of communication disruptions.

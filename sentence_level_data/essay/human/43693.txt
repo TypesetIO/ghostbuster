@@ -1,0 +1,1 @@
+In this MD unit, the use of an additional vacuum pump was avoided by installing a Venturi tube that allowed to yield absolute pressure levels below 200 mbar without any other electrical consumption than that of the external cooling pump.

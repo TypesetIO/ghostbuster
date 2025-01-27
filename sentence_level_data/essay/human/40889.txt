@@ -1,0 +1,1 @@
+Dessutom implementerades en pipeline för RGB-bildanalys som en plugin för den kostnadsfria och lättanvända programvaran ImageJ.

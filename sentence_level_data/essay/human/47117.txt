@@ -1,0 +1,1 @@
+The greater the number of convolutional layers, the more complex information the algorithm tends to learn, but also rises the risk of overfitting, and applying dilation on the convolutional modules may increase performance on different sized objects.

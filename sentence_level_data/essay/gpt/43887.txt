@@ -1,0 +1,1 @@
+Furthermore, jQuery supports event delegation, allowing events to be attached to parent elements rather than individual child elements, which is particularly useful for dynamically generated content.

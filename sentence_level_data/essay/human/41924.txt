@@ -1,0 +1,1 @@
+Theoretically, the effect should be identical on heating and cooling, thereby justifying the use of the enthalpy value on cooling as a correction.

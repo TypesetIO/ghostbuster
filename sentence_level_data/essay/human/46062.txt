@@ -1,0 +1,1 @@
+More examples of autonomous vehicle robot for spraying the weeds can be found in [117-119] and [90] and [114].

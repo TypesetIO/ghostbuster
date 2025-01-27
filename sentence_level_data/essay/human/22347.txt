@@ -1,0 +1,3 @@
+(Requires level 15 speech skill)
+let's go with A
+"Mom, what's for breakfast?"

@@ -1,0 +1,1 @@
+WiFi signals can usually reach tens of meters of coverage in indoor environments, and the wireless links among these smart devices provides rich web of reflected rays that spread every indoor corner.

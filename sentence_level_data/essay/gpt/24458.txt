@@ -1,0 +1,6 @@
+I. Understanding Blockchain Technology:
+A. Definition and core components of blockchain
+B. Advantages of decentralized systems
+C. Consensus mechanisms in blockchain
+D. Smart contracts and their applicability to IP management
+II.

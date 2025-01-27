@@ -1,0 +1,1 @@
+Researchers examine the accuracy of machine learning approaches for predicting cardiac illness, such as kNN, decision tree, linear regression in addition to support vector machine, by means of the UCI repository dataset for training as well as testing of SVM.

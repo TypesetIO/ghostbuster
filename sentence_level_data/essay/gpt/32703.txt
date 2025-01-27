@@ -1,0 +1,1 @@
+HIDS can also perform behavioral analysis to spot abnormal actions, such as unauthorized access attempts or privilege escalations.

@@ -1,0 +1,1 @@
+This holistic project view is especially useful in the early stages of design where more detailed, task-based data are not available.

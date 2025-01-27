@@ -1,0 +1,1 @@
+There are many game dynamics; immediate feedback, leveling up, points, leaderboards, medals, unlimited lives, restarts, and quests are some (Dichev et al., 2015) .

@@ -1,0 +1,1 @@
+To further elucidate the implications of a finite phonon lifetime on spin dynamics, we must consider the interplay between temperature-dependent phonon lifetimes and the resulting spin relaxation mechanisms.

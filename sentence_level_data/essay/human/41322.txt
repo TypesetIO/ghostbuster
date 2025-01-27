@@ -1,0 +1,1 @@
+Multi-agent systems provide the necessary platform for such sensing devices to remotely operate, observing their respective environments, and conveying their respective readings either to the centralized base station, or for sharing with other peer nodes.

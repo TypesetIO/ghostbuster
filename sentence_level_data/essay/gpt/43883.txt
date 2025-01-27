@@ -1,0 +1,1 @@
+In addition to manipulating CSS classes, jQuery provides a robust set of methods for handling events, which are crucial for creating interactive web applications.

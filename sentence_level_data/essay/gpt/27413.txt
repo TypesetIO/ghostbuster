@@ -1,0 +1,1 @@
+For instance, hotels have a fixed number of rooms, and if they are not occupied, those potential earnings are lost forever.

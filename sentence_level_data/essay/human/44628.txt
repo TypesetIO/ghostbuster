@@ -1,0 +1,1 @@
+There would also be a reference to the next higher level of .abstraction in the goal statement which would cause a look at the property list of "want(x)".

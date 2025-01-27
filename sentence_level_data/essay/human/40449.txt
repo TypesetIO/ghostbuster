@@ -1,0 +1,1 @@
+Although the introduction of a T-dependent phonon lifetime offers a better agreement with experimental results, only a rigorous estimation of these quantities by first principles will make a final assessment of the role of phonons' lifetime and of other multiphonon processes possible.

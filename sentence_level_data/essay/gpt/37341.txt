@@ -1,0 +1,1 @@
+This allows others to replicate the study and assess the reliability of the results.

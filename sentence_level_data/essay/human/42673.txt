@@ -1,0 +1,1 @@
+Figure 4 shows the cumulative distribution function (CDF) of the number of samples in each malware family.

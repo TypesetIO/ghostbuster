@@ -1,0 +1,1 @@
+The time required for the tracer to travel from the injection point to the respective monitoring location depends on their relative positions in the tank.

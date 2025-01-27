@@ -1,0 +1,1 @@
+By utilizing multiple occupancy and temperature sensors, the device can detect the presence of individuals in specific areas of the house.

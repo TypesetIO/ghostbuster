@@ -1,0 +1,1 @@
+Additionally, the role of anharmonicity in the lattice dynamics cannot be overlooked, as it may contribute to the broadening of phonon linewidths and further complicate the spin-phonon coupling landscape.

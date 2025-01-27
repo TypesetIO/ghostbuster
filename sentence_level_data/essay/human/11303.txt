@@ -1,0 +1,1 @@
+Colors left first, then solid edges of shapes.

@@ -1,0 +1,1 @@
+YOLOv7 is one of the newest and best-performing detection models in the YOLO family of algorithms.

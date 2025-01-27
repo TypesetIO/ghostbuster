@@ -1,0 +1,1 @@
+This limitation makes it challenging to implement robust security measures, leaving them vulnerable to attacks.

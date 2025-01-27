@@ -1,0 +1,1 @@
+Both the CONIS and ACLED datasets are prone to the problem of operationalisation due to the removal of the criteria of battle-related deaths.

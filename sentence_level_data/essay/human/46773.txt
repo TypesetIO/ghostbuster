@@ -1,0 +1,1 @@
+For data encryption and decryption, asymmetric encryption methods use multiple keys.

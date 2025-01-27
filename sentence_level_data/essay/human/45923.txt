@@ -1,0 +1,1 @@
+A common supply chain (SC) includes the necessary entities to provide goods to the customer from production centers.

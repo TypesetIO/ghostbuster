@@ -1,0 +1,1 @@
+Only the manually curated reconstructions from BiGG and reconstructions built through CarveMe had a higher fraction of flux consistent reactions than AGORA2 (Fig. 3a,b ; P < 1 × 10 −30 , Wilcoxon rank-sum test).

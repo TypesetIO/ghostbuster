@@ -1,0 +1,1 @@
+Although the experiment yielded 82.22% detection rate, the device only used eight features per frame.

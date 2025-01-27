@@ -1,0 +1,1 @@
+By leveraging the nonlinear pattern recognition capabilities of ANNs alongside the robustness of time series analysis, hybrid models can provide more reliable predictions of wind speed and, consequently, wind power generation [6].

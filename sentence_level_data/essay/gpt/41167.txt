@@ -1,0 +1,1 @@
+One such approach is the use of a panel data regression model, which allows for the examination of both temporal and spatial variations in emissions across different provinces.

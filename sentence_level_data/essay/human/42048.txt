@@ -1,0 +1,1 @@
+When the BWB program recently faced reconfiguring and balancing a baseline BWB that met many, but not all, balance requirements in a time period too short to ensure success with conventional approaches, an MDO approach was taken using the Boeing Company's Wing Multidisciplinary Optimization Design (WingMOD) code.

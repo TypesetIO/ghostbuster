@@ -1,0 +1,1 @@
+Genom att träna modeller på stora datamängder kan forskare identifiera mönster och korrelationer som annars skulle kunna förbli dolda.

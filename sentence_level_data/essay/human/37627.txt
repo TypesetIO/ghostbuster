@@ -1,0 +1,1 @@
+This will ensure the security implementation is simplified as all components will be viewed and interacted with in a consistent manner.

@@ -1,0 +1,1 @@
+, 2019) .A review paper summarized ML algorithms for addressing weed detection, plant disease/pest detection tasks (Behmann et al., 2015) .A recent review article presented the DL-based techniques for various agricultural applications (Santos et al., 2019) .

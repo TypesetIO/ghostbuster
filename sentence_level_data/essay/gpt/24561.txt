@@ -1,0 +1,1 @@
+This entails continuous monitoring and auditing of AI systems to detect and eliminate biases, as well as regularly assessing the effectiveness of AI algorithms in accurately predicting candidate success.

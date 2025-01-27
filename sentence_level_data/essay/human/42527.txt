@@ -1,0 +1,1 @@
+The relaxation time, t, in milliseconds and T = 20 K as a function of the external field in Tesla is reported for the simulations of one electronic spin coupled to one nuclear spin and relaxing due to the phonon modulation of the Zeeman and hyperfine energies (black line and dots).

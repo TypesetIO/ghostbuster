@@ -1,0 +1,1 @@
+For instance, operating at higher thermal energy inputs, such as TEI = 80 °C, can lead to a substantial increase in permeate flux, albeit with the trade-off of increased hydraulic pressure losses, as previously noted.

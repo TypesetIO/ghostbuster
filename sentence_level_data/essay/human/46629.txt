@@ -1,0 +1,1 @@
+Cubical is a workspace that has a barrier for certain positions that are confidential such as the section related to employee salary data such as payroll, and the last closed room specifically for the board level.d.

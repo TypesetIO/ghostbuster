@@ -1,0 +1,1 @@
+Algorithms, while presumed to be impartial, merely automate or amplify human biases present in the data.

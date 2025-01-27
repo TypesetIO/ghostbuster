@@ -1,0 +1,1 @@
+Static analysis is a technique used to analyze code without executing it, detecting potential issues, and suggesting improvements.

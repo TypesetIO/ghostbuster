@@ -1,0 +1,1 @@
+Fig. 1 shows the recommended forecasting techniques for different time horizons [2] .

@@ -1,0 +1,1 @@
+If the data point was positive and the corresponding model could also take up or secrete the metabolite or produce flux through the corresponding enzymatic reactions(s), this resulted in a true positive prediction, while a false negative prediction occurred when the microorganism was known to have this capability, but the corresponding model did not capture the trait.

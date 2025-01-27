@@ -1,0 +1,1 @@
+With perpendicular electrode orientation at 10g CF, the calculated lesion depths correlate well with actual lesion depths for RF applications at 50 W/10 s and 30 W/30 s.

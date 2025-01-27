@@ -1,0 +1,1 @@
+This feature triggers adjustments in temperature, ensuring energy efficiency by reducing wasteful heating or cooling when no one is present.

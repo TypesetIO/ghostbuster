@@ -1,0 +1,1 @@
+Furthermore, the incorporation of meteorological data, such as temperature, humidity, and atmospheric pressure, into forecasting models can enhance their predictive capabilities by providing a more comprehensive understanding of the factors influencing wind patterns [8].

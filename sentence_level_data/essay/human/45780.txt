@@ -1,0 +1,1 @@
+Normally, FKBP51 interacts with Parkin and participates in Parkin self-degradation, maintaining normal Parkin activity and allowing microtubule-related proteins (or substrates like Tubulin, Map2, Tau, etc.) to participate in normal degradation.

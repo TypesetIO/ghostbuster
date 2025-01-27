@@ -1,0 +1,1 @@
+These are minor but essential components to be used in the system development and implementation process.

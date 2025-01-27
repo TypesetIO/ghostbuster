@@ -1,0 +1,1 @@
+Gnomial Functions Inc. should use the weighted moving average to determine the likely level of sales in the next year.

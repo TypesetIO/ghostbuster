@@ -1,0 +1,1 @@
+Uno de los principales retos es la gestión de la interferencia entre las señales de RF y las señales ópticas, que puede degradar la calidad de la transmisión y limitar el rendimiento del sistema.

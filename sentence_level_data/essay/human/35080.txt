@@ -1,0 +1,3 @@
+It is possible that the project’s implementation will be more complex than anticipated, requiring more time;
+  * Individuals participating in the project might become sick and slow down production;
+  * The available hardware and software may malfunction.

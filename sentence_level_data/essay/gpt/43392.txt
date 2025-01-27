@@ -1,0 +1,1 @@
+Recent studies have indicated that incorporating feedback loops can lead to more robust predictions of change propagation, particularly in iterative design environments [Author, Year].

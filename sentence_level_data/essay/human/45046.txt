@@ -1,0 +1,1 @@
+It was inspired by the transient behavior of switched circuits with storage elements, for example, capacitance and inductance.

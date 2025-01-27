@@ -1,0 +1,1 @@
+A significant finding of the simulations is that, for any given system, the absolute value of G out at any given time is independent of l/s (Fig. 10 ).

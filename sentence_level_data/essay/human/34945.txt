@@ -1,0 +1,1 @@
+Recently, there has also been a trend to use third-party local devices as a gateway, access to which can be restricted by the user, and as a result, their use is more secure.

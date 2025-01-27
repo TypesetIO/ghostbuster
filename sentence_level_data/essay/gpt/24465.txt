@@ -1,0 +1,12 @@
+Limitations of Blockchain in IP Globalization:
+A. Scalability challenges:
+   1. Transaction throughput and processing limitations
+   2. Energy consumption and environmental concerns
+   3. Potential for centralization due to resource concentration
+B. Legal and regulatory complexities:
+   1. Harmonizing IP laws and blockchain regulations
+   2. Jurisdictional challenges in cross-border transactions
+   3. Balancing privacy rights with transparent record-keeping
+C. Intellectual property authenticity verification:
+   1. Trust in the accuracy and reliability of blockchain data
+   2.

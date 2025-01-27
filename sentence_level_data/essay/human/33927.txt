@@ -1,0 +1,1 @@
+The article starts with an interview with the person who discovered the consistent patterns in the operation of the software’s candidate selection system, Shirin Nilizadeh.

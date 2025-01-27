@@ -1,0 +1,1 @@
+Before the introduction of fuzzy set theory by Zadeh [52] , probability was the only way to measure the uncertainty.

@@ -1,0 +1,1 @@
+By associating each element with a specific letter in the mnemonic, individuals can quickly recall which accounts are increased or decreased by either a debit or credit entry.

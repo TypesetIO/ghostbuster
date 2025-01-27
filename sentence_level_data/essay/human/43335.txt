@@ -1,0 +1,1 @@
+The top three OTUs based on relative abundance averaged across seasons and during the react cycles (average of R1 and R2) are listed for OTUs which meet one or two criteria, while the top five OTUs which meet all three criteria are listed.

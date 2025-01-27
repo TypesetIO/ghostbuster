@@ -1,0 +1,1 @@
+Studies have shown that optimizing the injection timing and pressure can mitigate some of these issues, enhancing the overall performance of CI engines running on pyrolysis oil (Ravi et al., 2022).

@@ -1,0 +1,1 @@
+Saracino et al. [2018] also developed a host-based malicious application detection system called MADAM, which combines both static and dynamic analysis features and selects the KNN algorithm as a classifier.

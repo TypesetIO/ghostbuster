@@ -1,0 +1,1 @@
+Additionally, the ethical implications of utilizing such technologies must be considered, as biases in data collection and algorithm design can lead to skewed results and reinforce existing inequalities [Author, Year].

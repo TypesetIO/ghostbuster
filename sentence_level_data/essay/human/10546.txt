@@ -1,0 +1,1 @@
+4.1) Should either scanner fail, close the gateway and direct passengers to other open gateways.

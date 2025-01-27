@@ -1,0 +1,1 @@
+This is achieved through the implementation of the value-based payment system, where healthcare providers are compensated based on the quality of care they provide, rather than the volume of services.

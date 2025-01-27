@@ -1,0 +1,1 @@
+However, a significant portion of today's data is unstructured or semi-structured, such as social media posts, emails, sensor data, and multimedia content.

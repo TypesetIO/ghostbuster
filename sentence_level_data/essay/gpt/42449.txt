@@ -1,0 +1,1 @@
+To further elucidate the interplay between these effects, we analyze the temperature dependence of the Hall resistivity, revealing a distinct transition point that correlates with the onset of skyrmion formation.

@@ -1,0 +1,1 @@
+At the top free surface of the vessel, the axial gradients of the dependent variables are set to zero, and along the axis the turbulent quantities are considered axisymmetric.

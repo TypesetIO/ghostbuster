@@ -1,0 +1,1 @@
+After our staff has received the goods to be delivered, the employee should change the status of the schedule on the system to ‘in transit.

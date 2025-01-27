@@ -1,0 +1,1 @@
+This strain is a substrain of the commercially available Ldlr-/-mouse (The Jackson Laboratory) and has a 94% C57BL/6J background and 6% 129S1/SvImJ background.

@@ -1,0 +1,1 @@
+This scalability ensures that Solana can handle substantial volumes of transactions and navigate the challenges faced by other cryptocurrencies, like Bitcoin and Ethereum, which suffer from network congestion during periods of high demand.

@@ -1,0 +1,1 @@
+To produce accurate photographs, for example, when sampling on an image map, it is required to raise the sampling frequency at the turning point of the road or river while decreasing the sampling frequency on the straight road.

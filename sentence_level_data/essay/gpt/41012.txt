@@ -1,0 +1,1 @@
+Moreover, the correlation of flow data with contextual information from other sources, such as system logs and user activity records, can significantly enhance the accuracy of anomaly detection systems.

@@ -1,0 +1,1 @@
+This includes examining the kinetics of hydride precipitation and dissolution, which are influenced by factors such as hydrogen concentration and thermal cycling.

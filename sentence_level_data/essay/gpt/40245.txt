@@ -1,0 +1,1 @@
+As NER continues to evolve, the exploration of hybrid models that combine rule-based, supervised, and unsupervised techniques may yield more robust solutions capable of addressing the diverse challenges presented by various languages and contexts [15].

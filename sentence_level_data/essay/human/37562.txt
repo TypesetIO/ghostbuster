@@ -1,0 +1,1 @@
+Farcargo aims at having an information system that allows users to interact with them as in a real physical office.

@@ -1,0 +1,1 @@
+Calibration is an effort to better parameterize the model according to a given set of local conditions, thus reducing the uncertainty of the prediction.

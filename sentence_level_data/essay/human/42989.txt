@@ -1,0 +1,1 @@
+The robot was controlled using an IoT-based mobile application and was capable of autonomously cleaning PV panels.

@@ -1,0 +1,1 @@
+These frameworks aim to streamline the machine learning pipeline by automating various stages, such as feature selection, model selection, and hyperparameter tuning, thereby reducing the need for extensive domain expertise and manual intervention [Author, Year].

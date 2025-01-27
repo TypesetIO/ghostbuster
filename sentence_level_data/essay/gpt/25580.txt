@@ -1,0 +1,1 @@
+The diverse and vulnerable nature of IoT devices, along with the potential for data breaches and privacy invasion, necessitates the establishment of understandable security standards.

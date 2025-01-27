@@ -1,0 +1,1 @@
+The second structure is the Simple Hierarchy, where I link my students and the director.

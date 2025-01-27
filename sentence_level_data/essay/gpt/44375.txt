@@ -1,0 +1,1 @@
+In addition to the experimental studies mentioned, computational fluid dynamics (CFD) has emerged as a powerful tool for analyzing and optimizing wing designs.

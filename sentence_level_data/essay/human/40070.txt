@@ -1,0 +1,1 @@
+Their evaluation shows that semantic information significantly contributes to ICD-9 coding with lexical elements.

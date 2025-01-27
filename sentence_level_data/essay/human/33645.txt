@@ -1,0 +1,1 @@
+A contract is the most common type of transaction.

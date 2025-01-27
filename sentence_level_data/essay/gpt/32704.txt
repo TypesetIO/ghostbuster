@@ -1,0 +1,1 @@
+NIDS, on the other hand, excels in real-time alerting and anomaly detection at the network level.

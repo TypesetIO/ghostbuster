@@ -1,0 +1,1 @@
+They used a support vector machine (SVM) classifier to make prediction.

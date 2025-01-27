@@ -1,0 +1,1 @@
+This allows for prompt recognition and intervention in cases of intraoperative hypotension.

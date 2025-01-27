@@ -1,0 +1,1 @@
+One potential approach to mitigate this problem is to detect the problematic switch by analyzing the dynamic characteristics that manifest during an open-switch fault.

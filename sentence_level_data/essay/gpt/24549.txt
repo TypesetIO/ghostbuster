@@ -1,0 +1,1 @@
+For example, if the historical data shows a disproportionate number of candidates from specific backgrounds being hired, the AI system may implicitly favor candidates from similar backgrounds in the future.

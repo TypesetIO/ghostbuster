@@ -1,0 +1,1 @@
+This equation can be expressed as: P = ET + Q + ΔS, where P represents precipitation, ET is evapotranspiration, Q denotes runoff, and ΔS signifies the change in storage.

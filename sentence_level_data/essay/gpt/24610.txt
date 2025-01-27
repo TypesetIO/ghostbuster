@@ -1,0 +1,1 @@
+These obstacles can simulate real-world scenarios such as uneven terrain, narrow passages, limited visibility, or even interacting with other simulated objects.

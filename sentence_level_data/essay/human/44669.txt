@@ -1,0 +1,1 @@
+Computational thinking (CT) was first introduced by Papert (1980) . Wing (2006) defined computational thinking as a combination of skills of problem-formulating, problem-solving, recursive thinking, abstracting, decomposing, correcting mistakes, and reasoning.

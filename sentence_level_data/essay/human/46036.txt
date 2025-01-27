@@ -1,0 +1,1 @@
+Incorporating a true CFD analysis promises the benefit of capturing all the important aerodynamic effects and the ability to directly handle the propulsion-airframe integration problem; however, direct inclusion of CFD at this time would likely bring a WingMOD-breadth optimization to a screeching halt.

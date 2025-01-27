@@ -1,0 +1,1 @@
+Most flows observed in the datasets fit the assumption that the traffic consists of a series of periodic requests and responses.

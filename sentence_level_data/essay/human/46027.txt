@@ -1,0 +1,1 @@
+Approaches proposed in [52, 53] are an adaptive online observer designed for induction and PMSM motor drive systems to estimate the unknown DC link voltage, rotor fluxes, and rotor resistance simultaneously.

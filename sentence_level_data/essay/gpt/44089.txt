@@ -1,0 +1,1 @@
+Future research should focus on creating robust models that can predict disassembly outcomes based on varying product characteristics and operational parameters, thereby contributing to the advancement of sustainable practices in product lifecycle management [Author, Year].

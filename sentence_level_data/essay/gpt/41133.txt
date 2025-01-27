@@ -1,0 +1,1 @@
+Furthermore, the incorporation of machine learning models into the optimization process has shown potential in predicting energy demands more accurately, allowing for more informed decision-making during the design phase [Author, Year].

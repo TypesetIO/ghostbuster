@@ -1,0 +1,1 @@
+This information is further passed to PW, where it is transformed into a world-centred reference frame via RSC (green) using head-direction.

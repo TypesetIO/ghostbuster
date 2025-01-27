@@ -1,0 +1,1 @@
+These algorithms can be trained on large datasets, allowing them to learn and recognize subtle features that may be overlooked by human radiologists, thereby improving diagnostic sensitivity and specificity (Esteva et al., 2019).

@@ -1,0 +1,1 @@
+With the rapid development of sensing technology over the past decade, considerable attention has been drawn on human activity recognition to brace a broad range of compelling applications, such as human-computer interactions on smarthome appliances, elder care, well-being management and safety surveillance.

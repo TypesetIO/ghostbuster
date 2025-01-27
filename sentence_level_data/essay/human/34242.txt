@@ -1,0 +1,1 @@
+Considering that a Windows registry contains a vast amount of information about the applications installed and data processed, Arsenal Recon can be extremely valuable when conducting a digital forensic investigation ( Arsenal Recon , n.d.).

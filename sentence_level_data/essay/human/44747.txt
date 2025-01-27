@@ -1,0 +1,1 @@
+As the system is modeled as a hierarchical structure with constraints on the component behavior from the higher level at the lower level in system theory, the detailed control mechanisms and operation principle can be included.

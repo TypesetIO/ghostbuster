@@ -1,0 +1,1 @@
+Secondly, scalability and flexibility are key design principles, as Farcargo's business needs evolve rapidly.

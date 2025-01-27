@@ -1,0 +1,1 @@
+At the user interface, the system should allow the client to register an account with the company where they can access their data.

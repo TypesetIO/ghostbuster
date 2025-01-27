@@ -1,0 +1,1 @@
+This interoperability issue can cause fragmentation and limit the full potential of the IoT.

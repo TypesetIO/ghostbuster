@@ -1,0 +1,1 @@
+Noise exposure prediction models that are used in health effect studies normally yield free field exposure levels outside residences as results.

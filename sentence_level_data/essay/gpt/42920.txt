@@ -1,0 +1,1 @@
+It is important to note that while these indices provide valuable information, they should not be used in isolation; a comprehensive evaluation of the model should consider both statistical significance and practical significance of the relationships among variables.

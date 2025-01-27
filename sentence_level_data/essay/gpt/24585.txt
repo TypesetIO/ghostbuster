@@ -1,0 +1,1 @@
+Testing and simulations are used to evaluate a robot's performance, detect any flaws, and enhance its capabilities.

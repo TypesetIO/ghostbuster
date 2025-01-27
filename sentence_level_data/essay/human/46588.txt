@@ -1,0 +1,1 @@
+Several researchers used well-known ML algorithms and compared their performance for the selection of the best-suited model to classify different classes of agricultural land covers.

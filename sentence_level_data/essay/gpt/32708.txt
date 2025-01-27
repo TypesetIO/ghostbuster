@@ -1,0 +1,1 @@
+HIDS monitors and analyzes local data, ensuring that sensitive information remains under the control of the device owner.

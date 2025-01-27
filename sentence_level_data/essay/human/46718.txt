@@ -1,0 +1,1 @@
+For example, a single hidden layer neural network based on the extreme learning machine (ELM) method was proposed for this task and achieved comparable performance with a backpropagation neural network (BPNN) (Pal, 2009 ).

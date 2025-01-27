@@ -1,3 +1,4 @@
+from pdb import set_trace
 from dataclasses import dataclass
 
 import tqdm
@@ -52,7 +53,8 @@ def get_generate_dataset(*datasets: Dataset):
             if dataset.type == "normal":
                 files += get_generate_dataset_normal(dataset.path)
             elif dataset.type == "author":
-                files += get_generate_dataset_author(dataset.path, author=author)
+                files += get_generate_dataset_author(
+                    dataset.path, author=author)
 
         if split is not None:
             files = np.array(files)[split]

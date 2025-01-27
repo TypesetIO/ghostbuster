@@ -1,0 +1,1 @@
+In motor drive systems, power semiconductor switches, including IGBT and MOSFET, are frequently utilized, but they experience electrical and mechanical strains while operating, and their failure can occur unexpectedly.

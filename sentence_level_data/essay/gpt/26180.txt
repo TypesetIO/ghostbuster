@@ -1,0 +1,1 @@
+One of the primary electron carriers in the ETC is coenzyme Q (CoQ), which accepts electrons from complex I and complex II and shuttles them to complex III.

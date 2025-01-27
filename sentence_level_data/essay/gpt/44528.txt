@@ -1,0 +1,1 @@
+By combining PCM with evaporative cooling, the latent heat storage capability of PCM can be leveraged to maintain lower indoor temperatures even during peak heat periods, thereby reducing reliance on mechanical cooling systems [Author, Year].

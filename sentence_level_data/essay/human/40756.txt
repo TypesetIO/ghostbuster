@@ -1,0 +1,1 @@
+If, for example, the cued probability were high (0.9), this would elicit a smaller positive RPE on rewarded trials than a low cued probability (0.3), because reward would be more expected (the RPEs in these cases would be: 1 - 0.9 = 0.1 and 1 - 0.3 = 0.7, respectively).

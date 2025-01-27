@@ -1,0 +1,1 @@
+The values of Nu obtained from the experiments and the values achieved from the ANN showed a maximum error of 9.6% for the pressure drop (Δp).

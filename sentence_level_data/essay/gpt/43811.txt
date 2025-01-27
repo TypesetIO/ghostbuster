@@ -1,0 +1,1 @@
+Furthermore, the bias term \( b_i \) plays a pivotal role in shifting the activation function, thereby enhancing the model's flexibility in fitting the training data.

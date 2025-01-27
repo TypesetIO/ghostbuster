@@ -1,0 +1,1 @@
+It determines the level of granularity or precision in the digital representation.

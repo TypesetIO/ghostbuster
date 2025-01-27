@@ -1,0 +1,15 @@
+Other managers and team members should have the following qualifications:
+  * Program manager-Degree in Computer science with three years of relevant experience
+      + Team members- Degree in Computer science
+  * Security manager- Degree in computer forensics with two years of experience
+      + Team members- Degree in computer forensics
+  * Database Administrator- Degree in information technology with three years experience
+      + Team members- Degree in information technology
+  * Configuration manager- Degree in computer science with three years’ experience
+      + Team members- Degree in computer science
+  * Website development manager- Degree in ICT and three years’ experience
+      + Team members- Degree in ICT
+  * Site Installation representative- Degree in project management with two years’ experience
+      + Team members- Degree in project management
+Performance Monitoring
+Lack of monitoring of the project’s progress would lead to failure (Chung et al., 2018).

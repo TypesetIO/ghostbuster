@@ -1,0 +1,1 @@
+El tipo TPZ se utilizará entonces con relés que posean transductores de entrada corriente/tensión.

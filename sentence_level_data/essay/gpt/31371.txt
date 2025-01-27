@@ -1,0 +1,1 @@
+Its fast turnaround time, code editor features, Android Emulator, static analysis structure, testing tools, and the separation of project building all work together to help developers write efficient, reliable, and high-quality Android applications.

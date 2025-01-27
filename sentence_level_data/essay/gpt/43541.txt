@@ -1,0 +1,1 @@
+Future work will focus on further optimizing the model and exploring its applicability to other materials and defect types, potentially broadening the scope of deep learning applications in quality control processes across various industries.

@@ -1,0 +1,1 @@
+This structure allows to free up time, but the added layer might slow the communication.

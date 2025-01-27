@@ -1,0 +1,1 @@
+Scalability is another advantage of Hadoop's distributed processing capabilities.

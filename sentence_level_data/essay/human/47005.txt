@@ -1,0 +1,1 @@
+Aunque los sistemas RoF se pueden implementar en redes troncales cubriendo largas distancias [2] , el mayor punto de atracción radica en el despliegue de sistemas RoF en redes de acceso inalámbrico de banda ancha que permitan el transporte y la distribución de las portadoras de RF de cualquier red inalámbrica utilizando una infraestructura de red FTTH.

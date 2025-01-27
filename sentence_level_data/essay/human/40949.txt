@@ -1,0 +1,1 @@
+Game dynamics are the rules of the game (Dichev et al., 2015; Kim, 2015) .

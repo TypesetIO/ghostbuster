@@ -1,0 +1,1 @@
+The breakdown of the APK files for each category is shown in the cluster classified by the method described in Section 3.2 is presented in Table 2 .The cluster number of each app's description is leveraged as one type of feature in the preliminary evaluation of malware detection.

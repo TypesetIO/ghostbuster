@@ -1,0 +1,1 @@
+To address the need for understandable security standards, the proposed method of constructing a safety rating for IoT devices using the Analytical Hierarchy Process (AHP) has gained prominence.

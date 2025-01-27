@@ -1,0 +1,1 @@
+This completely avoids the difficulty of map projection and displays the planet as it is in a circle (Setiawan & Sediyono, 2017).

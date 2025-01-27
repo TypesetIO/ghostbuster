@@ -1,0 +1,1 @@
+Dado que el límite de error permisible es 10 %, el factor de dimensionamiento para el régimen transitorio deberá ser considerado conjuntamente con la constante de tiempo del bucle secundario: (8.14) -Clase TPZ: para estos transformadores de comente el flujo remanente es despreciable y los límites de los parámetros de la constante de tiempo de bucle secundario, son especificados.

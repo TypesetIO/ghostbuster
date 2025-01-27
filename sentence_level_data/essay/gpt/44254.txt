@@ -1,0 +1,1 @@
+For instance, a study by Zhang et al. (2020) demonstrated that CNNs outperformed traditional ML algorithms, achieving a classification accuracy of over 95% for various crop types using Sentinel-1 and Sentinel-2 data.

@@ -1,0 +1,1 @@
+The design of unit cells, particularly the curvature and connectivity of the struts, plays a pivotal role in determining the overall mechanical response of these materials under various loading conditions.

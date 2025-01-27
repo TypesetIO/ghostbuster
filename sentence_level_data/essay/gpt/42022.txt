@@ -1,0 +1,1 @@
+This selective enhancement not only improves the overall quality of low-light images but also enhances the performance of subsequent computer vision tasks, such as object detection and classification.

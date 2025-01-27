@@ -1,0 +1,1 @@
+8.7.6.3Pruebas especiales Estas se definen de común acuerdo entre el comprador y el fabricante y serían: -Prueba de impulso tipo rayo recortado -Medida de la capacitancia y del factor de disipación dieléctrico -Pruebas de múltiples impulsos en el devanado primario -Pruebas mecánicas.8.8 TRANSFORMADORES DE MEDIDA NO CONVENCIONALES

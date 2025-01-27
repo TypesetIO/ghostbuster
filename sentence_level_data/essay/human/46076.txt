@@ -1,0 +1,1 @@
+Studies that reports autonomous robot navigation inside greenhouse environments are slim [116, 118, 131, 132] .A fixed-position weed robot was presented by [133] which is interfaced to a standard belt-conveyor displacement system and provides the robot with pallets containing the crops.

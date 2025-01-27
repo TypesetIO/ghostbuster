@@ -1,0 +1,1 @@
+I can't be sure that they've received my message, so I have it re-sending every 1/10th of a cycle.

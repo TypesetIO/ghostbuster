@@ -1,0 +1,1 @@
+To investigate this, we conducted a series of exploratory analyses that included demographic variables and baseline behavioral measures as covariates in our regression models.

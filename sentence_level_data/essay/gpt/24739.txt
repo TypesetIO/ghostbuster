@@ -1,0 +1,1 @@
+This ensures that educational records, certifications, and other documents are securely stored and cannot be tampered with.

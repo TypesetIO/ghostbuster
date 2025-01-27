@@ -1,0 +1,1 @@
+For example, there are three NE in the following sentence: "James is a doctoral student in the Faculty of Computer Science at the University of Indonesia."

@@ -1,0 +1,1 @@
+By systematically removing either the high-level task or the attention mechanism, we can evaluate how these elements influence the diversity and consistency of the revised profiles.

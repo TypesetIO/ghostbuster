@@ -1,0 +1,6 @@
+Identified elements:
+  * Agent: an old man;
+  * Act: sitting and looking into the distance;
+  * Agency: empty space;
+  * Scene: early morning in an elevated city;
+  * Purpose: meditation.

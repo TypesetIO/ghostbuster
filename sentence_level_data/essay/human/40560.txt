@@ -1,0 +1,1 @@
+Contador: dispositivo que indica el número de ciclos de operación realizados por un equipo.

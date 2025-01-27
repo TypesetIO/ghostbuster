@@ -1,0 +1,1 @@
+Using AI, the model can include data on traffic, weather, waiting time, loading and unloading speeds at specific points and at certain suppliers, the influence of specific company and customer personnel on the speed of delivery.

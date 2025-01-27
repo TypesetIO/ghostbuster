@@ -1,0 +1,1 @@
+HIDS excels at host-level analysis and system integrity monitoring, while NIDS is adept at network-level traffic analysis and anomaly detection.

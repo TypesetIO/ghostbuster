@@ -1,0 +1,1 @@
+Variabel pribadi tersebut termasuk jenis kelamin, usia, status perkawinan dan tingkat pendapatan untuk setiap donor.

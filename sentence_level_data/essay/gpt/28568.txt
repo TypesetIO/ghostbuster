@@ -1,0 +1,1 @@
+For instance, a medical PICOT question might be "In adults with hypertension (P), does the use of medication (I) compared to lifestyle modifications (C) result in a lower blood pressure (O) over six months (T)?"

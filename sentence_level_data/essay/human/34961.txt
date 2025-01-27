@@ -1,0 +1,1 @@
+It is also recommended to look for alternative ways to deliver information to the cloud if a threat is detected on the main one, the same additional authentication methods, and diversification of different cloud providers (Allifah & Zualkernan, 2022).

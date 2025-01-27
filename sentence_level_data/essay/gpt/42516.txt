@@ -1,0 +1,1 @@
+The interplay between data encoding and the underlying hardware architecture also warrants attention, as certain encoding schemes may be more compatible with specific types of memory or processing units.

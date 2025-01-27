@@ -1,0 +1,1 @@
+For example, administrators can analyze patient flow data to determine the optimal number of staff required in different departments at different times.

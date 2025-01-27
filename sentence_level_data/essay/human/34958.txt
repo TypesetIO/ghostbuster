@@ -1,0 +1,1 @@
+It is recommended to change passwords more often, update device software, and introduce additional authentication steps on the network.

@@ -1,0 +1,1 @@
+Three key sets of data are required to set up a SWAT model: topography data (digital elevation model, DEM), land use cover, and soil data.

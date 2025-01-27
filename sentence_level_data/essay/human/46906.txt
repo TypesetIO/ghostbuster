@@ -1,0 +1,1 @@
+In weak confinement where h ∼ 2R g,bulk , the initial squeezing of the chain by the confining walls results in a decrease of the polymer's 3D size, as shown by Cordeiro et al. 9 using variational theory.

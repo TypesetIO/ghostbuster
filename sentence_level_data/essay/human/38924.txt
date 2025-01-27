@@ -1,0 +1,1 @@
+The multimedia developers are mainly concerned about the sample resolution and quantization when scanning a full-color photograph in digital processing.

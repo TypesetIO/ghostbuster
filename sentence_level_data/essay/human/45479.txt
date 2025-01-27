@@ -1,0 +1,1 @@
+Snow is calculated when temperatures are below freezing, and soil temperatures are calculated because they affect water movement and the rate of decomposition of soil residues.

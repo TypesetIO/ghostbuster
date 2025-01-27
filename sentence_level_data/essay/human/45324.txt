@@ -1,0 +1,1 @@
+The researchers calculated the observed movement for each section by subtracting the narrowest joint width from the widest joint width.

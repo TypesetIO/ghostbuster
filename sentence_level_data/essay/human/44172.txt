@@ -1,0 +1,1 @@
+The hybridized probes were efficiently removed by dissociation buffer, leading to an ~1000-fold decrease in the fluorescence intensity.

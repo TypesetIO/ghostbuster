@@ -1,0 +1,1 @@
+The known algorithms are of two types: (a) low preprocessing cost but query time linear in n and d; and, (b) query time sublinear in n and polynomial in d, but with severely exponential preproceeging cozt nd.

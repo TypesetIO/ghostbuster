@@ -1,0 +1,1 @@
+Furthermore, the deployment of multi-sensor platforms, such as Mantis, facilitates comprehensive monitoring of plant health, soil conditions, and pest activity, thereby supporting informed decision-making in precision agriculture [Author, Year].

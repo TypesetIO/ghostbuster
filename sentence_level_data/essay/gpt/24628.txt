@@ -1,0 +1,1 @@
+It helps determine if a robot can successfully navigate complex environments, perform tasks autonomously, and adapt to changing conditions.

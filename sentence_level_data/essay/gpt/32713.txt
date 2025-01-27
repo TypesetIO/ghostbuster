@@ -1,0 +1,1 @@
+HIDS requires configuration and deployment on individual devices, which can be time-consuming and labor-intensive, especially in large-scale deployments.

@@ -1,0 +1,1 @@
+Another reason of energy depletion is data aggregation that requires high processing to remove the redundant data.

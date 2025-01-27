@@ -1,0 +1,1 @@
+Computer vision algorithms used for these applications require the images to be high visibility to achieve commendable performance (Lore et al., 2017) .However, the quality of the images captured is greatly affected by the amount of light received by the camera's sensor.

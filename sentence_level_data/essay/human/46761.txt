@@ -1,0 +1,1 @@
+Many IoTbased factory control and automation initiatives, for example, offer holistic innovative factory technologies with multiple features such as manufacturing department monitoring, wearables, and Augmented Reality on the production floor, remote Programmable Logic Control (PLC) control, or computerized quality management systems.

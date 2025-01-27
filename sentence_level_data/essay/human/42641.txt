@@ -1,0 +1,1 @@
+Open-switch faults are a concern due to their potential to cause issues such as DC bias, overshoot current, and capacitor voltage imbalance, necessitating the development of fault diagnosis and fault-tolerant control strategies.

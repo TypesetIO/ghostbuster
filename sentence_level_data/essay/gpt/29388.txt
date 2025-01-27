@@ -1,0 +1,1 @@
+In digital processing, it determines the fidelity with which an analog signal is represented digitally.

@@ -1,0 +1,1 @@
+However, as the number of devices increases, the overall cost of HIDS can escalate due to the need for individual licenses and maintenance.

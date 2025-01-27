@@ -1,0 +1,1 @@
+In this regime, due to the absence of populated phonon states, the only possible relaxation pathway is provided by the T-independent spontaneous phonon emission from a spin excited state.

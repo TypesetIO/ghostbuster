@@ -1,0 +1,1 @@
+Continuous data is converted to digital form using sampling resolution and quantization.

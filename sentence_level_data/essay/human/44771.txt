@@ -1,0 +1,1 @@
+A stacked CNN is tuned by varying its hyperparameters, as shown in Table 1 .Optimizing algorithms affect both training speed and prediction accuracy.

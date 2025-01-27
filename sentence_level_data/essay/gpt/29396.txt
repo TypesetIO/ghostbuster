@@ -1,0 +1,1 @@
+It involves four stages: sampling, quantization, encoding, and decoding.

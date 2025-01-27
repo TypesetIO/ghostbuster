@@ -1,0 +1,1 @@
+This computer based intelligent system extract more effective information from the historical wind data, but they have longer training time durations, over fitting issues and yield poor out-of-sample forecast [5] .

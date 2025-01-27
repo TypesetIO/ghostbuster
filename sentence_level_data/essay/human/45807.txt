@@ -1,0 +1,1 @@
+In such cases, the recharging and exchange of batteries are unfeasible and costly, thus the success of the application is dependent on the network lifetime.

@@ -1,0 +1,1 @@
+A la fecha se han realizado diferentes trabajos que demuestran las ventajas de implementar sistemas de transporte de señales de radiofrecuencia sobre enlaces de fibra óptica en diferentes escenarios y aplicaciones.

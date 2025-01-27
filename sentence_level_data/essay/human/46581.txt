@@ -1,0 +1,1 @@
+In some cases, test results are negative, even if the patient shows progress on subsequent computed tomography (CT).

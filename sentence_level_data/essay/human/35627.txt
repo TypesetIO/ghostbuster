@@ -1,0 +1,1 @@
+Q receives electrons from FMNH2 and FAD(II) and gives them to QH2, after which they migrate to complex (III), whereas Cyt C receives electrons from complex III and gives them to complex IV.

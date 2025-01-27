@@ -1,0 +1,1 @@
+This matrix not only facilitates the propagation of information but also encapsulates the learned relationships between the various input features and their corresponding outputs.

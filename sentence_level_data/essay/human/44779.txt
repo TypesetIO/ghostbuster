@@ -1,0 +1,1 @@
+The model training included seven categorical skin lesions and the model performance was assessed with the confusion matrix outcome shown in Figure 5 . AKIEC, BCC, and BKL lesion classes were predicted with 99.21%, 99.34%, and 100% accuracy, respectively.

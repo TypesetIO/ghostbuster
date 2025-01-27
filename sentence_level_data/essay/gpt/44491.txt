@@ -1,0 +1,1 @@
+Theoretical models, such as those proposed by Odijk, can be integrated with computational simulations to predict the behavior of polymers in more complex geometries, including branched or porous structures.

@@ -1,0 +1,13 @@
+Pencil: Writing utensil
+Weight: 0
+Value:.10
+Quantity: 5000
+Calculator: Calculation device
+Weight: 1
+Value: 15
+Quantity: 1
+Phone: Communication device
+Weight: 1
+Value: 300
+Quantity: 1
+Everything was there.

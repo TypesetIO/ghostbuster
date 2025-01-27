@@ -1,0 +1,1 @@
+Logs play a pivotal role in assisting administrators in detecting potential breaches.

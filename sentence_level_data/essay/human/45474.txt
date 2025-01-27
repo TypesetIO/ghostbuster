@@ -1,0 +1,1 @@
+Afterward, the stem is positioned and oriented on the build plate and support structures are added using the Support Generation Module of MAGICS.(4) Finally, the EOS manufacturing file is generated using the proprietary software RP Tools v6.1 and PSW v3.6 (EOS GmbH, Munich, Germany).

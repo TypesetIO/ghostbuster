@@ -1,0 +1,1 @@
+To preprocess the data, a temporal abstraction (TA) is used and a temporal pattern mining algorithm is utilized for finding TARs by frequent temporal relationships identification between TAs.

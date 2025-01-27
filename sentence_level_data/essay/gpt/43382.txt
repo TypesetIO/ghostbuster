@@ -1,0 +1,1 @@
+This temporal variability necessitates a careful consideration of the timing of ground measurements relative to satellite overpasses to ensure that comparisons are meaningful.

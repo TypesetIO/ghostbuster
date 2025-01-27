@@ -1,0 +1,1 @@
+For wood surface defects, the defects are usually small, and there is a large variability in the shape and size of the same defects, as well as a large similarity between different types of defects.

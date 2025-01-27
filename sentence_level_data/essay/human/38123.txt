@@ -1,0 +1,1 @@
+However, this value cannot be provided using Excel and, as such, can only be calculated manually.

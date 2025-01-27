@@ -1,0 +1,1 @@
+To further validate the accuracy of our barcoding system, we performed a comparative analysis with metagenomic sequencing data, which confirmed that the taxa identified through SEER-FISH corresponded well with those detected via sequencing, thereby reinforcing the reliability of our method [Author, Year].

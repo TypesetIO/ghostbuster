@@ -1,0 +1,1 @@
+As part of efforts to reinforce homeland security, NIMS has a crucial component called Incident Command System (ICS) to address all disaster-related issues (Oliver et al., 2015).

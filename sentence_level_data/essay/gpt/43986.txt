@@ -1,0 +1,1 @@
+Moreover, the scalability of such hybrid systems remains a critical consideration for industrial applications, as the transition from laboratory-scale experiments to full-scale implementations poses various challenges, including cost-effectiveness and energy consumption.

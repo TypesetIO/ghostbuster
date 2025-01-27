@@ -1,0 +1,1 @@
+A mixture of 15 GLCM and histogram features is used to remove features.

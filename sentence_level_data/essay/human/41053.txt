@@ -1,0 +1,1 @@
+Some review articles have been published incorporating only a particular type of agricultural application with/without a robotic system by considering AI/computer vision/ other advanced vision control techniques.

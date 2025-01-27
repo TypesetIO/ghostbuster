@@ -1,0 +1,1 @@
+For training and evaluation of our models, we define three subsets with a size of 19 patients (5 malignant / 14 benign) each and apply a cross-fold scheme.

@@ -1,0 +1,1 @@
+According to previous studies, the COV IMEP is considered a more reliable sign of stability, and if its value exceeds 10%, the engine is considered unstable [40, 52, 58] .Fig. 3 (b) shows that the COV IMEP decreased as the load increased from idle to full load for all tested fuels.

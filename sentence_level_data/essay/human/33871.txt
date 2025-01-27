@@ -1,0 +1,2 @@
+Introduction to Blockchain
+Blockchain is a technology for recording and storing information, first introduced by a person or a group of people under the pseudonym Satoshi Nakamoto in 2008.

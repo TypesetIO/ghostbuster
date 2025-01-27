@@ -1,0 +1,1 @@
+However, on reheating the sample, the effective rapid heating rate measured in the reversing signal may result in a degree of overshoot that will not be seen for the slower THF response, resulting in an additional enthalpic component.

@@ -1,0 +1,1 @@
+Each computer processes its assigned subset, and the results are then consolidated to obtain the final output.

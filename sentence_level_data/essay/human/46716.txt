@@ -1,0 +1,1 @@
+Many studies have been conducted to classify land covers of various types to perform an overall analysis of one or more areas by DLbased techniques, specifically CNN architectures (Huang et al., 2018; Luus et al., 2015; Zhang, Harrison, et al., 2020; Zhang, Huang, et al., 2020) .

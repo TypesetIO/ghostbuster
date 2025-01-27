@@ -1,0 +1,1 @@
+The Template block is a MATLAB function block, where path planning algorithms can be coded to be tested in the LEGO Robot.

@@ -1,0 +1,1 @@
+Materials like lead zirconate titanate (PZT) [4] , quartz [5] , aluminum nitride [6] , and zinc oxide (ZnO) [3] are used as a piezoelectric layer in sensors and energy harvesting devices.

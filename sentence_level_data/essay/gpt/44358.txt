@@ -1,0 +1,1 @@
+Furthermore, the incorporation of temporal data through time-series analysis has been shown to significantly enhance the predictive capabilities of models, allowing for better monitoring of land cover changes over time (Li et al., 2020).

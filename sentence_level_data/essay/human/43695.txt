@@ -1,0 +1,1 @@
+Fig. 12 shows the variation of SEEC at different cases of absolute pressure inside the module AS26, between 600 mbar and the minimum achievable by the vacuum system (130-200 mbar abs).

@@ -1,0 +1,1 @@
+Although these prototypes operate well, implementation is associated with many challenges.

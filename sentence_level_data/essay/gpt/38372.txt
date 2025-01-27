@@ -1,0 +1,1 @@
+Designed with compatibility in mind, the thermostat can connect to various platforms and systems, such as Apple HomeKit, Google Assistant, and Amazon Alexa.

@@ -1,0 +1,1 @@
+A real-time intelligent weed control system was introduced in [114] for selective herbicide application to in-row weeds using machine vision and chemical application.

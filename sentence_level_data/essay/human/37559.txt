@@ -1,0 +1,2 @@
+System Overview
+Being an online-based organization, Farcargo requires a system that acts as its virtual office.

@@ -1,0 +1,1 @@
+The experimental result shows 25~30% reduction in drag coefficient and 10~20% increase in lift coefficient by using bird feather like winglet at 8 degree angle of attack.

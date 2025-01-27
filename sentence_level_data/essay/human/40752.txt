@@ -1,0 +1,1 @@
+The scaling of the firing rate as a function of, for example, positive prediction error was the regression weight used to scale the positive RPE to predict the firing rate, as in Dabney et al.

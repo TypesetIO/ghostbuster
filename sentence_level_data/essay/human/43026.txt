@@ -1,0 +1,1 @@
+While use of openirrigation in CF-sensing catheters decreases the risk of thrombus and char formation on the catheter tip, this can also prevent accurate temperature feedback because the catheter tip will be at a lower temperature than the actual temperature reached at the catheter tip-tissue interface.

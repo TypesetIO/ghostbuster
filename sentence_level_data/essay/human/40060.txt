@@ -1,0 +1,1 @@
+Medori et al. [6] conducted four experiments based on Naive Bayes with varying sets of attributes.

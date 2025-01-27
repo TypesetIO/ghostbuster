@@ -1,0 +1,1 @@
+To address these challenges, organizations may incorporate safety stock calculations alongside EOQ to buffer against uncertainties in demand and supply chain disruptions [7. ]. Furthermore, integrating EOQ with Just-In-Time (JIT) inventory practices can enhance responsiveness to demand fluctuations while minimizing waste and excess stock [8. ].

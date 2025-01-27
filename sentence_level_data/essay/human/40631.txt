@@ -1,0 +1,1 @@
+Ejemplo de las etapas para la preparación de una especificación en los transformadores de comente para régimen transitorio -Transformadores de corriente tipo TPZ: el ciclo de operación C -O para los transformadores de corriente tipo TPZ está basado en la hipótesis de que las condiciones son tales que el flujo máximo se alcance.

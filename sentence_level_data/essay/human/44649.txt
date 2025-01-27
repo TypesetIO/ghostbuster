@@ -1,0 +1,1 @@
+This is a software with a graphical user interface for variance-based structural equation modelling (SEM) using the partial least squares (PLS) path modelling method (Wong, 2013) .

@@ -1,0 +1,1 @@
+A Polychrome V monochromator (TillPhotonics, Gräfelfing, Germany) was used as light source for HSI and a monochromatic CCD-camera (AxioCamMRm, Carl Zeiss Microimaging GmbH, Göttingen, Germany) was employed for HSI data acquisition.

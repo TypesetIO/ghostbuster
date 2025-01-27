@@ -1,0 +1,1 @@
+El valor de cresta de las perturbaciones electromagnéticas inducidas en el sistema secundario no excede 1,6 kV en modo común para clase normal de severidad de condiciones electromagnéticas.8.3.2.1.2

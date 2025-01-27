@@ -1,0 +1,1 @@
+To enhance the ability of the YOLO algorithm to capture small defects, a novel attention mechanism named Omni-Dynamic convolution Coordinate Attention (ODCA) is proposed in this paper.

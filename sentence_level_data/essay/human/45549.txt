@@ -1,0 +1,1 @@
+The YOLO family of algorithms [20] [21] [22] [23] [24] [25] represents a well-established single-stage target detection algorithm family, known for its simplicity and efficiency, making it widely adopted across various target detection applications.

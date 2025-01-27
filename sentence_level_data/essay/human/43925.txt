@@ -1,0 +1,1 @@
+The longitudinal resistance measured as R xx = (V 1 − V 2 )/I, and Hall resistance measured as R xy = (V 3 − V 1)/I are converted to resistivity using ρ = RA/l where A is a crosssection and l is a current path distance.

@@ -1,0 +1,1 @@
+One delegate for each populated continent.

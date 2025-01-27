@@ -1,0 +1,1 @@
+This method ensures that each malware family is proportionally represented, thereby mitigating the risk of bias that could arise from over-representing more prevalent families.

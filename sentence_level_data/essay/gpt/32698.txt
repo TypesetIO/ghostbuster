@@ -1,0 +1,1 @@
+This allows for in-depth analysis of system and file integrity, making it highly effective in detecting exploits that might have bypassed perimeter defenses, such as firewalls.

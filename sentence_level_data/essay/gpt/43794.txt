@@ -1,0 +1,1 @@
+Furthermore, the adoption of inventory optimization models, such as the Economic Order Quantity (EOQ) and Just-In-Time (JIT) systems, can help in determining the most cost-effective order quantities and timing, thus minimizing holding costs while ensuring product availability [10].

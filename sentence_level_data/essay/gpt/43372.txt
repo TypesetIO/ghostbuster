@@ -1,0 +1,1 @@
+Under high temperature and low RH conditions, the evaporation rate may surpass the absorption rate, leading to a net loss of moisture and potentially increasing the susceptibility of concrete to chloride attack [Author, Year].

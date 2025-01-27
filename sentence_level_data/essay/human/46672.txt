@@ -1,0 +1,1 @@
+The stress-shielding effect derives from the mismatch between the stiffness of the metallic implant (Young's modulus of the Ti6Al4V alloy is 110 GPa) and of the bone (15-20 GPa for the cortical bone, 1-5 GPa for the more porous, trabecular bone).

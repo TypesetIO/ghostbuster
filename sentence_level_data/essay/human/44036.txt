@@ -1,0 +1,1 @@
+It is known that accompanying the MIT in VO 2 , the structural phase transition introduces a spontaneous strain, ε ≈ 1%, along the rutile c-axis (c R ). 2 In NWs where the wire axis is always along c R , the strain causes an abrupt shrinkage of the NW length by 1%.

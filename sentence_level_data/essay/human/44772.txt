@@ -1,0 +1,1 @@
+The popular optimizer algorithms in deep learning are the Root Mean Square Propagation (RMSProp), adaptive Moment Optimization (Adam), Stochastic gradient descent (SGD), and Adaptive Gradient (AdaGrad), Adadelta.

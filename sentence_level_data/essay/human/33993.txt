@@ -1,0 +1,1 @@
+The objective of the course is to guarantee that the robot can traverse in space, detect obstacles, and properly eliminate them.

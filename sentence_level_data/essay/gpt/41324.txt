@@ -1,0 +1,1 @@
+To address this, researchers are investigating the use of adversarial training, where models are exposed to adversarial examples during the training phase to bolster their resilience [Author, Year].

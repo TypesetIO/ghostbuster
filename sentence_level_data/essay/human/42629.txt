@@ -1,0 +1,1 @@
+It is especially critical to detect openswitch faults as they can result in secondary faults within the system due to wire-bond lift off.

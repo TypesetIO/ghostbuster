@@ -1,0 +1,1 @@
+We combined the malware samples and randomly selected benign samples to build three different volumes of large-scale data: 100K, 200K, and 300K for the large-scale evaluation of malware detection.

@@ -1,0 +1,1 @@
+and electromagnetic compatibility (EMC) issues can cause interference in the operation of power electronics components, leading to performance issues or even complete system failure.

@@ -1,0 +1,1 @@
+Furthermore, the impact of different feature extraction techniques was analyzed, comparing HOG with alternative methods such as Local Binary Patterns (LBP) and Scale-Invariant Feature Transform (SIFT).

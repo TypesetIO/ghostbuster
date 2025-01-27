@@ -1,0 +1,1 @@
+Indeed, this class contains 981 metagenomes, from 179 different geographic locations, and some studies only contain a single sample.

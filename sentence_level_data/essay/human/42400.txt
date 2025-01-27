@@ -1,0 +1,1 @@
+First, Relative Ecosystem Richness (RER) is the fraction of all unique clusters found in an ecosystem.

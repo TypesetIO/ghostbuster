@@ -1,0 +1,1 @@
+Despite its high detection accuracy, the R-CNN series received criticism for its slower detection speed, mainly due to its two-stage network structure.

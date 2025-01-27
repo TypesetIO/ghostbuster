@@ -1,0 +1,1 @@
+It then categorizes these NE into predefined types [2] .

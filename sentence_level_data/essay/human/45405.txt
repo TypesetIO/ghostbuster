@@ -1,0 +1,1 @@
+Excluding cyclic paths allows each element to appear at maximum once in a propagation path and limits the number of steps a path can take to the number of total elements minus one, i.e., (n − 1).

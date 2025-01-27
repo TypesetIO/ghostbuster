@@ -1,0 +1,1 @@
+This mutation would cause a total loss of DISC1's binding to Ndel1.

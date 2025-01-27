@@ -1,0 +1,1 @@
+Por último, la implementación de redes de acceso ópticas-inalámbricas también plantea la necesidad de considerar aspectos de seguridad y privacidad, dado el aumento en la cantidad de dispositivos conectados y la sensibilidad de los datos transmitidos.

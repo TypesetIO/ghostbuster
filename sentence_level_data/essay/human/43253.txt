@@ -1,0 +1,1 @@
+It is also important to remark that the energies at play in the low-field regime (B < 1 T) are extremely small if compared with the phonons' frequencies and the simulations.

@@ -1,0 +1,1 @@
+So the simulation results will be accurate and close to results that should be obtained at experimental verification, with the fabrication of a prototype THz antenna, to reduce the experimental validation cost.

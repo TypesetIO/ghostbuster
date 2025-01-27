@@ -1,0 +1,1 @@
+A remote control system can direct a robot, or the control can be included inside the machine itself.

@@ -1,0 +1,1 @@
+Additionally, the net heat release rate (HRR) was calculated based on the first law of thermodynamics using equation ( 4).

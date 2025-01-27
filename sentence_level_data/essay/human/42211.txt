@@ -1,0 +1,1 @@
+To facilitate these applications, active research has been conducted to examine human activities through sensing from different perspectives, including pinpointing target person's positions in an indoor environment, recognizing the regular activities or specific body gestures that the person performed and monitoring his or her vital signs (e.g., breathing rate).

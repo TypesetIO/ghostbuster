@@ -1,0 +1,1 @@
+Hydrogen tends to migrate toward colder area in Zr alloys since its diffusion depends on thermal gradient.

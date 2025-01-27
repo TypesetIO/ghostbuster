@@ -1,0 +1,1 @@
+In this study our main objective is to progress a hybrid model according to modified particle swarm optimisation method along with support vector machine for heart as well as liver disease prediction.

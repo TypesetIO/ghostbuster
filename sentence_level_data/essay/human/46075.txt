@@ -1,0 +1,1 @@
+Some of these robots are based on inductive sensors for following metal pipes that are buried in the soil.

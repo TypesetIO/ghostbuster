@@ -1,0 +1,1 @@
+For instance, a linear gradient may lead to a uniform dephasing of the spins, while a more complex shape could introduce selective refocusing effects, thereby enhancing signal recovery during imaging sequences.

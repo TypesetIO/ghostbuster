@@ -1,0 +1,1 @@
+To overcome the problem of delaying reports and assist radiologists, there is a need to develop non-invasive system for the early detection of Covid-19 using state of the art artificial intelligence (AI) tools.

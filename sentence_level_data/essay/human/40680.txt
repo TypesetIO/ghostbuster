@@ -1,0 +1,1 @@
+In a simple example, based on items viewed in a web shop and gender, an advertiser can infer that a consumer is interested in female fashion.

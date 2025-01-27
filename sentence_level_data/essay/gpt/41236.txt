@@ -1,0 +1,1 @@
+Furthermore, the use of multi-fidelity optimization techniques can be beneficial, where low-fidelity models are employed for initial exploration and high-fidelity models are reserved for final validation of the most promising designs.

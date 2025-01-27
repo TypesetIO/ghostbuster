@@ -1,0 +1,1 @@
+However, with the advent of the YOLOv1, a single-stage target detection algorithm, the need for generating candidate frames was eliminated, and the network directly extracted features to predict object classification and location.

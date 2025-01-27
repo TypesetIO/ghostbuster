@@ -1,0 +1,1 @@
+This approach leverages the distinct mutations present in an individual's tumor to develop tailored therapeutic strategies, such as personalized cancer vaccines and adoptive T cell therapies.

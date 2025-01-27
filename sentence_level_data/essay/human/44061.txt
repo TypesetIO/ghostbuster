@@ -1,0 +1,1 @@
+Energy balance was calculated according to the heat of pyrolysis and HHVs of all products.

@@ -1,0 +1,1 @@
+By adopting this approach, the power transfer capacity of 2/3-level dual active bridge converters can be improved relative to the conventional bypass-arm technique.

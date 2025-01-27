@@ -1,0 +1,1 @@
+For instance, in the healthcare industry, a DSS could be used to model the impact of implementing fall prevention programs in hospitals.

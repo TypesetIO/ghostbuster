@@ -1,0 +1,1 @@
+This method is simple to implement and results in a regular grid of samples.

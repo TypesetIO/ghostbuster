@@ -1,0 +1,1 @@
+The supervisor should provide verbal guidance to the assembler.

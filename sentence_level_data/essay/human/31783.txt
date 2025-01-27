@@ -1,0 +1,1 @@
+Simple Hierarchy is another classic structure that suggests a middle manager reporting to the boss.

@@ -1,0 +1,1 @@
+These systems use predefined criteria to filter applications and only shortlist those that meet the minimum requirements.

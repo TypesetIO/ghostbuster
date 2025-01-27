@@ -1,0 +1,1 @@
+For that purpose, a Simulink® block diagram is first created with the system model, displayed in Figure 2 .

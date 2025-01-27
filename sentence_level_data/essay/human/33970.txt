@@ -1,0 +1,1 @@
+Considering the process of constructing a robot, it is important to highlight several specific building stages that can be universal.

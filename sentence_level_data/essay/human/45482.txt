@@ -1,0 +1,1 @@
+Since SWAT was developed in the United States of America, the data used in the model are based on US locations.

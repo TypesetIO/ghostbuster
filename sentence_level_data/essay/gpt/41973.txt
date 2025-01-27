@@ -1,0 +1,1 @@
+Recent studies have demonstrated that multi-omics integration can reveal novel biomarkers and therapeutic targets that are not apparent when examining single omics data alone [Author, Year].

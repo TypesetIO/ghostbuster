@@ -1,0 +1,1 @@
+For instance, flows exhibiting irregular patterns may indicate unauthorized access attempts or malfunctioning equipment, necessitating a more robust monitoring framework that can adapt to these variations.

@@ -1,0 +1,1 @@
+It can identify traffic patterns that resemble known attack signatures or display unusual behaviors.

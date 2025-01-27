@@ -1,0 +1,1 @@
+The performance metrics used to compare these classifier algorithms are classification accuracy and execution time.

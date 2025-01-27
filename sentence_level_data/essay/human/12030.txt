@@ -1,0 +1,1 @@
+Wait for the target to be in range, and take the shot.

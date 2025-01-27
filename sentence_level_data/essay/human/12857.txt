@@ -1,0 +1,1 @@
+Then, like the good little machine it is, it sends a return 'ping' to confirm success or failure.

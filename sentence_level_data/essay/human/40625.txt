@@ -1,0 +1,1 @@
+Para el ciclo Equipos de patio 293 de operación C -O -C -O.el factor de dimensionamiento para el régimen transitorio necesario para los transformadores de comente clase TPY será muy afectado por la relación entre la constante de tiempo de bucle secundario Tv y el tiempo muerto tfr.

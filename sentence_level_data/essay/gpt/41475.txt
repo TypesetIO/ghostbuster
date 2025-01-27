@@ -1,0 +1,1 @@
+Furthermore, our results indicate that the temporal stability of an ecosystem also contributes to sensor diversity; ecosystems that experience frequent disturbances tend to exhibit higher variability in sensor profiles, potentially as a mechanism for resilience.

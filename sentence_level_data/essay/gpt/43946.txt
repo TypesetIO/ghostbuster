@@ -1,0 +1,1 @@
+Additionally, the reliance on iPS cells, while beneficial, may not fully recapitulate the in vivo environment of developing tissues, necessitating the development of more sophisticated models that can bridge this gap (Huang et al., 2021).

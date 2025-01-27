@@ -1,0 +1,1 @@
+As it is assumed that human NASH has various disease etiologies, it is unlikely that a single mouse model would reflect all possible etiologies.

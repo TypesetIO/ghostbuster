@@ -1,0 +1,1 @@
+Therefore, the study adopts three different weighting schemes (expert opinion weights, frequencybased weights and equal weights) for the computation of MPI and investigates the sensitivity of MPI towards the choice of weighting scheme.

@@ -1,0 +1,1 @@
+Model fit indices, such as the Chi-square statistic, Comparative Fit Index (CFI), and Root Mean Square Error of Approximation (RMSEA), provide insights into how well the model aligns with the observed data.

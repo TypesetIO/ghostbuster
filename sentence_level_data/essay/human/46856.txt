@@ -1,0 +1,1 @@
+The supervisor in this task will give directional verbal instruction (e.g., 'Move to the left', 'Move the fork down further') to guide the trainee when picking up and dropping off pallets as the trainee does not have the complete view of the pallet from inside the forklift.

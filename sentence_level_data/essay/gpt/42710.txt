@@ -1,0 +1,1 @@
+This approach is particularly beneficial in medical imaging, where acquiring large datasets can be challenging due to the rarity of certain conditions [Author, Year].

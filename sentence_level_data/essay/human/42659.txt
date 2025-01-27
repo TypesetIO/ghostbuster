@@ -1,0 +1,1 @@
+We feed these four types of features into the feature representation method, which can select the most informative features while reducing the feature dimension.

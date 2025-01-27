@@ -1,0 +1,1 @@
+However, it may lead to aliasing effects, where high-frequency details are distorted or lost due to the inability to capture them adequately.

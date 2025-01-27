@@ -1,0 +1,1 @@
+I shelled out for the most expensive 3-D printer I could find, hooked it up to my computer, and ran the dna program on `example.and`, in `src/`.

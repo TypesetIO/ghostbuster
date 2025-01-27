@@ -1,0 +1,1 @@
+They proposed a machine vision system using a charge coupled device camera for the weed detection in a radish farm resulting 92% success rate of recognition for radish and 98% for weeds.

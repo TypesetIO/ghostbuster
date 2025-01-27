@@ -1,0 +1,1 @@
+As the octahedral coordination of oxygen atoms introduces a crystal field splitting, the energy levels of the d orbitals are modified, leading to distinct electronic configurations that can significantly influence the material's conductivity and magnetic properties.

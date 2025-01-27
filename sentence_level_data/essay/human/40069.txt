@@ -1,0 +1,1 @@
+Ira Goldstein et al. [16] applied three systems (search engine, boosting algorithm and rule-based model) for automatically predicting the ICD-9 codes.

@@ -1,0 +1,1 @@
+Additionally, controlling for confounding variables, such as the income level of customers, could provide a more accurate understanding of the impact of each factor on tipping behavior.

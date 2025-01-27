@@ -1,0 +1,1 @@
+The structure with nearly 51% porosity has a uniform porosity distribution, while the approximately 50% porosity structure exhibits a gradient porosity distribution, denser on the edges and gradually increasing inwards, as depicted in Fig.

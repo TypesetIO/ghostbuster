@@ -1,0 +1,1 @@
+However, the contribution of the drag force is dominant and the effect of the other forces is of little significance (Wang and Mao, 2005; Kasat et al., 2008; Jahoda et al., 2009) .Considering this, only the drag force is incorporated in this work.

@@ -1,0 +1,1 @@
+Moreover, the properties of the Jacobian matrices, such as their rank and determinant, can provide information about the local invertibility of the functions involved, as per the Inverse Function Theorem.

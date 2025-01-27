@@ -1,0 +1,1 @@
+It generates hydrographs that serve as boundary conditions in hydraulic models.

@@ -1,0 +1,1 @@
+IoT devices, such as smart home appliances, wearables, and industrial sensors, often have limited processing power and memory capacity.

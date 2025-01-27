@@ -1,0 +1,1 @@
+Lastly, the practitioner must validate the model in some way to ensure that the model's predictions generalize to data sets that it was not fitted on (i.e., model validation), for example, by testing the model's performance on a holdout data set that was excluded from the earlier phases of the pipeline.

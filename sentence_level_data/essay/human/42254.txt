@@ -1,0 +1,1 @@
+This can be seen from the t count 8.1394 which is greater than T-table 1.96.

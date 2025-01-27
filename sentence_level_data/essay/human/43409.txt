@@ -1,0 +1,1 @@
+Zheng et al. (2018) studied the characteristics of the response of tall buildings due to the wind load under combined aerodynamic control, which includes the shape optimization and air suction on tall building models with different cross-sections.

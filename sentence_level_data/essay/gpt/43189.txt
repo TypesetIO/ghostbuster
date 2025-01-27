@@ -1,0 +1,1 @@
+Moreover, the incorporation of spatial and temporal cross-validation techniques can further validate the findings from TCA, ensuring that the results are not only statistically significant but also practically applicable across diverse environmental conditions (Friedl et al., 2010).

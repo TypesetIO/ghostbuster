@@ -1,0 +1,1 @@
+In Naïve Bayes classifier, periodic TARs are considered as features finally.

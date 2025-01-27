@@ -1,0 +1,1 @@
+A research used the UAV for the detection/mapping of Silybum marianum weeds on hyperspectral images by comparing the performance of various ML techniques out of which One Class Support Vector Machine (OC-SVM) achieved the highest accuracy (Alexandridis et al., 2017) .

@@ -1,0 +1,1 @@
+This interplay between thermal input and hydraulic dynamics necessitates a comprehensive analysis to identify the optimal operating conditions that minimize SEEC while maximizing permeate output.

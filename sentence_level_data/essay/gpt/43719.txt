@@ -1,0 +1,1 @@
+Furthermore, the development of energy-efficient data encoding and compression algorithms can also play a crucial role in minimizing the amount of data transmitted, thus conserving energy during communication [22].

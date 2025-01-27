@@ -1,0 +1,1 @@
+For instance, the integration of microfluidics in organ-on-a-chip platforms allows for the dynamic manipulation of fluid flow and nutrient gradients, which can more accurately simulate physiological conditions found in the human gut [Author, Year].

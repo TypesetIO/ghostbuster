@@ -1,0 +1,1 @@
+At where: C(x,t) = chloride content in at depth x from external surface of concrete and time t, C 0 = initial chloride content.

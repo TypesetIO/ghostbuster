@@ -1,0 +1,1 @@
+The expression for the water balance equation in the SWAT model is [18] :

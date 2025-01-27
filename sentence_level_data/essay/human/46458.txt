@@ -1,0 +1,1 @@
+The authors in [16] described an HMM-based automated ArSL recognition system.

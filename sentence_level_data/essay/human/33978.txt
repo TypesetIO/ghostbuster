@@ -1,0 +1,1 @@
+Firstly, to create a specific course, it is obligatory to identify the design concept and the key features and components of the robot that has to be tested.

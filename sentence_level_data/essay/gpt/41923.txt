@@ -1,0 +1,1 @@
+To counteract this, researchers are exploring the development of multi-targeted CARs that can recognize and engage multiple antigens simultaneously, thereby reducing the likelihood of tumor escape variants [13].

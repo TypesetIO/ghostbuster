@@ -1,0 +1,1 @@
+Red indicates inhibition; green indicates activation; circles are transporters.

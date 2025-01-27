@@ -1,0 +1,1 @@
+Furthermore, the EASM's reliance on empirical correlations may introduce uncertainties, especially when extrapolating results beyond the conditions for which the model was originally validated.

@@ -1,0 +1,1 @@
+One commonly used method is random sampling, where each member of the population has an equal chance of being selected.

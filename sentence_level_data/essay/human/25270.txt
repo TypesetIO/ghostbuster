@@ -1,0 +1,1 @@
+With the tap of the green [Yes] icon, a new screen popped up showing a map and single directive: "Go to location A and retrieve package."

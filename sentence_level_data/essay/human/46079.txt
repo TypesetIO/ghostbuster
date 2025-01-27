@@ -1,0 +1,1 @@
+This platform has 16 degrees of freedom (DOF) realized by different electro-motors and hydraulic cylinder actuation.

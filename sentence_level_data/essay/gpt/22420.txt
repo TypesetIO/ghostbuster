@@ -1,0 +1,1 @@
+Matrix structures combine elements of both hierarchy and flat structures, allowing for cross-functional collaboration and effective decision-making.

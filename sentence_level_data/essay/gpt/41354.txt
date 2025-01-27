@@ -1,0 +1,1 @@
+Future work should focus on developing adaptive algorithms that can dynamically adjust to different environments and user behaviors, thereby enhancing the versatility and applicability of RF-based human activity recognition systems.

@@ -1,0 +1,1 @@
+However, each time a parameter value is changed in MATLAB, the value must be reloaded in Simulink.

@@ -1,0 +1,1 @@
+The difference between the true soil moisture that actually affects a (microwave) measurement associated with a particular grid cell and the true soil moisture within that grid cell is often referred to as representativeness error (Gruber et al., 2016a) .

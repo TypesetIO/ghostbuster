@@ -1,0 +1,1 @@
+An improved inner-outer iterative procedure (Wang and Mao, 2002 ) is adopted to treat the impeller rotation in the fully baffled tank.

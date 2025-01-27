@@ -1,0 +1,1 @@
+Additionally, the interaction between temperature and relative humidity (RH) plays a critical role in determining the moisture content within the concrete matrix, which in turn affects the chloride transport mechanisms.

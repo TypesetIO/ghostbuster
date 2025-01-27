@@ -1,0 +1,1 @@
+Table I presents an overview of the primary faults that commonly arise in power electronics components, along with the main techniques employed for their diagnosis [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] .[44], [47] [52], [53]

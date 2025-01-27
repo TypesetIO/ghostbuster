@@ -1,0 +1,1 @@
+Additionally, the ability to decompose the MPI across sub-groups allows for a more granular analysis of poverty, enabling stakeholders to identify vulnerable populations and tailor interventions accordingly.

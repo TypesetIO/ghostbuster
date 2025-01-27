@@ -1,0 +1,1 @@
+Despite these strengths, Power BI does have some limitations in handling complex table connections.

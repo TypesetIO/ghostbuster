@@ -1,0 +1,1 @@
+Recent advancements in low-loss materials, such as BCB polymer, have shown promise in enhancing the overall efficiency of microstrip antennas, particularly at higher frequencies where traditional substrates may exhibit increased losses [10].

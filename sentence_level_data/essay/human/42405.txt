@@ -1,0 +1,1 @@
+We clustered 21,984,304 total proteins using MMseqs2 with 17,703,911 unique sensory domain sequences, leading to 113,186 clusters that may each respond to unique stimuli.

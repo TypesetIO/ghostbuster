@@ -1,0 +1,1 @@
+Event handling in jQuery is simplified through the use of the .on() method, which allows developers to attach event handlers to selected elements.

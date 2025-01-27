@@ -1,0 +1,1 @@
+This shift towards a more holistic analysis of developer interactions necessitates the development of tailored sentiment analysis frameworks specifically designed for the software engineering domain, which can account for the unique terminologies and collaborative practices inherent in this field [20].

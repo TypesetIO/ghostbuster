@@ -1,0 +1,1 @@
+If FEM analysis had a span time equivalent to that for CFD analysis, then it would play a stronger role in the early definition of an aircraft, and there would be a greater impetus to include it in advanced-design MDO.

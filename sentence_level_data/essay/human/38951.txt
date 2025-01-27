@@ -1,0 +1,1 @@
+Sampling is done in two ways, uniform sampling and non-uniform sampling.

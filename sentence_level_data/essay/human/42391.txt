@@ -1,0 +1,1 @@
+We found that any further truncations of DISC1 from its C-terminal end beyond residue 722, including residue 598 at the Chr1.11translocation point, resulted in expression of insoluble proteins (Figure S3H ), suggesting mutation-induced misfolding of the tetramerization domain.

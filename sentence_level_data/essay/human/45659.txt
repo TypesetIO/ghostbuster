@@ -1,0 +1,1 @@
+Here, we have capitalized on AlphaFold predictions to complement the structural information already available about VPS13 and to generate a full-length model of human VPS13C, the Parkinson's disease-linked VPS13 paralog localized at contacts between the endoplasmic reticulum (ER) and endo/lysosomes.

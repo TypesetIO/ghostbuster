@@ -1,0 +1,1 @@
+This necessitates a reevaluation of the current design paradigms to accommodate the unique aerodynamic characteristics of the BWB.

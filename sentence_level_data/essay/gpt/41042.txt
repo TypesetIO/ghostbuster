@@ -1,0 +1,1 @@
+Future experiments should also consider the effects of scale-up, as the behavior observed in laboratory-scale reactors may not directly translate to larger systems.

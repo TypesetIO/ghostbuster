@@ -1,0 +1,1 @@
+Similar to a bird's wing, an aircraft wing is the lifting surface with the chosen aerofoil section, whose shape/geometry can be varied span wise to search better performance.

@@ -1,0 +1,1 @@
+Recent studies have emphasized the importance of combining optical imagery with synthetic aperture radar (SAR) data to improve classification performance, particularly in heterogeneous landscapes where traditional methods may struggle (Zhang et al., 2021).

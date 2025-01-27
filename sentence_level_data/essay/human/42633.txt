@@ -1,0 +1,1 @@
+Overcurrent: Overcurrent can occur when the current in the system exceeds the design specifications.

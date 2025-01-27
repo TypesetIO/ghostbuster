@@ -1,0 +1,1 @@
+1, 2 n advantage of CMA is that it enables the detection of losses and/or gains of chromosomal material that are submicroscopic, i.e., too small to be detectable by conventional G-banding chromosome analysis, which leads to a significantly increased diagnostic yield of ~10% higher for individuals with unexplained developmental disabilities or congenital anomalies.

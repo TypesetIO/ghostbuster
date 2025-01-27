@@ -1,0 +1,1 @@
+4 Upon presentation of cues predicting food or water, these activity patterns shift over a very short timescale to simulate the future state of quenched or sated (specific to the cue and respective state).

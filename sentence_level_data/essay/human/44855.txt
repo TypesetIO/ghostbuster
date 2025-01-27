@@ -1,0 +1,1 @@
+Specifically, it integrates the Uzawa-Lucas education sector (see Uzawa 1965 and Lucas 1988 ) and the Jones R&D technology into the Grossman-Helpman model of growth through R&D (see Grossman and Helpman 1991, ch.3) .

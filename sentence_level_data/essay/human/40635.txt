@@ -1,0 +1,1 @@
+Con el factor Krc/ estimado y con la ecuación (8.14) se recalcula el Ts requerido para satisfacer el límite de error permisible para estos equipos: 294 Capítulo 8 100 ^td calculada ~io~ 2n/' (8.16) • Paso 3: estimación de la resistencia del devanado secundario.

@@ -1,0 +1,1 @@
+Various studies are reporting that the heart disease diagnosis development based on models of ML can provide the objective of HDPM with improved performance.e 2 publicly available datasets of heart disease such as Cleveland and Statlog are mostly used for comparing the prediction models' performance between researchers.

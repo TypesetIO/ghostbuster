@@ -1,0 +1,1 @@
+The discrepancies observed between the EASM and k−ε model predictions highlight the importance of selecting appropriate turbulence models for accurately simulating mixing processes in stirred tanks.

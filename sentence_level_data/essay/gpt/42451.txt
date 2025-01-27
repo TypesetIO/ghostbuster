@@ -1,0 +1,1 @@
+Additionally, we investigate the angular dependence of the Hall resistivity, which provides insights into the underlying symmetry of the magnetic interactions and the resultant anisotropy in the transport properties.

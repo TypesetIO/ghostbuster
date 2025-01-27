@@ -1,0 +1,1 @@
+Moreover, the set of operating conditions TEI = 80 • C, FFR = 1100 l h − 1 , TCI = 20 • C was not possible to reach in any case when using the module AS7, because of external cooling limitations in the facilities.

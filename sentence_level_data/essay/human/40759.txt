@@ -1,0 +1,1 @@
+We used this scaling to compute the optimism of the scaling asymmetry as β + /(β + + β − ).

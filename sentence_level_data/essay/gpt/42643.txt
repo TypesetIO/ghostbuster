@@ -1,0 +1,1 @@
+Recent studies have indicated that the modulation of immune cell populations, particularly the reduction of myeloid-derived suppressor cells (MDSCs) and regulatory T cells (TRegs), may enhance the efficacy of concurrent immunotherapies, such as checkpoint inhibitors [Author, Year].

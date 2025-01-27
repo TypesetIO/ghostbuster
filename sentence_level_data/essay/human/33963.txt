@@ -1,0 +1,1 @@
+What concerns the elaboration of an obstacle course in a “real-world” simulation, it is essential to ensure the presence of several procedure testing steps that will determine the functionality of a robot.

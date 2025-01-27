@@ -1,0 +1,1 @@
+Therefore, in this paper an attempt has been made to forecast the pattern of death rate in India, over a period of 272 days, spanning a range of 9 months, using Supervised Machine Learning Regression models.

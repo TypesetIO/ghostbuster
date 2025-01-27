@@ -1,0 +1,1 @@
+Additionally, we monitored the training time and inference speed to assess the trade-offs between model complexity and operational efficiency.

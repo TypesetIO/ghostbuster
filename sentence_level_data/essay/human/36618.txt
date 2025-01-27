@@ -1,0 +1,1 @@
+His all-encompassing suggestion to make the predictions better is to use Bayes’ theorem of conditional probability or Bayesian reasoning.

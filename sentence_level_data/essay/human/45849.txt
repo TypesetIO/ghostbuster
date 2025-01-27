@@ -1,0 +1,1 @@
+In general, it can be observed that all experimental time traces first go up to peaks, then decay with time and eventually the tracer concentrations reach equilibrium values, c ∞ , representing the fully mixed condition.

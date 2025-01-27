@@ -1,0 +1,1 @@
+For example, NER research is used for Indonesian news articles [6] .

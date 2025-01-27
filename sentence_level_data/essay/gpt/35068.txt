@@ -1,0 +1,1 @@
+If the two-nucleotide code were in use, each amino acid would have been encoded by multiple codons, increasing the degeneracy of the genetic code.

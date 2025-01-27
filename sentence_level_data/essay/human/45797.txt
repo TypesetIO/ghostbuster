@@ -1,0 +1,1 @@
+The major source of energy consumption arises from the wireless transmission of data among the nodes, which devours more energy as compared to the other operations of sensing and data processing [13] .As nodes are placed far from each other (it can be more than 100 meters), transmitting data over such distance consumes high energy.

@@ -1,0 +1,1 @@
+The encoding stage then compresses the quantized image using various algorithms to reduce its size further.

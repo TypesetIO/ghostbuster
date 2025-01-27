@@ -1,0 +1,1 @@
+The platform also allows viewing, commenting on, and liking posts shared by users that they follow as well as private messaging between users.

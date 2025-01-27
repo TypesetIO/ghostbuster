@@ -1,0 +1,1 @@
+Additionally, we employed data augmentation techniques to artificially increase the number of samples for those families that fell below the established thresholds.

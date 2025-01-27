@@ -1,0 +1,1 @@
+For our purposes, it is convenient to choose ω rf as ω 0 , which eliminates the first term on the righthand side from Equation 4.

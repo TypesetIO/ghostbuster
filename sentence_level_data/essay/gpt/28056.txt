@@ -1,0 +1,1 @@
+It also defines the scope of the implementation, establishing boundaries and project limitations.

@@ -1,0 +1,1 @@
+The first two assumptions are required for the modeling of ECs as spread within a network.

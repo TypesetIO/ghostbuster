@@ -1,0 +1,1 @@
+The WingMOD aerodynamics module certainly leaves something to be desired for analyzing the BWB; however, the speed of this analysis is required to cover the breadth of flight conditions that are essential to performing any multidisciplinary planform optimization.

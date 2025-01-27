@@ -1,0 +1,1 @@
+Due to collision, the data by the collided nodes would be re-transmitted, thus increasing energy consumption.

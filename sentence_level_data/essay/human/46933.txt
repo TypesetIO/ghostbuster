@@ -1,0 +1,1 @@
+En este escenario la principal preocupación y, a la vez, el desafío se traduce en cómo transmitir las señales de banda base de las redes FTTH y de radiofrecuencia (RF) de las redes inalámbricas en una sola longitud de onda sobre una sola fibra de una manera costo-efectiva y con una calidad aceptable.

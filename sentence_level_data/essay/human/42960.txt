@@ -1,0 +1,1 @@
+We find that the primary photoexcitations are strongly bound excitons, which are coupled to the characteristic vibrational modes of the GNRs and decay on an ultrafast (∼200 fs) time scale to a dark state in thermal equilibrium with the emitting state.

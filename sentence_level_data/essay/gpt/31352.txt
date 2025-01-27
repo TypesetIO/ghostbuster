@@ -1,0 +1,1 @@
+Android Studio also includes a built-in Android Emulator, allowing developers to test their applications without the need for physical devices.

@@ -1,0 +1,1 @@
+CFD allows researchers to simulate airflow over various wing geometries, providing insights into the complex interactions between the wing and the surrounding air.

@@ -1,0 +1,1 @@
+This brings a great challenge to the accurate detection of wood defects by the YOLO algorithm.

@@ -1,0 +1,1 @@
+To further elucidate the implications of representativeness errors, it is essential to consider their impact on the accuracy of soil moisture estimates derived from various remote sensing platforms.

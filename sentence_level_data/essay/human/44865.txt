@@ -1,0 +1,1 @@
+This simplification allows us to analyze transitional dynamics (our results are not affected by the introduction of physical capital into the finN-goods production function).

@@ -1,0 +1,1 @@
+In this essay, we will discuss the importance of sampling resolution and quantization in digital processing.

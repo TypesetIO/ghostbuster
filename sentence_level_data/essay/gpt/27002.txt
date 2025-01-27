@@ -1,0 +1,1 @@
+Traditional forecasting methods often rely on a single data source or model, which can lead to biased and overly simplistic predictions.

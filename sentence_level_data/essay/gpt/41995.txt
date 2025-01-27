@@ -1,0 +1,1 @@
+This resilience is particularly critical in applications such as disaster response, where timely and coordinated actions can significantly mitigate risks.

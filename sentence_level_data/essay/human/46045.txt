@@ -1,0 +1,1 @@
+It could also eliminate many standin constraints, for example takeoff speed targets instead of a true field length constraint.

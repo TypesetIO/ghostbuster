@@ -1,0 +1,1 @@
+To further enhance the performance of our proposed IDS system, we integrate the enhanced TSO-based feature selection method with the CNN model, creating a synergistic framework that optimally balances feature extraction and selection.

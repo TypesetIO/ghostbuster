@@ -1,0 +1,1 @@
+Chen et al. [12] employed a deep-level semantic analysis approach that involves dependency parsing, parse tree matching, and semantic M. Li, Z. Fei, M. Zeng, and J. Wang are with the School of Information Science and Engineering, Central South University, Changsha, Hunan 410083, P.R. China.E-mail: {limin, jxwang}@mail.csu.edu.cn,zhihuifei@foxmail.com,zengmin1990@163.com.F.X.

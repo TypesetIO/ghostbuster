@@ -1,0 +1,1 @@
+In this approach, the change in water volume over the oasis (ΔV) cannot be converted to a water depth as a distinction was made between cropped and bare soils.

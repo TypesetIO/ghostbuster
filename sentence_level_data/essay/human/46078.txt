@@ -1,0 +1,1 @@
+Different control modules of BoniRob are connected by Ethernet and communicate using TCP/IP.

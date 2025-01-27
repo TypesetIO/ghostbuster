@@ -1,0 +1,1 @@
+Moreover, the potential for enthalpic overshoot during rapid heating raises questions about the reliability of conventional DSC measurements, particularly in systems with complex thermal histories.

@@ -1,0 +1,1 @@
+La corriente secundaria decreciente, después de la saturación total, se mantendrá en un valor más alto que para los transformadores de corriente tipo TPY, durante el período inicial a considerar (tiempo de reposición de los relés).

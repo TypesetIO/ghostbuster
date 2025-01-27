@@ -1,0 +1,1 @@
+The immutability of data on the blockchain ensures that student records, certifications, and achievements cannot be altered or manipulated.

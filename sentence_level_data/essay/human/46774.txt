@@ -1,0 +1,1 @@
+Because asymmetric encryption is authenticated, the data can only be accessed by the person or organization that is supposed to receive it, which improves IoT security.

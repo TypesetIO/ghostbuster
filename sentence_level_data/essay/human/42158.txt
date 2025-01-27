@@ -1,0 +1,1 @@
+Jérome et al. [2014] extracted opcode sequences from applications and built a detection model with linear SVM.

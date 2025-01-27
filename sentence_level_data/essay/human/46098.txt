@@ -1,0 +1,1 @@
+The jQuery library allows you to select elements in your XHTML by wrapping them in $("") (you could also use single quotes), which is the jQuery wrapper.

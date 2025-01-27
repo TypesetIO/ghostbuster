@@ -1,0 +1,1 @@
+Additionally, we explored the use of synthetic data generation through Generative Adversarial Networks (GANs) to create realistic tumor patches, which can help in balancing the dataset further.

@@ -1,0 +1,1 @@
+A higher sampling resolution results in a more accurate representation of the original signal, as it captures more detail and nuances.

@@ -1,0 +1,1 @@
+Traditional data processing systems rely on a single machine to process large datasets, which can be time-consuming and inefficient.

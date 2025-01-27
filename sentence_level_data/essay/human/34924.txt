@@ -1,0 +1,1 @@
+As a result, the article identifies the main security risks, demonstrates previous attempts to build a ranking model, and suggests developed directions in this area.

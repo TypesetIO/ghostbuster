@@ -1,0 +1,1 @@
+Moreover, computational modeling approaches, such as phase field simulations, can be employed to simulate the evolution of hydride microstructures over time, providing a valuable tool for optimizing alloy compositions and processing conditions to mitigate the risks associated with hydride formation [Author, Year].

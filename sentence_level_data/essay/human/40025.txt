@@ -1,0 +1,1 @@
+In this paper Industrial AI is defined a "systematic discipline focusing on the development, validation, deployment and maintenance of AI solutions (in their varied forms) for industrial applications with sustainable performance."

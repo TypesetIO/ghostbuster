@@ -1,0 +1,1 @@
+Ultimately, the goal is to create a comprehensive framework that not only captures the intricacies of change propagation but also supports decision-making processes throughout the design lifecycle.

@@ -1,0 +1,1 @@
+This fault-tolerance feature eliminates the risk of data loss and ensures uninterrupted processing.

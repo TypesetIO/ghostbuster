@@ -1,0 +1,1 @@
+Specifically, the model was tested against a diverse set of ASL signs, including those with similar hand shapes and movements, to determine its ability to generalize beyond the training data.

@@ -1,0 +1,1 @@
+The staff in charge of the delivery and the client can view the scheduled date and is sent a reminder by the system two days before the actual date.

@@ -1,0 +1,1 @@
+Machine learning algorithms can analyze vast datasets generated from previous casting operations, identifying patterns and correlations that may not be immediately apparent to human engineers.

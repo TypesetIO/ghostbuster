@@ -1,0 +1,1 @@
+This paper focuses on local wind pressures on a square plan and an H-plan shape tall building model under various wind incidence angles.

@@ -1,0 +1,1 @@
+Con este nuevo valor se determina la Eah con base en la siguiente ecuación: Eal=Kssc K[d Rs Is (8.19 )El valor obtenido se divide por el número de espiras del secundario

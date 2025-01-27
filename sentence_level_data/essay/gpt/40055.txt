@@ -1,0 +1,1 @@
+Recent studies have demonstrated that LES can significantly improve the prediction of mixing times and flow patterns in multiphase systems, particularly in configurations where the interaction between phases is critical [Author, Year].

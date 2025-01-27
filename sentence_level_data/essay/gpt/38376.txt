@@ -1,0 +1,1 @@
+Using real-time data and historical usage information, the thermostat provides users with detailed insights into their energy consumption patterns.

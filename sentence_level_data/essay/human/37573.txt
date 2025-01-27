@@ -1,0 +1,1 @@
+The system detects this change and sends an alert message to the client.

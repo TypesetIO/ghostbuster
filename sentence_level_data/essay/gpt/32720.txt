@@ -1,0 +1,1 @@
+NIDS, on the other hand, typically has a higher upfront cost due to the requirement of specialized network appliances.

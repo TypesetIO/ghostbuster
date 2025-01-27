@@ -1,0 +1,1 @@
+It allows for the evaluation and prioritization of multiple criteria, enabling the construction of a safety rating for IoT devices based on predefined security attributes.

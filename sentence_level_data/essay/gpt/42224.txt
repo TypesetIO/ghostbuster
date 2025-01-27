@@ -1,0 +1,1 @@
+These findings not only validate the utility of genome-scale reconstructions in predicting metabolic traits but also emphasize the need for continuous refinement of metabolic models through iterative cycles of experimental validation and computational optimization.

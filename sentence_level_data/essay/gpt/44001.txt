@@ -1,0 +1,1 @@
+Furthermore, incorporating contextual embeddings can help differentiate between transient emotions and persistent team sentiments, providing a more accurate picture of team morale and its impact on project outcomes [18].

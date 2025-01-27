@@ -1,0 +1,1 @@
+As the model undergoes training, the weights are adjusted through optimization algorithms, such as stochastic gradient descent, which minimize the loss function associated with the predictions made by the network.

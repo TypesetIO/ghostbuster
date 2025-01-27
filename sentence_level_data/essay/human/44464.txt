@@ -1,0 +1,1 @@
+Under idle mode, the COV IMEP values were approximately 2.4%, 1.5%, 2.6%, 2.7%, and 7% for D, D GNP , BF, BF GNP , and BF GNP15H , respectively.

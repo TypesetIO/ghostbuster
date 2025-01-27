@@ -1,0 +1,1 @@
+There are a total of 179 constant-abundance OTUs, 172 constant-activity OTUs, and 275 proliferating OTUs.

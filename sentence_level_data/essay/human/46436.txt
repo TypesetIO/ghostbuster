@@ -1,0 +1,1 @@
+These mixed findings may be the result of using task response times to calculate attentional bias scores in a manner that rests on the assumption that the expression of ABT is stable over time (i.e., bias toward, or away, from threat stimuli at a constant rate over time).

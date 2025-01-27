@@ -1,0 +1,1 @@
+In addition to the hydrogen-bonding amino-acid residues identified in the initial extra-precision docking, MM-GBSA spotted extra others in glucocorticoid-receptor binding, which included Gln 642 as well as Gln 570 , that also participate in the water-induced hydrogen-bonding network (Figure 10A ).

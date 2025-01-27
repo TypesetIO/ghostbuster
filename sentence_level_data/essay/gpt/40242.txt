@@ -1,0 +1,1 @@
+Furthermore, the performance of NER systems can be enhanced through the integration of contextual information, which allows models to better understand the nuances of language and improve entity classification accuracy [12].

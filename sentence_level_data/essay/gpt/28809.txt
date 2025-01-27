@@ -1,0 +1,1 @@
+Smart contracts, built on blockchain, can automate administrative tasks such as enrollment, record-keeping, and fee payments.

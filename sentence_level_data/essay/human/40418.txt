@@ -1,0 +1,1 @@
+This classification system is compared using an accuracy score and a confusion matrix.

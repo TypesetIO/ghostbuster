@@ -1,0 +1,1 @@
+Shadab et al. use the technique of NB data mining for supporting the users to know the answers for predefined questions in the application of web based.

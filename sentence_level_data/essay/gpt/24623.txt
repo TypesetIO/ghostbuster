@@ -1,0 +1,1 @@
+Identifying and rectifying shortcomings before real-world deployment increases the overall reliability and safety of robots.

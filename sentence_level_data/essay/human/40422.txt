@@ -1,0 +1,1 @@
+In [6] opinion mining uses decision treebased feature selection methods for heart disease prediction with lesser number of features and the experimental results are more accurate.

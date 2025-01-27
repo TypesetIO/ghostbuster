@@ -1,0 +1,1 @@
+Para abordar esta cuestión, se están desarrollando convertidores que permiten la adaptación de las señales digitales generadas por los nuevos transformadores a los formatos requeridos por los equipos convencionales, facilitando así su implementación en redes eléctricas actuales.

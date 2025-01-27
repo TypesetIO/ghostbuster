@@ -1,0 +1,1 @@
+Although the standard k−ε model is widely used, such a model is incapable of describing the turbulence anisotropy which is commonly encountered in the impeller region and the impeller stream in stirred tanks.

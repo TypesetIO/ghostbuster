@@ -1,0 +1,1 @@
+Conversely, centralized approaches, while potentially more accurate due to the aggregation of all available data, may suffer from bottlenecks at the base station, particularly in scenarios with high data throughput or when operating in real-time.

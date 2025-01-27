@@ -1,0 +1,1 @@
+Another organizational structure is the matrix structure, which combines elements of both hierarchy and flat structures.

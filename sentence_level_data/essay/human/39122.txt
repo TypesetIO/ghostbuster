@@ -1,0 +1,2 @@
+Oxidase Test
+Oxidase test was done to ascertain if bacteria under test produced the enzyme cytochrome oxidase.

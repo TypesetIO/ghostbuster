@@ -1,0 +1,1 @@
+This phenomenon can be quantitatively described by considering the phonon density of states, which influences the relaxation rates through the coupling constants associated with the Zeeman and hyperfine interactions.

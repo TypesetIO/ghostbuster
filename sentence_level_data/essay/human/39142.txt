@@ -1,0 +1,2 @@
+Kirby-Bauer (Antibiotic Sensitivity) Test
+Kirby-Bauer test is used for ascertaining the choice of antibiotics to be used when treating an infection.

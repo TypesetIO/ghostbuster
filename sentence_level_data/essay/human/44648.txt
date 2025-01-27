@@ -1,0 +1,1 @@
+In this study, we chose Covariance-based SEM (CB-SEM), andusedSmartPLS.

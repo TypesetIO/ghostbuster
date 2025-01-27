@@ -1,0 +1,1 @@
+Because we did not restrict inclusion in meta-analysis based on EPHPP ratings, the tool's arbitrary quantification of confounding does not affect our metaanalytic results.

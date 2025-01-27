@@ -1,0 +1,1 @@
+Object position, object identity, spatial boundaries, and the position of the agent in the room (place field activity) are encoded into memory in MTL.

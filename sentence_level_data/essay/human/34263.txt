@@ -1,0 +1,1 @@
+Focusing on the data coming in real time, such a model will be able to build the optimal route with much higher accuracy and calculate the ideal delivery time.

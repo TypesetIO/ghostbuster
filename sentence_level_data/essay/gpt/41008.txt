@@ -1,0 +1,1 @@
+The presence of periodic flows suggests a level of predictability that can be leveraged for anomaly detection; however, the identification of non-periodic flows raises concerns regarding potential security threats or operational disruptions.

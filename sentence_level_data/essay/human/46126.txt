@@ -1,0 +1,1 @@
+Catabolism of branched-chain amino acids (BCAA) is regulated by BCKD, which is feedback inhibited by acyl-CoA products of the complex due to activation of its inhibitory kinase, BCK.

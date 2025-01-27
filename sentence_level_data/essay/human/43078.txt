@@ -1,0 +1,1 @@
+These antennas need to have a maximum gain, more than 23 dB, while the radiating efficiency of more than 65 % for resonance frequencies between 108.

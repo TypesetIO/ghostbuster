@@ -1,0 +1,1 @@
+In [18] , several spatiotemporal feature extraction techniques that could be used to recognize isolated ArSL both offline and online were introduced.

@@ -1,0 +1,1 @@
+Furthermore, the integration of intuitionistic fuzzy sets allows for the representation of both membership and non-membership degrees, providing a more nuanced view of uncertainty and enhancing the decision-making process.

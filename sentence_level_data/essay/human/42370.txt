@@ -1,0 +1,1 @@
+To further reduce the complexity, only two precursor-based seedless hydrothermal growth method is explored.

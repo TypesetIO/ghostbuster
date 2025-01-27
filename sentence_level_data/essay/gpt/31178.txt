@@ -1,0 +1,1 @@
+These algorithms, although developed with the intention of enhancing security and efficiency, suffer from inherent biases that disproportionately affect racialized minorities and perpetuate social inequalities.

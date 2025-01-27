@@ -1,0 +1,1 @@
+Additionally, the role of temperature in modulating these interactions cannot be overlooked; as thermal vibrations increase, they can lead to dynamic changes in the orbital overlap, potentially resulting in a temperature-dependent transition between insulating and metallic states.

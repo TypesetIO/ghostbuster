@@ -1,0 +1,1 @@
+The porous STL file is then voxelized into several cubic cells (Aitkenhead, 2013) prior to the generation of the porous cells in a custom script (Dumas et al., 2017) .(3)

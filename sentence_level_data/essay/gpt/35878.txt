@@ -1,0 +1,1 @@
+This allows Farcargo to efficiently allocate processing power, memory, and storage based on real-time requirements.

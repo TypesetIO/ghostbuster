@@ -1,0 +1,1 @@
+To accurately detect wood surface defects while meeting the application requirements of factories, the YOLOv7 [19] was selected as the overall network model framework in this paper.

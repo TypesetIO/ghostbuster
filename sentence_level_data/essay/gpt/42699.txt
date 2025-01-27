@@ -1,0 +1,1 @@
+The evolution of M can be significantly influenced by the choice of the temporal shape function f(t), which dictates how the gradient is applied over time.

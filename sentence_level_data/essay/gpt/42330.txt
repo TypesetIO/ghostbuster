@@ -1,0 +1,1 @@
+The use of ensemble learning methods, which combine multiple models to improve prediction accuracy, has also gained traction in recent research, demonstrating superior performance in complex agricultural environments [Author, Year].

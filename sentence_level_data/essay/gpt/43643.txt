@@ -1,0 +1,1 @@
+For instance, the implementation of renewable energy sources, such as solar panels and wind turbines, can be effectively modeled to evaluate their potential contributions to the energy mix of a city (Liu et al., 2020).

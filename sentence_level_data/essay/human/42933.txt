@@ -1,0 +1,1 @@
+Chimeric antigen receptor T cells also lack molecular specificity for cancer as their engineered affinities generally recognise wild-type antigens expressed on non-transformed cells as well as transformed cells, potentially leading to on-target, offtumour toxicity (e.g.CD19 is expressed on both the malignant and healthy B-cell lineage).

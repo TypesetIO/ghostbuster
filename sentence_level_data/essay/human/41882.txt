@@ -1,0 +1,1 @@
+Azari et al. [17] proposed an optimization method, combining MOGA with eQuest software, to explore the optimal building envelope design regarding energy consumption and life cycle contribution to environmen-tal impacts.

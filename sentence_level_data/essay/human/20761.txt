@@ -1,0 +1,1 @@
+"Simple planetary system orbiting an F-class star.

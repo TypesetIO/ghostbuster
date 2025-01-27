@@ -1,0 +1,1 @@
+Both volumes are then converted into triangularly tessellated surface models (STL file) for further processing.(2) Next, the porous STL model is imported into the MATLAB software environment (Johnson, 2008) , and the desired pore size and strut thickness are specified.

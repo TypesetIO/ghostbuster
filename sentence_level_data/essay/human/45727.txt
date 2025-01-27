@@ -1,0 +1,1 @@
+Despite their many advantages, these tools provide limited support for curation against manually refined genome annotations and experimental data from peer-reviewed literature.

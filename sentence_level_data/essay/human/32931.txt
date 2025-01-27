@@ -1,0 +1,1 @@
+This is because the Japanese language uses characters that appear much more compact than English words.

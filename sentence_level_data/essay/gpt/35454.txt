@@ -1,0 +1,1 @@
+These include tumor size and stage, grade (differentiation of cancer cells), lymph node involvement, and the presence of specific biomarkers like human epidermal growth factor receptor 2 (HER2) or hormone receptors (estrogen or progesterone).

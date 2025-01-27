@@ -1,0 +1,1 @@
+The guidelines for estimating the wind loads on tall buildings in current design codes and standards are generally available for regular and symmetric shapes only.

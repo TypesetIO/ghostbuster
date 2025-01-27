@@ -1,0 +1,1 @@
+The number of possible materials that can sustain a LSPR is virtually infinite, since there are many possible ways to achieve a population of free carriers in a nanosized material.

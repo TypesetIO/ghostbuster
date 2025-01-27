@@ -1,0 +1,1 @@
+Before Topic 606 was implemented, it was impossible to recognize revenues based on a claim.

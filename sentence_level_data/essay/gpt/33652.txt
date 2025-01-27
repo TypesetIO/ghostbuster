@@ -1,0 +1,1 @@
+Hadoop's flexible architecture enables it to ingest, process, and analyze various data formats, making it suitable for a wide range of applications.

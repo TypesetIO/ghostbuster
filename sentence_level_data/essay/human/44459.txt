@@ -1,0 +1,1 @@
+The dual fuel mode had a higher COV IMEP value than the diesel mode for all load conditions, which could be due to the introduction of hydrogen through the intake manifold, leading to a less stable IC engine.

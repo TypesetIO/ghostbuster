@@ -1,0 +1,1 @@
+Mineck et al. [4] tested three planar, untwisted wings with the same elliptical chord but with different curvatures of the quarter-chord line.

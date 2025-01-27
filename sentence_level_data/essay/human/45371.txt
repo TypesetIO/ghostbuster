@@ -1,0 +1,1 @@
+The proposal of intuitionistic fuzzy entropy by Burillo and Bustince [4] caused the researchers across the world to introduce the information measures from their viewpoints (see Joshi and Kumar [15] , Joshi and Kumar [20] , Joshi and Kumar [21] , Joshi [22] , Joshi and Kumar [23] ).

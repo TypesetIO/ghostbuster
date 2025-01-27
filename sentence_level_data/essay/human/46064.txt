@@ -1,0 +1,1 @@
+Such a vision system should be able to recognize the accurate position of the plant stem and protects it during the weed control [120] .A near-ground image capturing and processing technique to detect broad-leaved weeds in cereal crops under actual field conditions has been reported in the work of [121].

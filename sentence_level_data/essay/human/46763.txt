@@ -1,0 +1,1 @@
+Once the data reach the cloud, software analyzes them and may decide to take action, such as sending an alarm or automatically altering the sensors/devices without the need for the user's intervention.

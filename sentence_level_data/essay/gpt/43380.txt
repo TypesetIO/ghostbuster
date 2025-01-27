@@ -1,0 +1,1 @@
+For instance, if the ground measurements are taken from a localized area that does not adequately capture the spatial variability of soil moisture within the grid cell, the resulting validation may yield misleading conclusions about the performance of the satellite product.

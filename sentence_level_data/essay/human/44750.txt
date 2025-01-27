@@ -1,0 +1,1 @@
+As the systems-theoretic approach can deal with the state space explosion which is the limitation of the event chain method, it could be an appropriate way to model the relationship between safety and security which can efficiently perform the comprehensive assessment of safety and security.

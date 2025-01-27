@@ -1,0 +1,1 @@
+Sin embargo, la integración de estos dispositivos en las infraestructuras existentes presenta desafíos técnicos, especialmente en lo que respecta a la compatibilidad con los sistemas de protección y medición que dependen de señales analógicas.

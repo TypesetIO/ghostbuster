@@ -1,0 +1,1 @@
+The selection of features is particularly crucial in medical datasets, where the number of features often exceeds the number of samples, leading to the curse of dimensionality.

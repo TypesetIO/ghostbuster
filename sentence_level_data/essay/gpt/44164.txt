@@ -1,0 +1,1 @@
+Furthermore, the incorporation of recurrent neural networks (RNNs) has been suggested to capture the temporal dynamics of sign language, enabling the model to learn from sequential data more effectively.

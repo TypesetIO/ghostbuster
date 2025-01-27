@@ -1,0 +1,1 @@
+Farcargo's information system seamlessly interacts with external systems, allowing for efficient collaboration and information exchange.

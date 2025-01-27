@@ -1,0 +1,1 @@
+However, further research is needed to optimize the design and performance of IoTbased robotic cleaners for PV panel cleaning and to evaluate their cost-effectiveness compared to traditional cleaning methods [23] .The use of IoT-based robotic cleaners in the cleaning and monitoring of photovoltaic (PV) panels has been gaining momentum in recent years.

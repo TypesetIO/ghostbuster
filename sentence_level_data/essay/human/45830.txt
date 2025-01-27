@@ -1,0 +1,1 @@
+The inputs to the PID Controller block are the errors between the computed wheel velocities from the IK block and the real wheel velocities measured by the encoders.

@@ -1,0 +1,1 @@
+Garcia et al. [2018] proposed a lightweight and obfuscation-Resilient approach to implement the detection and family classification of Android malware.

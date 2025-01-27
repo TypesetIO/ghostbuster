@@ -1,0 +1,1 @@
+This aspect of union membership is often overlooked in traditional analyses, which tend to emphasize conflict over cooperation.

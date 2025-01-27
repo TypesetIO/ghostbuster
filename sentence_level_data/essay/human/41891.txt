@@ -1,0 +1,1 @@
+Yang et al. [22] presented an optimization approach, web-based parallel GA using a high-speed distributed computing environment, to reduce the computational time of complex building energy optimization applications.

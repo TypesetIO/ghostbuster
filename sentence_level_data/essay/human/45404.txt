@@ -1,0 +1,1 @@
+Such a path implies that an element affects itself through a number of intermediate elements which act as impact forwarders.

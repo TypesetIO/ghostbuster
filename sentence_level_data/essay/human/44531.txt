@@ -1,0 +1,1 @@
+The yellow regions indicate the 2D segmentation outcome, and red lines are the resulting smooth centerlines along the interface.

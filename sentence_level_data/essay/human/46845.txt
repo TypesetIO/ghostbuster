@@ -1,0 +1,1 @@
+Both the assembler and supervisor will take turn to place the component into the chassis as some components are accessible to only either the assembler or the supervisor.

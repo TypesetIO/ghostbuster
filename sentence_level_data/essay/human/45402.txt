@@ -1,0 +1,1 @@
+A cyclic path is a path which includes at least one element twice or more.

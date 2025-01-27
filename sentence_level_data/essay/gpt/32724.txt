@@ -1,0 +1,1 @@
+For example, a NIDS alert about a potential network-based attack can be further investigated using HIDS to analyze the affected host's system logs and integrity.

@@ -1,0 +1,1 @@
+Many times end-point studies alone are used because monitoring changes overtime in a chip is challenging and many methods of detecting cellular changes involve terminating the cells.

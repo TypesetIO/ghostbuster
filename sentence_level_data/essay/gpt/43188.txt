@@ -1,0 +1,1 @@
+These methods allow for the synthesis of multiple models, thereby capturing a wider range of representativeness errors and enhancing the reliability of soil moisture estimates.

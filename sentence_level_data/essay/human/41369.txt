@@ -1,0 +1,1 @@
+In Newtonian fluids, however, fluid viscosity is independent of the shear rate.

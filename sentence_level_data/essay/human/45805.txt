@@ -1,0 +1,1 @@
+Efficient data aggregation is necessary for reducing energy consumption, as an effective aggregation mechanism will reduce the amount of data to be transmitted to the base station, thus leading to high energy saving [15] .

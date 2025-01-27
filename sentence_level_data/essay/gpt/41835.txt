@@ -1,0 +1,1 @@
+Future work will focus on optimizing the synthesis of GNR-AHMs to further improve their optical properties and exploring their integration into device architectures.

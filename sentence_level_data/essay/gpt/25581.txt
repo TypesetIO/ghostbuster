@@ -1,0 +1,1 @@
+The Analytical Hierarchy Process (AHP) provides a valuable method for constructing safety ratings for IoT devices, allowing end-users to make informed decisions based on predefined security attributes.

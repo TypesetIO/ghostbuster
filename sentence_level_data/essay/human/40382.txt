@@ -1,0 +1,1 @@
+With the introduction of NE, the MUC conference has helped to advance the field of information extraction [1] .NE refers to a proper name that designates a person, location, or organization.

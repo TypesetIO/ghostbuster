@@ -1,0 +1,1 @@
+En viktig aspekt av denna utveckling är att säkerställa att de algoritmer som används är transparenta och reproducerbara, vilket är avgörande för att bygga förtroende bland användare och intressenter inom jordbruket.

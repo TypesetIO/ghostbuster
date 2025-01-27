@@ -1,0 +1,1 @@
+In [19], a novel CNN architecture was proposed specifically for ArSL recognition, which utilized a combination of spatial and temporal features derived from video sequences.

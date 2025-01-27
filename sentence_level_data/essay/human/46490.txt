@@ -1,0 +1,1 @@
+Their method is a two step algorithm that iterates between estimating the baseline cumulative hazard function using the Breslow estimator and estimating the model coefficients by maximizing the full log likelihood.

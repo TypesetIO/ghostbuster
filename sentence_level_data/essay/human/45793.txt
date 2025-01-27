@@ -1,0 +1,1 @@
+Energy in wireless sensor networks is a parameter that has instigated extensive investigations from researchers across the world.

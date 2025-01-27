@@ -1,0 +1,1 @@
+The data set consists of 98 patients, who were examined in a previous study due to mucous membrane abnormalities in the area of the upper aerodigestive tract [3] .Data acquisition was performed as described by Gerstner et al. [8] at the department of otorhinolaryngology at the University of Bonn.

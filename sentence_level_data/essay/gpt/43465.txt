@@ -1,0 +1,1 @@
+The water balance equation is fundamental to understanding the hydrological processes simulated by the SWAT model, as it encapsulates the interactions between precipitation, evaporation, surface runoff, and groundwater flow.

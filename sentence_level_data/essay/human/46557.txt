@@ -1,0 +1,1 @@
+Because plant growth and biomass production can have an effect on the water balance, erosion, and nutrient yields, reasonable local/regional plant growth days and biomass production should be verified during model calibration to the extent possible [22] .

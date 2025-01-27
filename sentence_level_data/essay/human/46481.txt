@@ -1,0 +1,1 @@
+The Cox (1972) proportional hazards model is the most commonly applied semiparametric regression model for assessing the effect of covariates on the hazard ratio using censored survival data.

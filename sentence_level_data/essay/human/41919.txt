@@ -1,0 +1,1 @@
+This effect should be effectively identical for all the samples because the heating rate was identical for each (2 K/min.).

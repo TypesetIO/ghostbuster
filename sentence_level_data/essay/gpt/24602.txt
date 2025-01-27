@@ -1,0 +1,1 @@
+This process involves creating a virtual environment that mimics real-world challenges, allowing the robot to navigate obstacles and complete complex tasks.

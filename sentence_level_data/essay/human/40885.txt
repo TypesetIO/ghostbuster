@@ -1,0 +1,1 @@
+Denna avhandling presenterar en ensemble av dedikerade prisvärda fenotypningsmetoder som använder RGB-avbildning för en rad nyckelapplikationer under kontrollerade förhållanden för att överkomma dessa hinder.

@@ -1,0 +1,1 @@
+A combined method of color and shape features for sugar beet weed segmentation was proposed by [98] with a 90% success rate in classification.

@@ -1,0 +1,1 @@
+Analyzes small sections of the genome, such as single genes or gene mutations.

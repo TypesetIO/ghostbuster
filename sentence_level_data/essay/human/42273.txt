@@ -1,0 +1,1 @@
+For example, Hojjat [6] examined the behavior of nanofluids as coolants in an STHE using the artificial neural network (ANN) and multi-objective optimization (MOP) to forecast the thermo-hydrodynamic treatment of Newtonian nanofluids.

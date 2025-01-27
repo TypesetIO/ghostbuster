@@ -1,0 +1,1 @@
+AI systems are trained using vast amounts of historical data, including resumes and employment records, which inherently inherit human biases.

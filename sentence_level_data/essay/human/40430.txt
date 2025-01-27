@@ -1,0 +1,1 @@
+To obtain a better accuracy disease prediction result by overcoming the drawbacks we proposed a hybrid model by combine the modified PSO algorithm with SVM.

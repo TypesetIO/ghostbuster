@@ -1,0 +1,1 @@
+Moreover, R's strong emphasis on reproducibility and transparency in research is exemplified by tools such as R Markdown and Shiny, which facilitate the creation of dynamic reports and interactive web applications, respectively (Pothigai & Sundararajan, 2021).

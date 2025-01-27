@@ -1,0 +1,1 @@
+Development of an autonomous weeding machine requires a vision system capable of detecting and locating the position of the crop.

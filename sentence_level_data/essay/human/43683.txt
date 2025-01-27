@@ -1,0 +1,1 @@
+With the help of possible recurrence of each TAR pattern with relevant patient history, an 82% accuracy is obtained.

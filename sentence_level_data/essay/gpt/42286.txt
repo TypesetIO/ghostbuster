@@ -1,0 +1,1 @@
+For instance, the use of ensemble methods like AdaBoost and Gradient Boosting Machines (GBM) has demonstrated superior results in various studies, achieving accuracy rates exceeding 85% in heart disease prediction tasks [Author, Year].

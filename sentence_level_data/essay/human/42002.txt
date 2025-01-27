@@ -1,0 +1,1 @@
+PFC provides a feature-based top-down bias to V4/IT neurons and information about object identity to PRo neurons, which are part of spatial long-term memory in MTL (blue).

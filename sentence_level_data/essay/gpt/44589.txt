@@ -1,0 +1,1 @@
+As systems evolve, the demand for more efficient encoding methods becomes paramount, prompting researchers to explore novel approaches that balance efficiency with security.

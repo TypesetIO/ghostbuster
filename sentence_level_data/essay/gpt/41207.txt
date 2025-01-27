@@ -1,0 +1,1 @@
+The feedback loop established between MTL and PFC during memory recall serves to reinforce the relevance of previously encoded spatial information, allowing for adaptive behavior in response to changing contexts.

@@ -1,0 +1,1 @@
+This enzyme removes the carboxyl group from 5-HTP, resulting in the final product, serotonin.

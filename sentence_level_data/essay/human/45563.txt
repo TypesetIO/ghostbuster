@@ -1,0 +1,1 @@
+By integrating S-HorBlock into both the Backbone and Head components of the YOLO network, the model gains a more refined ability to differentiate between various types of defects.

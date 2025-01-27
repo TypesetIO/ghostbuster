@@ -1,0 +1,1 @@
+Although thousands of differentially expressed genes have been identified in post-mortem samples, it is generally not possible to disentangle the effects of genetic differences from the effects of confounding factors such as differences in diet, environment, cell type abundances, age, post-mortem interval, etc.

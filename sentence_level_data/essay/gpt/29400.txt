@@ -1,0 +1,1 @@
+This process involves reducing the number of bits used to represent each color component (e.g., red, green, and blue) to a lower precision level.

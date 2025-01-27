@@ -1,0 +1,1 @@
+Among all of them, SVM and MLP outperformed the others and the authors implemented an SVM + SVM algorithm that achieved slightly higher accuracy than SVM and MLP models.

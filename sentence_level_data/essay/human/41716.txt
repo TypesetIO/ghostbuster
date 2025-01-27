@@ -1,0 +1,1 @@
+In contrast, MMS is a typical distributed control system (DCS) protocol, which supports advanced commands that enable tight integration with closed process control loops.

@@ -1,0 +1,1 @@
+This resulted in a stable cycling performance (155 mAh/g after 2500 cycles) and an initial charge capacity of 398 mAh/g with an ICE of 52.03%.

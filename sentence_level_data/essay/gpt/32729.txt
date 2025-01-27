@@ -1,0 +1,1 @@
+Logs can be used for forensic investigations, incident response, and to identify areas where security defenses need improvement.

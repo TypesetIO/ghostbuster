@@ -1,0 +1,1 @@
+Pereira et al. [13] proposed a text mining approach by using processed electronic medical records based on K-Nearest Neighbor classifier.

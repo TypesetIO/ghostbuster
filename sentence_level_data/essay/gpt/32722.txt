@@ -1,0 +1,1 @@
+Although both HIDS and NIDS have their unique advantages and disadvantages, using them together can significantly enhance security measures.

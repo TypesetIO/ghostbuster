@@ -1,0 +1,1 @@
+Each agent, regardless of it being operational in a centralized base station or on an individual sensor, is programmed with a local model of expected readings from its environment.

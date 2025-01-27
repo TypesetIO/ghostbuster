@@ -1,0 +1,1 @@
+Usually wind turbines are connected to power grids via power electronics interfaces such as inverters and converters, and they have very low system inertia compared to the conventional power generators [1] .

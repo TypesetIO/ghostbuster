@@ -1,0 +1,1 @@
+This collaboration can mitigate the bullwhip effect, a phenomenon where small changes in consumer demand lead to larger fluctuations in orders placed upstream [9].

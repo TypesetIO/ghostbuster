@@ -1,0 +1,1 @@
+To this end, a number of qualitative studies have been conducted towards identifying factors that influence code review usefulness including, among others, the textual characteristics of the review comments [3] , [24] , [14] .

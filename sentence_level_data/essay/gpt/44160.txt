@@ -1,0 +1,1 @@
+Building upon the advancements in feature extraction techniques for Arabic Sign Language (ArSL) recognition, recent studies have explored the integration of deep learning methodologies to enhance the accuracy and robustness of these systems.

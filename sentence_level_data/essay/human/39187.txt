@@ -1,0 +1,1 @@
+During ornithine decarboxylase test on #43, it was observed that the color changed from yellow to purple showing that glucose present was used by the microbe to cause pH drop thereby activating ornithine decarboxylase enzyme.

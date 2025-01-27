@@ -1,0 +1,1 @@
+In the text, "full-length" proteins contain all sensory domains and conserved domains, while "sensor" references just the sensor domain of the HK protein.

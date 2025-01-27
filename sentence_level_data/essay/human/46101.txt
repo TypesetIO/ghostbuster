@@ -1,0 +1,1 @@
+Here are some examples: $(":animated"); // selects elements currently being animated $(":button"); // selects any button elements (inputs or buttons) $(":radio"); // selects radio buttons $(":checkbox"); // selects checkboxes $(":checked"); // selects checkboxes or radio buttons that are selected $(":header"); // selects header elements (h1, h2, h3, etc.)

@@ -1,0 +1,1 @@
+By incorporating GIS data, users can better delineate watersheds, identify sub-basins, and assess the impact of various land management practices on hydrological processes.

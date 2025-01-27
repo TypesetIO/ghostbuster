@@ -1,0 +1,1 @@
+Furthermore, it should include a function that will enable a sufficient level of communication with the receivers.

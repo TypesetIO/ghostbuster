@@ -1,0 +1,4 @@
+and files to usable genomes
+SYNOPSIS
+dna [-adho] [-t | -w] [-L linkpath] [-O outputdevice]
+[-m arch [: machine]] [-p [eprtv]] filename...

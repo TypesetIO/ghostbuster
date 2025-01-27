@@ -1,0 +1,1 @@
+For instance, in the healthcare industry, BI can be used to analyze data from various sources to identify patterns associated with fall-related injuries in elderly patients, such as medication side effects, environmental factors, or pre-existing health conditions.

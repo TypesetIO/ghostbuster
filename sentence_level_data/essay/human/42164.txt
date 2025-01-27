@@ -1,0 +1,1 @@
+Avdiienko et al. [2015] investigated the data flow of benign Android applications to distinguish the difference between the sensitive data manipulation of benign and malicious Android applications.

@@ -1,0 +1,1 @@
+Named entity recognition (NER) is a procedure that finds, extracts, and automatically classifies named entities from open domains and unstructured texts such as newspaper articles.

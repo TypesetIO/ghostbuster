@@ -1,0 +1,1 @@
+By calculating the EOQ, companies can strike a balance between the costs associated with ordering too frequently and the costs incurred from holding excess inventory.

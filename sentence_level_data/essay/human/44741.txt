@@ -1,0 +1,1 @@
+As the human factor is the main difference between safety and security, it is hard to model the human factor including the motivation, attack cost, probability of success of a given attack and the likelihood that an attacker will try a given attack.

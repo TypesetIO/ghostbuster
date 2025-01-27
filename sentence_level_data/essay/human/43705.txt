@@ -1,0 +1,1 @@
+A proper calculation in terms of levelized cost of water (depending on the thermal and electric costs) should be done to determine the optimal FFR.

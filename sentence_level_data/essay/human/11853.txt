@@ -1,0 +1,1 @@
+The ticking line moves five times between each number.

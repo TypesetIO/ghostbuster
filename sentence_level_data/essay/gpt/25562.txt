@@ -1,0 +1,1 @@
+For organizations, the consequences can be even more severe, as a single vulnerable IoT device can provide an entry point for hackers to launch attacks on critical systems or networks.

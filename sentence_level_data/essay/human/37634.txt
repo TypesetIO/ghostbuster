@@ -1,0 +1,2 @@
+Implementation Support
+During the implementation of the Farcargo information system, support from elements such as software, hardware, facilities, materials, equipment, and personnel shall be required.

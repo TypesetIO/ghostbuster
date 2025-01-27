@@ -1,0 +1,1 @@
+Previous studies have used filters, position, or voltage observers to address these issues, but this can increase system cost and instability.

@@ -1,0 +1,1 @@
+Furthermore, the stability of acoustic-based approaches is vulnerable to ambient noise and surrounding sound interferences, and the sensing range is also limited due to the fast attenuation of acoustic signals.

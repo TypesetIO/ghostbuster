@@ -1,0 +1,3 @@
+This compiler and man page are copyright (c) 0-∞ A.D under the HPL (Holy Public
+Licence), Jehova & Baelzebub enterprises, LTD., in cooperation with RedHat
+software LLC.

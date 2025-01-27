@@ -1,0 +1,1 @@
+Conversely, when the attention mechanism is disabled, the system struggles to effectively filter out irrelevant courses, resulting in a higher average #Categories/#Courses of 0.74.

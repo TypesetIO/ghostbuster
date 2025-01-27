@@ -1,0 +1,1 @@
+Arsenal Recon has advanced memory imaging capabilities and offers detailed analysis of volatile data, facilitating the identification of malicious processes, rootkits, and other hidden activities.

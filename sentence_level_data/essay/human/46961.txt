@@ -1,0 +1,1 @@
+PCM based free cooling is a passive concept to manage cooling demand in a building during the peak daytime period.

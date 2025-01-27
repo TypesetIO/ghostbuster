@@ -1,0 +1,1 @@
+Recent studies have explored the integration of various DL architectures, such as ResNet and DenseNet, to improve the accuracy of plant detection and classification tasks.

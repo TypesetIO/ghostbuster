@@ -1,0 +1,1 @@
+Moreover, strain-resolved positive and negative metabolite uptake and secretion data for 676 AGORA2 strains and 220 metabolites, and positive and negative enzyme activity data for 881 AGORA2 strains and 31 enzymes, were retrieved from the BacDive database 33 .

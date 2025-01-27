@@ -1,0 +1,1 @@
+It is noted that the difference between the two grids of 48 Â 192 Â 96 and 48 Â 240 Â 150 is very small, suggesting that further grid refinement would have no obvious effect on the solution.
